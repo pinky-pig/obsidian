@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b0599cdb3ea69447",
+        "id": "79a49034f965d484",
         "type": "tabs",
         "children": [
           {
-            "id": "91faa0459b903954",
+            "id": "082047da8661deed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "个人知识体系图谱.canvas",
+                "viewState": {
+                  "x": -234,
+                  "y": 53,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -61,12 +68,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "right": {
     "id": "4f18322c320d6c6c",
@@ -82,10 +88,11 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "个人知识体系图谱.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -98,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "个人知识体系图谱.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,15 +127,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "个人知识体系图谱.canvas"
+              }
+            }
+          },
+          {
+            "id": "5d2e5dd7c86eb87f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,8 +157,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5088954fbabcd5c5",
+  "active": "082047da8661deed",
   "lastOpenFiles": [
-    "个人知识体系图谱.canvas"
+    "个人知识体系图谱.canvas",
+    "未命名.md",
+    "未命名"
   ]
 }
