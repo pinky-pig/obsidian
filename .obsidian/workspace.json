@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "79a49034f965d484",
+        "id": "567326b61034b532",
         "type": "tabs",
         "children": [
           {
-            "id": "082047da8661deed",
+            "id": "7749e85b741172d2",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "个人知识体系图谱.canvas",
                 "viewState": {
-                  "x": -234,
-                  "y": 53,
+                  "x": -36,
+                  "y": -6,
                   "zoom": 0
                 }
               }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "4f18322c320d6c6c",
@@ -157,9 +158,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "082047da8661deed",
+  "active": "7749e85b741172d2",
   "lastOpenFiles": [
     "个人知识体系图谱.canvas",
+    "README.md",
     "未命名.md",
     "未命名"
   ]

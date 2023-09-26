@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"eb9d393fa80fd055","x":-440,"y":-40,"width":140,"height":60,"type":"text","text":"待做技能树"},
-		{"id":"6566580dfe99a72b","x":-160,"y":-160,"width":272,"height":60,"type":"text","text":"测试（jest、vitest、cypress）"},
-		{"id":"0e827a0bc7ffb069","x":-160,"y":-40,"width":272,"height":60,"type":"text","text":"构建工具（vite、rollup）"},
-		{"id":"bb63750bb4404eb6","x":-160,"y":80,"width":272,"height":60,"type":"text","text":"服务端，数据库"}
+		{"id":"eb9d393fa80fd055","type":"text","text":"待做技能树","x":-440,"y":-40,"width":140,"height":60},
+		{"id":"6566580dfe99a72b","type":"text","text":"测试（jest、vitest、cypress）","x":-160,"y":-160,"width":280,"height":60},
+		{"id":"0e827a0bc7ffb069","type":"text","text":"构建工具（vite、rollup）","x":-160,"y":-40,"width":280,"height":60},
+		{"id":"bb63750bb4404eb6","type":"text","text":"服务端，数据库","x":-160,"y":80,"width":280,"height":60}
 	],
 	"edges":[
 		{"id":"8d9bd144e1dcfadb","fromNode":"eb9d393fa80fd055","fromSide":"right","toNode":"6566580dfe99a72b","toSide":"left"},
