@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "567326b61034b532",
+        "id": "442c039ac76400f6",
         "type": "tabs",
         "children": [
           {
-            "id": "7749e85b741172d2",
+            "id": "92e62d8029b6f885",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "个人知识体系图谱.canvas",
-                "viewState": {
-                  "x": -36,
-                  "y": -6,
-                  "zoom": 0
-                }
+                "file": "测试/Cypress.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "4f18322c320d6c6c",
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "个人知识体系图谱.canvas",
+                "file": "测试/Cypress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "个人知识体系图谱.canvas",
+                "file": "测试/Cypress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "个人知识体系图谱.canvas"
+                "file": "测试/Cypress.md"
               }
             }
           },
@@ -159,11 +155,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7749e85b741172d2",
+  "active": "92e62d8029b6f885",
   "lastOpenFiles": [
-    "个人知识体系图谱.canvas",
-    "README.md",
-    "未命名.md",
-    "未命名"
+    "知识体系.canvas",
+    "测试/Cypress.md",
+    "地图/下载离线高德瓦片地图.md",
+    "测试",
+    "地图",
+    "README.md"
   ]
 }
