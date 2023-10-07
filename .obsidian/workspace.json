@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "442c039ac76400f6",
+        "id": "906f0aa452d687ba",
         "type": "tabs",
         "children": [
           {
-            "id": "92e62d8029b6f885",
+            "id": "43ecea03f44bc412",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/P5.md",
+                "file": "技术/React.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/P5.md",
+                "file": "技术/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/P5.md",
+                "file": "技术/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/P5.md"
+                "file": "技术/React.md"
               }
             }
           },
@@ -155,11 +155,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "92e62d8029b6f885",
+  "active": "43ecea03f44bc412",
   "lastOpenFiles": [
-    "技术/React.md",
-    "技术/P5.md",
+    "技术/VSCode 快捷键 - Windows.md",
+    "技术/VSCode 快捷键 - Mac.md",
     "技术/Tricks.md",
+    "技术/P5.md",
+    "技术/React.md",
     "总览.canvas",
     "README.md",
     "测试/Cypress.md",
