@@ -18,3 +18,8 @@ count = (count + 1) % 11
 	mix-blend-mode: difference;
 }
 ```
+
+
+3. PointerEvent 在移动端
+
+PointerEvent 事件对应的dom设置 touch-action:none
