@@ -23,3 +23,14 @@ count = (count + 1) % 11
 3. PointerEvent 在移动端
 
 PointerEvent 事件对应的dom设置 touch-action:none
+
+4. 动画的回调
+
+```
+const scale = ['scaleX(1)', 'scaleX(-1)']
+const animation = domRef.current.animate(
+  { transform: to === 'music' ? scale : [...scale].reverse() },
+  { duration: 400, fill: 'forwards' },
+)
+animation.onfinish = () => { }
+```
