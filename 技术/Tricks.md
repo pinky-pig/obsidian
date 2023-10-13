@@ -34,3 +34,10 @@ const animation = domRef.current.animate(
 )
 animation.onfinish = () => { }
 ```
+
+```
+const ANIMATIONS = document.getAnimations();
+  console.info({ ANIMATIONS })
+  await Promise.all(ANIMATIONS.map((animation) => animation.finished))
+  console.info("done");
+```
