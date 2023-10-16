@@ -41,3 +41,7 @@ const ANIMATIONS = document.getAnimations();
   await Promise.all(ANIMATIONS.map((animation) => animation.finished))
   console.info("done");
 ```
+
+5. view transition api
+> https://developer.chrome.com/docs/web-platform/view-transitions/
+
