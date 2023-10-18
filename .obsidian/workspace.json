@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/todo.md",
+                "file": "技术/Tricks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/todo.md",
+                "file": "技术/Tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/todo.md",
+                "file": "技术/Tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/todo.md"
+                "file": "技术/Tricks.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "43ecea03f44bc412",
   "lastOpenFiles": [
-    "地图/开发.md",
     "TODO/todo.md",
+    "地图/开发.md",
     "TODO",
     "技术/SVG.md",
     "技术/Tricks.md",
