@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3D地图制作/Main.md",
+                "file": "3D地图制作/立体地图.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D地图制作/Main.md",
+                "file": "3D地图制作/立体地图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D地图制作/Main.md",
+                "file": "3D地图制作/立体地图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D地图制作/Main.md"
+                "file": "3D地图制作/立体地图.md"
               }
             }
           },
@@ -159,7 +159,7 @@
   "lastOpenFiles": [
     "3D地图制作/QGIS基础操作.md",
     "3D地图制作/Blender基础操作.md",
-    "3D地图制作/Main.md",
+    "3D地图制作/立体地图.md",
     "软件/Mine.md",
     "软件",
     "3D地图制作",
