@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "509f884fdc9ed2b0",
+        "id": "c5c404608a00ae83",
         "type": "tabs",
         "children": [
           {
-            "id": "cdd882f9f68e2b1b",
+            "id": "86f74ed72c680f2b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2605df99a1b3d5f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3D地图制作/3D地形.md",
+                "file": "技术/Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D地图制作/3D地形.md",
+                "file": "技术/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D地图制作/3D地形.md",
+                "file": "技术/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D地图制作/3D地形.md"
+                "file": "技术/Git.md"
               }
             }
           },
@@ -155,11 +164,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cdd882f9f68e2b1b",
+  "active": "2605df99a1b3d5f7",
   "lastOpenFiles": [
+    "3D地图制作/3D地形.md",
+    "技术/Git.md",
+    "conflict-files-obsidian-git.md",
     "3D地图制作/Blender基础操作.md",
     "3D地图制作/QGIS基础操作.md",
-    "3D地图制作/3D地形.md",
     "软件/Mine.md",
     "软件",
     "3D地图制作",
