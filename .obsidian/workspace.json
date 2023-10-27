@@ -11,14 +11,11 @@
             "id": "fdb3b8a613a7dc9c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "技术/未命名.canvas",
-                "viewState": {
-                  "x": 98,
-                  "y": 340.234375,
-                  "zoom": 0
-                }
+                "file": "技术/TS-tricks.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/未命名.canvas",
+                "file": "技术/TS-tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/未命名.canvas",
+                "file": "技术/TS-tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/未命名.canvas"
+                "file": "技术/TS-tricks.md"
               }
             }
           },
@@ -160,7 +157,8 @@
   },
   "active": "fdb3b8a613a7dc9c",
   "lastOpenFiles": [
-    "技术/未命名.canvas",
+    "技术/TS.canvas",
+    "技术/TS-tricks.md",
     "3D地图制作/QGIS基础操作.md",
     "3D地图制作/Blender基础操作.md",
     "3D地图制作/3D地形.md",
