@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"4dd2c1a760308690","type":"text","text":"Typescript","x":-420,"y":120,"width":145,"height":60},
+		{"id":"a8d049b7c5473d5b","x":20,"y":-540,"width":244,"height":107,"type":"text","text":"any 类型\n顶层类型 any unkonwn\n底层类型 never"},
+		{"id":"b1949320ed1c2d36","x":21,"y":-400,"width":140,"height":60,"type":"text","text":"类型系统"},
+		{"id":"b6049ee7fb3f77e0","x":21,"y":-300,"width":243,"height":60,"type":"text","text":"数组Array"},
+		{"id":"798195073966f6f5","type":"text","text":"元组Turple","x":21,"y":-200,"width":243,"height":60},
+		{"id":"e2a6f769977ae038","x":21,"y":-110,"width":279,"height":50,"type":"text","text":"Symbol"},
+		{"id":"649331ab7bb0404d","x":21,"y":120,"width":250,"height":60,"type":"text","text":"函数"},
+		{"id":"57b5cb6ce6e48098","x":21,"y":220,"width":250,"height":60,"type":"text","text":"对象"}
+	],
+	"edges":[
+		{"id":"6223a593a9a00f80","fromNode":"4dd2c1a760308690","fromSide":"right","toNode":"a8d049b7c5473d5b","toSide":"left"},
+		{"id":"694fcd94c0325b20","fromNode":"4dd2c1a760308690","fromSide":"right","toNode":"b1949320ed1c2d36","toSide":"left"},
+		{"id":"30014b549c3fb3fe","fromNode":"4dd2c1a760308690","fromSide":"right","toNode":"b6049ee7fb3f77e0","toSide":"left"},
+		{"id":"3220c298cd7e0df8","fromNode":"4dd2c1a760308690","fromSide":"right","toNode":"798195073966f6f5","toSide":"left"},
+		{"id":"1aa04887caecb6dd","fromNode":"4dd2c1a760308690","fromSide":"right","toNode":"e2a6f769977ae038","toSide":"left"},
+		{"id":"c838715e565760f6","fromNode":"4dd2c1a760308690","fromSide":"right","toNode":"649331ab7bb0404d","toSide":"left"},
+		{"id":"a80ebe41ccbc08a5","fromNode":"4dd2c1a760308690","fromSide":"right","toNode":"57b5cb6ce6e48098","toSide":"left"}
+	]
+}
