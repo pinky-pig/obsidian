@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件/Mine.md",
+                "file": "日常/ADB.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件/Mine.md",
+                "file": "日常/ADB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件/Mine.md",
+                "file": "日常/ADB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件/Mine.md"
+                "file": "日常/ADB.md"
               }
             }
           },
@@ -157,12 +157,12 @@
   },
   "active": "fdb3b8a613a7dc9c",
   "lastOpenFiles": [
-    "日常/未命名.md",
+    "软件/Mine.md",
+    "日常/ADB.md",
+    "技术/Git.md",
     "技术/二开开源库.md",
     "日常",
-    "软件/Mine.md",
     "技术/P5.md",
-    "技术/Git.md",
     "技术/React.md",
     "技术/SVG.md",
     "技术/Tailwindcss.md",
