@@ -20,3 +20,8 @@
 - - ***Captura:*** <https://github.com/MathewSachin/Captura/releases/tag/v8.0.0>
 - - ***FFmpeg:*** <https://www.ffmpeg.org/> 
 - **Scrcpy:** 手机投屏 <https://github.com/Genymobile/scrcpy>
+
+
+## **Android**
+
+- **Termux :**   Linux 环境
