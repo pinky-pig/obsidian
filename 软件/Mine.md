@@ -15,8 +15,8 @@
 
 ## **WINDOWS**
 
-- **ScreenToGif**：截图 GIF。
-- **Captura + FFmpeg**：
-- - ***Captura***: <https://github.com/MathewSachin/Captura/releases/tag/v8.0.0>
-- - ***FFmpeg***: <https://www.ffmpeg.org/> 
-- 
+- **ScreenToGif:**截图 GIF。
+- **Captura + FFmpeg:**
+- - ***Captura:*** <https://github.com/MathewSachin/Captura/releases/tag/v8.0.0>
+- - ***FFmpeg:*** <https://www.ffmpeg.org/> 
+- **Scrcpy:** 手机投屏 <https://github.com/Genymobile/scrcpy>
