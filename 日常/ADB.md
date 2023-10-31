@@ -16,18 +16,26 @@ os.system("adb shell input keyevent 26")
 ```
 
 
-## 手机端运行Python脚本
+## 手机端运行Python脚本（Android 11+）
 
-> Termux 是一款在 Android 设备上模拟 Linux 环境的终端模拟器和 Linux 发行版。它允许你在 Android 手机上运行 Linux 命令和应用程序，包括 Python 和其他编程语言。
+核心就是手机端装控制台，连接 ADB ，装 Python 环境，运行 Python 脚本。
+
+> Termux 是一款在 Android 设备上模拟 Linux 环境的终端模拟器和 Linux 发行版。它允许你在 Android 手机上运行 Linux 命令和应用程序，包括 Python 和其他编程语言。  
+> 需要 Android 11 + 是因为要想在手机端连接 ADB 控制手机，需要无线调试，而这是 11 以上的版本才有的。
+
 
 - **下载 Termux：**
 - - [Termux GitHub](https://github.com/termux/termux-app) 
 - - [Termux 下载地址](https://f-droid.org/en/packages/com.termux/) 
+- **存储授权：** `termux-setup-storage` 弹出窗口，打开存储权限。进到根目录 `cd /sdcard/` 操作。
+- **新建文件夹：** `mkdir workspace`  `cd workspace` 目的是，在电脑端调试好脚本后，直接导入到这个文件夹，再在手机端运行脚本。当然直接在手机端调试也行。这个时候，脚本的文件夹就是在根目录 `/sdcard/workspace` 。
 - **安装 Python：** `pkg install python`
-- **安装工具包：** `pkg install  android-tools`
-- **新建文件夹并进入：** `mkdir workspace`  `cd workspace` 目的是，在电脑端调试好脚本后，直接导入到这个文件夹，再在手机端运行脚本。当然直接在手机端调试也行。
+- **安装工具包：** `pkg install  android-tools` 这个是为了在手机端下载 ADB 。
+
+准备连接
+- **打开无线调试：** 打开手机的无线调试，然后将当前"设置"窗口分屏。
 - 
-- 
+
 
 
 
@@ -171,7 +179,7 @@ am start -a android.intent.action.VIEW -d http://www.baidu.com
 
 
 **1. 获取序列号:**
-```**python
+```python
 adb get-serialno
 ```
 **2. 查看连接计算机的设备：**
