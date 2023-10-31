@@ -34,11 +34,34 @@ os.system("adb shell input keyevent 26")
 
 准备连接
 - **打开无线调试：** 打开手机的无线调试，然后将当前"设置"窗口分屏。
-- 
+- **使用配对码配对设备：** 点击配对码，然后切换到 Termux 窗口。
+- **配对：** `adb pair ip:port`  这里ip和prot是配对码页面的。
+- **连接：** `adb connect ip:port`  这里ip和prot是无线调试页面页面的。连接成功，无线调试页面也会有窗口信息提示。
+- **检查：** `adb devices`  如果连接成功，会打印出连接配对的机子的信息。
+- **执行 Python 命令：**
+```python
+import os
 
+# home键
+os.system("adb shell input keyevent 3")
 
+# 屏幕上滑
+os.system("adb shell input swipe 200 1800 300 1200")
 
+# 打开钉钉
+os.system("adb shell am start com.alibaba.android.rimet/.biz.LaunchHomeActivity")
 
+# 触发点击某个像素点位置
+os.system("adb shell input tap 96 1112")
+```
+- **执行 Python 脚本：**
+```bash
+nohup python -u auto.py > log.log 2>&1 &
+```
+- **查看日志：**
+```bash
+tail -f log.log
+```
 
 
 
