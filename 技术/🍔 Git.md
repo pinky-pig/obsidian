@@ -1,9 +1,32 @@
+---
 
+---
+---
+### Revert
 
+**🌸创建一个新的提交来撤销先前的提交，而不是直接删除或修改历史提交🌸**
+
+- 查找 hash
+```bash
+git log
+```
+- 创建一个新的提交以撤销指定提交的更改
+```bash
+# commit 为上面查到的 hash，例如： git revert abc123
+git revert <commit>
+```
+- 提交
+```bash
+git push
+```
+
+---
 ## 优雅合并 commit
 
 ---
-### Revert
+### Reset
+
+> 最后一步操作是 `git push -f`
 
 **1. soft**  将提交信息回退到指定 commit ，但是代码会被放在暂存区，还是最新的，并没有被删。
 
@@ -24,15 +47,34 @@ git push -f
 git reset --hard HEAD~n
 ```
 
-**💥一旦强推之后，可能会破坏其他人的本地副本，因此在协作项目中要谨慎使用💥**
+**💥撤销提交会永久删除提交历史，请确保你真的想要执行这个操作，因为它可能会导致数据丢失。一旦强推之后，可能会破坏其他人的本地副本，因此在协作项目中要谨慎使用💥**
 
 ---
-### Squash (Rebase)
+### Rebase
 
-> 这里我们合并 commit 的信息，那么就简单使用 squash 和 reword 。
-> 在需要合并的 commit 前 squash ，在 需要修改信息的前面 reword 就行了。
+> 合并用 Squash ，修改提交信息用 reword 。 可以同时使用。
+> edit 没搞懂怎么能修改文件内容。
 
-***VSCode Terminal***
+
+> 最后一步操作是 `git push -f`
+
+**核心**
+
+- `git rebase -i HEAD~3` 
+- 合并: `squash` ，重命名: `reword` 
+- `START REBASE` 
+- 顶多 Squash 多一步提交，点击就行了。这步提交不能修改提交信息。
+- 如果是 reword 就会提示修改提交信息，修改完关闭文件就行。
+- `git push -f`
+
+同时使用
+
+- `START REBASE` 
+- 修改 reword 的提交信息
+- 修改合并后的提交信息
+- `git push -f`
+
+*VSCode Terminal*
 
 ```bash
 # 开始
@@ -51,8 +93,6 @@ git rebase --abort
 - **`squash`**：将这个提交与前一个提交合并成一个新的提交，保留最新的信息，不会让你修改信息和内容。
 - **`fixup`**：类似于 `squash`，将这个提交与前一个提交合并，但不保留这个提交的提交信息。
 - **`drop`**：丢弃这个提交，不包括它在内的所有更改都将被删除。
-
-
 
 假如报错如下：
 
