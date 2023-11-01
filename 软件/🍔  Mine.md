@@ -1,7 +1,4 @@
-
-
-
-## **软件使用**
+## **通用软件**
 
 - **PS**：制图。
 - **Blender**：3D模型。
@@ -9,6 +6,8 @@
 - **Snipaste**：截图。
 - **Obsidian**：笔记。
 - **VSCode**：开发。
+- **Clash**：VPN。
+- 
 
 ## **MAC**
 
@@ -21,7 +20,6 @@
 - - ***Captura:*** <https://github.com/MathewSachin/Captura/releases/tag/v8.0.0>
 - - ***FFmpeg:*** <https://www.ffmpeg.org/> 
 - **Scrcpy:** 手机投屏 <https://github.com/Genymobile/scrcpy>
-
 
 ## **Android**
 
