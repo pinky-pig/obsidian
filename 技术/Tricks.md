@@ -44,3 +44,17 @@ const ANIMATIONS = document.getAnimations();
 
 5. **view transition api**
 > https://developer.chrome.com/docs/web-platform/view-transitions/
+
+
+6. fileURLToPath
+
+```ts
+import { fileURLToPath } from 'node:url'
+export default defineConfig({
+  resolve: {
+    alias: {
+      '@eslint-stylistic/metadata': fileURLToPath(new URL('../../packages/metadata/src/index.ts', import.meta.url)),
+    },
+  },
+ }
+```
