@@ -58,3 +58,7 @@ export default defineConfig({
   },
  }
 ```
+
+::: tip
+Before you start, check the [project progress](/contribute/project-progress) first to see the current status and understand potential breaking changes to migrate.
+:::
