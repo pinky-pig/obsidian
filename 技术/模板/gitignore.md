@@ -1,3 +1,4 @@
+```
 .cache
 .DS_Store
 .idea
@@ -14,3 +15,5 @@ cache
 .eslintcache
 # Duplicate markdown for VitePress aliases
 *.alias.md
+```
+
