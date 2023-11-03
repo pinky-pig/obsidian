@@ -24,6 +24,12 @@ os.system("adb shell input keyevent 26")
 > 需要 Android 11 + 是因为要想在手机端连接 ADB 控制手机，需要无线调试，而这是 11 以上的版本才有的。
 
 
+```bash
+# 设置 kill false 自动杀死后台
+adb shell "settings put global settings_enable_monitor_phantom_procs false"
+```
+
+
 - **下载 Termux：**
 - - [Termux GitHub](https://github.com/termux/termux-app) 
 - - [Termux 下载地址](https://f-droid.org/en/packages/com.termux/) 
