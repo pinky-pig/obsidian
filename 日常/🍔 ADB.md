@@ -62,7 +62,10 @@ os.system("adb shell input tap 96 1112")
 ```
 - **执行 Python 脚本：**
 ```bash
-nohup python -u auto.py > log.log 2>&1 &
+cd /sdcard
+cd workspace
+
+nohup python -u auto-dd.py > log.log 2>&1 &
 ```
 - **查看日志：**
 ```bash
@@ -161,6 +164,18 @@ if __name__ == "__main__":
 adb shell  
 ```
 
+
+**传输文件**
+
+```bash
+adb push "C:\Users\Admin\Desktop\test.py" "/sdcaed/workspace"
+```
+
+**运行脚本**
+
+```bash
+nohup python -u auto.py
+```
 
 **adb重启或关机手机命令**
 
