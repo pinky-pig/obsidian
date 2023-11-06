@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/前端开发.md",
+                "file": "软件/浏览器首页.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/前端开发.md",
+                "file": "软件/浏览器首页.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/前端开发.md",
+                "file": "软件/浏览器首页.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/前端开发.md"
+                "file": "软件/浏览器首页.md"
               }
             }
           },
@@ -157,11 +157,13 @@
   },
   "active": "449f49e1a5bb9168",
   "lastOpenFiles": [
+    "技术/模板/🍔 VS Code settings.md",
+    "软件/浏览器首页.md",
+    "日常/🍔 前端开发.md",
     "日常/🍔 Mac Using.md",
     "技术/模板/🍔 eslintignore.md",
     "技术/模板/🍔 gitignore.md",
     "技术/🍔 Git.md",
-    "日常/前端开发.md",
     "日常/🍔 ADB.md",
     "技术/油猴/1.  双拼练习.md",
     "技术/油猴",
@@ -170,7 +172,6 @@
     "软件/🍔  Mine.md",
     "未命名.md",
     "技术/模板",
-    "技术/未命名.md",
     "技术/🍔 二开开源库.md",
     "技术/小鹤双拼记忆.md",
     "技术/Tricks.md",
@@ -186,7 +187,6 @@
     "技术/Tailwindcss.md",
     "技术/SVG.md",
     "技术/React.md",
-    "技术/P5.md",
     "日常",
     "软件",
     "3D地图制作",
