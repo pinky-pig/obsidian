@@ -19,3 +19,19 @@ mkdir test
 # 新建文件
 touch test.md
 ```
+
+## **3. VS Code**
+
+快速在 VSCode 中打开文件夹
+
+```bash
+code .
+```
+
+
+## **4. 打开隐藏文件夹**
+
+
+```
+ Shift + Command + .
+```
