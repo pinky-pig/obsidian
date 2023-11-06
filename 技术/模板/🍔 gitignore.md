@@ -1,0 +1,19 @@
+```
+.cache
+.DS_Store
+.idea
+.pnpm-store
+*.log
+*.tgz
+coverage
+dist
+lib-cov
+logs
+node_modules
+temp
+cache
+.eslintcache
+# Duplicate markdown for VitePress aliases
+*.alias.md
+```
+

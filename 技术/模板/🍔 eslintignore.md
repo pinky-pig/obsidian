@@ -1,0 +1,7 @@
+- .eslintignore
+```
+node_modules/
+dist/
+index.html
+docs/
+```
