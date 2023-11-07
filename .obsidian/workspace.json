@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/🍔 前端开发.md",
+                "file": "技术/Tailwindcss.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/🍔 前端开发.md",
+                "file": "技术/Tailwindcss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/🍔 前端开发.md",
+                "file": "技术/Tailwindcss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/🍔 前端开发.md"
+                "file": "技术/Tailwindcss.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "79575bce0e25721b",
   "lastOpenFiles": [
+    "日常/🍔 前端开发.md",
     "日常/🍔 ADB.md",
     "软件/浏览器首页.md",
-    "日常/🍔 前端开发.md",
     "日常/🍔 Mac Using.md",
     "技术/油猴/1.  双拼练习.md",
     "技术/油猴",
