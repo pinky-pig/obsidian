@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/Tailwindcss.md",
+                "file": "技术/🍔 Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/Tailwindcss.md",
+                "file": "技术/🍔 Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/Tailwindcss.md",
+                "file": "技术/🍔 Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/Tailwindcss.md"
+                "file": "技术/🍔 Git.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "79575bce0e25721b",
   "lastOpenFiles": [
+    "技术/Tailwindcss.md",
     "日常/🍔 前端开发.md",
     "日常/🍔 ADB.md",
     "软件/浏览器首页.md",
@@ -183,7 +184,6 @@
     "地图/下载离线高德瓦片地图.md",
     "地图/开发.md",
     "技术/TS.canvas",
-    "技术/Tailwindcss.md",
     "技术/SVG.md",
     "技术/React.md",
     "技术/P5.md",
