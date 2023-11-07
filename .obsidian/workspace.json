@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/🍔 ADB.md",
+                "file": "日常/🍔 前端开发.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/🍔 ADB.md",
+                "file": "日常/🍔 前端开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/🍔 ADB.md",
+                "file": "日常/🍔 前端开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/🍔 ADB.md"
+                "file": "日常/🍔 前端开发.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "79575bce0e25721b",
   "lastOpenFiles": [
+    "日常/🍔 ADB.md",
     "软件/浏览器首页.md",
     "日常/🍔 前端开发.md",
     "日常/🍔 Mac Using.md",
@@ -175,7 +176,6 @@
     "软件/🍔  Mine.md",
     "日常/录屏.md",
     "总览.canvas",
-    "日常/🍔 ADB.md",
     "3D地图制作/裁剪地图.md",
     "3D地图制作/🍔 QGIS基础操作.md",
     "3D地图制作/🍔 Blender基础操作.md",
