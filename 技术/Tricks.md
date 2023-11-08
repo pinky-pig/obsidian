@@ -60,6 +60,7 @@ export default defineConfig({
 ```
 
 **7.  Nodejs 下载文件**
+
 ```js
 const axios = require('axios');
 const fs = require('fs');
@@ -100,3 +101,13 @@ downloadAllFiles();
 
 
 ```
+
+**8.  CloneNode 克隆 DOM 节点**
+
+> https://developer.mozilla.org/en-US/docs/Web/API/Node/cloneNode
+
+```js
+let p = document.getElementById("para1");
+let p_prime = p.cloneNode(true);
+```
+
