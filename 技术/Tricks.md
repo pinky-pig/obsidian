@@ -111,3 +111,15 @@ let p = document.getElementById("para1");
 let p_prime = p.cloneNode(true);
 ```
 
+
+**9.  拷贝节点样式**
+
+```js
+const phElement = document.createElement('div')
+const computedStyles = getComputedStyle(ele as HTMLElement)
+for (let i = 0; i < computedStyles.length; i++) {
+	const property = computedStyles[i]
+	const value = computedStyles.getPropertyValue(property)
+	phElement.style.setProperty(property, value)
+}
+```
