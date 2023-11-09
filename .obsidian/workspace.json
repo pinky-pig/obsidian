@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/Tricks.md",
+                "file": "技术/🍔 Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/Tricks.md",
+                "file": "技术/🍔 Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/Tricks.md",
+                "file": "技术/🍔 Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/Tricks.md"
+                "file": "技术/🍔 Git.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "79575bce0e25721b",
   "lastOpenFiles": [
+    "技术/Tricks.md",
     "技术/🍔 Git.md",
     "技术/Tailwindcss.md",
     "日常/🍔 前端开发.md",
@@ -172,7 +173,6 @@
     "test.md",
     "技术/🍔 二开开源库.md",
     "技术/小鹤双拼记忆.md",
-    "技术/Tricks.md",
     "技术/TS-tricks.md",
     "软件/🍔  Mine.md",
     "日常/录屏.md",
