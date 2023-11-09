@@ -168,7 +168,7 @@ adb shell  
 **传输文件**
 
 ```bash
-adb push "C:\Users\Admin\Desktop\test.py" "/sdcaed/workspace"
+adb push "C:\Users\Admin\Desktop\test.py" "/sdcard/workspace"
 ```
 
 **运行脚本**
