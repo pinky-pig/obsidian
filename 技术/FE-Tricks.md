@@ -171,3 +171,16 @@ for (let i = 0; i < computedStyles.length; i++) {
   color: #000;
 }
 ```
+
+
+**11.  获取一个 DOM 在页面中的绝对位置**
+
+|API|用途|文档|标准|
+|---|---|---|---|
+|`offsetTop`|相对定位容器的位置|[MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop)|[CSSOM View Module](https://drafts.csswg.org/cssom-view/#dom-htmlelement-offsettop)|
+|`clientTop`|上边框宽度|[MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/clientTop)|[CSSOM View Module](https://drafts.csswg.org/cssom-view/#dom-element-clienttop)|
+|`.getBoundingClientRect()`|元素大小和相对视口的位置|[MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect)|[CSSOM View Module](https://drafts.csswg.org/cssom-view/#dom-element-getboundingclientrect)|
+|`.getClientRects()`|所有子 CSS 盒子的大小和位置|[MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/getClientRects)|[CSSOM View Module](https://drafts.csswg.org/cssom-view/#dom-element-getclientrects)|
+|`.getComputedStyle()`|应用所有样式表和计算之后的 CSS 属性|[MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/getComputedStyle)|[DOM Level 2 Style](https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSview-getComputedStyle) [CSSOM](https://drafts.csswg.org/cssom/#dom-window-getcomputedstyle)|
+
+**12.  **
