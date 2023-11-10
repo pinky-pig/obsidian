@@ -1,4 +1,8 @@
 
+**1. Theme**
+
+> https://github.com/Patrick-Batenburg/GoogleChromeThemeCreationGuide
+
 ```json
 // manifest.json
 {
@@ -51,4 +55,10 @@
     }
   }
 }
+```
+
+**2. 隐藏显示书签栏**
+
+```
+Ctrl + Shift + B
 ```
