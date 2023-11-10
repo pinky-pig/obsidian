@@ -26,7 +26,7 @@ PointerEvent 事件对应的dom设置 touch-action:none
 
 4. **动画的回调**
 
-```
+```js
 const scale = ['scaleX(1)', 'scaleX(-1)']
 const animation = domRef.current.animate(
   { transform: to === 'music' ? scale : [...scale].reverse() },
@@ -35,7 +35,7 @@ const animation = domRef.current.animate(
 animation.onfinish = () => { }
 ```
 
-```
+```js
 const ANIMATIONS = document.getAnimations();
   console.info({ ANIMATIONS })
   await Promise.all(ANIMATIONS.map((animation) => animation.finished))
@@ -183,4 +183,17 @@ for (let i = 0; i < computedStyles.length; i++) {
 |`.getClientRects()`|所有子 CSS 盒子的大小和位置|[MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/getClientRects)|[CSSOM View Module](https://drafts.csswg.org/cssom-view/#dom-element-getclientrects)|
 |`.getComputedStyle()`|应用所有样式表和计算之后的 CSS 属性|[MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/getComputedStyle)|[DOM Level 2 Style](https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSview-getComputedStyle) [CSSOM](https://drafts.csswg.org/cssom/#dom-window-getcomputedstyle)|
 
-**12.  **
+**12.  点击盒子，触发事件**
+
+点击子元素肯定会触发父盒子的事件，要想不触发，给**子元素**添加上一个阻止冒泡就行了。
+
+```js
+e.preventDefault() 
+e.stopPropagation()
+```
+
+```vue
+<div @click="handleClose">
+	<div @click.stop></div>
+</div>
+```
