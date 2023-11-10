@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/FE-Tricks.md",
+                "file": "技术/模板/🍔 CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/FE-Tricks.md",
+                "file": "技术/模板/🍔 CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/FE-Tricks.md",
+                "file": "技术/模板/🍔 CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/FE-Tricks.md"
+                "file": "技术/模板/🍔 CSS.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "79575bce0e25721b",
   "lastOpenFiles": [
-    "技术/🍔 Git.md",
     "技术/FE-Tricks.md",
+    "技术/模板/🍔 CSS.md",
+    "技术/🍔 Git.md",
     "日常/🍔 ADB.md",
     "日常/🍔 Mac Using.md",
     "技术/Tailwindcss.md",
@@ -186,7 +187,6 @@
     "技术/TS.canvas",
     "技术/SVG.md",
     "技术/React.md",
-    "技术/P5.md",
     "日常",
     "软件",
     "3D地图制作",
