@@ -197,3 +197,17 @@ e.stopPropagation()
 	<div @click.stop></div>
 </div>
 ```
+
+
+**12.  媒体查询**
+
+```css
+@media screen and (max-width: 710px) {
+  .modal-content-container{
+    flex-direction: column;
+    min-width: 260px;
+    width: 260px;
+    margin-top: unset;
+  }
+}
+```
