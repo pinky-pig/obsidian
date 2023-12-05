@@ -11,8 +11,12 @@
             "id": "7b471eabf9d6fac0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日常/🍔 阿里云服务器操作.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/🍔 NVM.md",
+                "file": "日常/🍔 阿里云服务器操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/🍔 NVM.md",
+                "file": "日常/🍔 阿里云服务器操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/🍔 NVM.md"
+                "file": "日常/🍔 阿里云服务器操作.md"
               }
             }
           },
@@ -151,7 +155,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "50ab933d2d6057bb",
+  "active": "7b471eabf9d6fac0",
   "lastOpenFiles": [
     "日常/🍔 阿里云服务器操作.md",
     "日常/🍔 NVM.md",
