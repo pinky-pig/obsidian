@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/🍔 Git.md",
+                "file": "日常/🍔 阿里云服务器操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/🍔 Git.md",
+                "file": "日常/🍔 阿里云服务器操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/🍔 Git.md",
+                "file": "日常/🍔 阿里云服务器操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/🍔 Git.md"
+                "file": "日常/🍔 阿里云服务器操作.md"
               }
             }
           },
@@ -157,9 +157,11 @@
   },
   "active": "7b471eabf9d6fac0",
   "lastOpenFiles": [
+    "Pasted image 20231212175714.png",
+    "Pasted image 20231212175350.png",
+    "技术/🍔 Git.md",
     "日常/🍔 阿里云服务器操作.md",
     "日常/🍔 FFmpeg.md",
-    "技术/🍔 Git.md",
     "日常/🍔 NVM.md",
     "Pasted image 20231206173209.png",
     "日常/阿里云.md",
