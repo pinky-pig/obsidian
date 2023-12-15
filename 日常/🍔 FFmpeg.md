@@ -27,7 +27,12 @@ a.  新建文本文档
 b.  编辑写入内容如下
 
 ```bash
-for %%F in (*.jpg) do ffmpeg -i "%%F" -q:v 10 "processed\%%F"
+for %%F in (*.jpg) do ffmpeg -i "%%F" -q:v 10 "outputs\%%F"
+```
+
+
+```bash
+for %%F in (*.jpg) do ffmpeg -i "%%F" -vf scale=640:-1 -quality 80 "outputs\%%F"
 ```
 
 c. 重命名为 `xx.bat` ,双击运行
