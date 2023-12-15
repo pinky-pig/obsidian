@@ -36,3 +36,43 @@ for %%F in (*.jpg) do ffmpeg -i "%%F" -vf scale=640:-1 -quality 80 "outputs\%%F"
 ```
 
 c. 重命名为 `xx.bat` ,双击运行
+
+**2.压缩视频**
+
+
+**a. 指定比特率**
+
+```bash
+ffmpeg -i input.mp4 -b:v 500k output.mp4
+```
+
+**b. 使用CRF（Constant Rate Factor）**
+
+```bash
+ffmpeg -i input.mp4 -crf 23 output.mp4
+```
+
+**c. 调整分辨率**
+
+```bash
+ffmpeg -i input.mp4 -vf scale=640:480 output.mp4
+```
+
+**d. 选择编码器**
+
+```bash
+ffmpeg -i input.mp4 -c:v libx265 output.mp4
+```
+
+**e. 删除音频流**
+
+```bash
+ffmpeg -i input.mp4 -an output.mp4
+```
+
+
+**f. 设定帧率**
+
+```bash
+ffmpeg -i input.mp4 -r 30 output.mp4
+```
