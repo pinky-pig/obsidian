@@ -205,7 +205,6 @@ e.stopPropagation()
 </div>
 ```
 
-
 **12.  媒体查询**
 
 ```css
@@ -217,4 +216,13 @@ e.stopPropagation()
     margin-top: unset;
   }
 }
+```
+
+**13.  一个数组根据另一个数组进行排序**
+
+```js
+const domIdArr = Array.from(currentDoms).map(item => item.id)
+elementsBox.value.sort((a: any, b: any) => {
+    return domIdArr.indexOf(a.id) - domIdArr.indexOf(b.id)
+})
 ```
