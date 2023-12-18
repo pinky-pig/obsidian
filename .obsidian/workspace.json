@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/FE-Tricks.md",
+                "file": "技术/模板/🍔 VS Code settings.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "正则",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/FE-Tricks.md",
+                "file": "技术/模板/🍔 VS Code settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/FE-Tricks.md",
+                "file": "技术/模板/🍔 VS Code settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/FE-Tricks.md"
+                "file": "技术/模板/🍔 VS Code settings.md"
               }
             }
           },
@@ -155,10 +156,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7b471eabf9d6fac0",
+  "active": "5088954fbabcd5c5",
   "lastOpenFiles": [
-    "日常/🍔 FFmpeg.md",
+    "技术/模板/🍔 gitignore.md",
+    "技术/模板/🍔 eslintignore.md",
+    "技术/模板/🍔 CSS.md",
     "技术/🍔 Git.md",
+    "技术/FE-Tricks.md",
+    "日常/🍔 FFmpeg.md",
     "日常/🍔 阿里云服务器操作.md",
     "Pasted image 20231213093701.png",
     "Pasted image 20231212175714.png",
@@ -173,19 +178,15 @@
     "日常/录屏.md",
     "日常/🍔 前端开发.md",
     "日常/🍔 ADB.md",
-    "技术/FE-Tricks.md",
     "技术/SVG.md",
     "技术/Tailwindcss.md",
     "技术/TS.canvas",
     "技术/TS-tricks.md",
-    "技术/模板/🍔 gitignore.md",
     "技术/模板/🍔 Chrome.md",
     "技术/模板/🍔 VS Code settings.md",
-    "技术/模板/🍔 CSS.md",
     "软件/浏览器首页.md",
     "技术/油猴/1.  双拼练习.md",
     "技术/油猴",
-    "技术/模板/🍔 eslintignore.md",
     "技术/模板",
     "test.md",
     "技术/🍔 二开开源库.md",
