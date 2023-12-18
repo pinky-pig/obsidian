@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/模板/🍔 VS Code settings.md",
+                "file": "日常/ZX.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "正则",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/模板/🍔 VS Code settings.md",
+                "file": "日常/ZX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/模板/🍔 VS Code settings.md",
+                "file": "日常/ZX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/模板/🍔 VS Code settings.md"
+                "file": "日常/ZX.md"
               }
             }
           },
@@ -156,12 +155,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5088954fbabcd5c5",
+  "active": "7b471eabf9d6fac0",
   "lastOpenFiles": [
-    "技术/模板/🍔 gitignore.md",
-    "技术/模板/🍔 eslintignore.md",
-    "技术/模板/🍔 CSS.md",
     "技术/🍔 Git.md",
+    "日常/ZX.md",
+    "技术/模板/🍔 eslintignore.md",
+    "技术/模板/🍔 gitignore.md",
+    "技术/模板/🍔 VS Code settings.md",
+    "技术/模板/🍔 CSS.md",
     "技术/FE-Tricks.md",
     "日常/🍔 FFmpeg.md",
     "日常/🍔 阿里云服务器操作.md",
@@ -183,7 +184,6 @@
     "技术/TS.canvas",
     "技术/TS-tricks.md",
     "技术/模板/🍔 Chrome.md",
-    "技术/模板/🍔 VS Code settings.md",
     "软件/浏览器首页.md",
     "技术/油猴/1.  双拼练习.md",
     "技术/油猴",
