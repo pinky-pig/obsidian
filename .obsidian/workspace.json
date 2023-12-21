@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/FE-Tricks.md",
+                "file": "技术/🍔 Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/FE-Tricks.md",
+                "file": "技术/🍔 Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/FE-Tricks.md",
+                "file": "技术/🍔 Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/FE-Tricks.md"
+                "file": "技术/🍔 Git.md"
               }
             }
           },
@@ -157,13 +157,13 @@
   },
   "active": "7b471eabf9d6fac0",
   "lastOpenFiles": [
+    "技术/FE-Tricks.md",
     "技术/🍔 Git.md",
     "日常/ZX.md",
     "技术/模板/🍔 eslintignore.md",
     "技术/模板/🍔 gitignore.md",
     "技术/模板/🍔 VS Code settings.md",
     "技术/模板/🍔 CSS.md",
-    "技术/FE-Tricks.md",
     "日常/🍔 FFmpeg.md",
     "日常/🍔 阿里云服务器操作.md",
     "Pasted image 20231213093701.png",
