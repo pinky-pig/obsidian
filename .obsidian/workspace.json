@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/FE-Tricks.md",
+                "file": "技术/TS-tricks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/FE-Tricks.md",
+                "file": "技术/TS-tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/FE-Tricks.md",
+                "file": "技术/TS-tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/FE-Tricks.md"
+                "file": "技术/TS-tricks.md"
               }
             }
           },
@@ -157,13 +157,13 @@
   },
   "active": "7b471eabf9d6fac0",
   "lastOpenFiles": [
+    "技术/FE-Tricks.md",
     "技术/React.md",
     "技术/Tailwindcss.md",
     "技术/TS-tricks.md",
     "日常/算法 Note.md",
     "日常/🍔 FFmpeg.md",
     "技术/🍔 Git.md",
-    "技术/FE-Tricks.md",
     "日常/ZX.md",
     "技术/模板/🍔 eslintignore.md",
     "技术/模板/🍔 gitignore.md",
