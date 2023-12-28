@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/🍔 FFmpeg.md",
+                "file": "日常/算法 Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/🍔 FFmpeg.md",
+                "file": "日常/算法 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/🍔 FFmpeg.md",
+                "file": "日常/算法 Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/🍔 FFmpeg.md"
+                "file": "日常/算法 Note.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "7b471eabf9d6fac0",
   "lastOpenFiles": [
+    "日常/🍔 FFmpeg.md",
+    "日常/算法 Note.md",
     "技术/🍔 Git.md",
     "技术/FE-Tricks.md",
     "日常/ZX.md",
@@ -164,7 +166,6 @@
     "技术/模板/🍔 gitignore.md",
     "技术/模板/🍔 VS Code settings.md",
     "技术/模板/🍔 CSS.md",
-    "日常/🍔 FFmpeg.md",
     "日常/🍔 阿里云服务器操作.md",
     "Pasted image 20231213093701.png",
     "Pasted image 20231212175714.png",
@@ -193,7 +194,6 @@
     "技术/小鹤双拼记忆.md",
     "软件/🍔  Mine.md",
     "总览.canvas",
-    "3D地图制作/裁剪地图.md",
     "日常",
     "软件",
     "3D地图制作",
