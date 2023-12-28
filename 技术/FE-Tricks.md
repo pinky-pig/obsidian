@@ -226,3 +226,15 @@ elementsBox.value.sort((a: any, b: any) => {
     return domIdArr.indexOf(a.id) - domIdArr.indexOf(b.id)
 })
 ```
+
+**14.  Draggable 拖拽**
+
+```
+- dragstart 在元素开始被拖动时触发
+- dragend 在拖动操作完成时触发
+- drag 在元素被拖动时触发 **四个**是用于**释放区域**的
+- dragenter 当被拖动元素进入到释放区所占据的屏幕空间时触发
+- dragover 当被拖动元素在释放区内移动时触发
+- dragleave 当被拖动元素没有放下就离开释放区时触发
+- drop 当被拖动元素在释放区里放下时触发
+```

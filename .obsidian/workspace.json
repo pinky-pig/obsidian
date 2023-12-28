@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/算法 Note.md",
+                "file": "技术/FE-Tricks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/算法 Note.md",
+                "file": "技术/FE-Tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/算法 Note.md",
+                "file": "技术/FE-Tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/算法 Note.md"
+                "file": "技术/FE-Tricks.md"
               }
             }
           },
@@ -157,8 +157,11 @@
   },
   "active": "7b471eabf9d6fac0",
   "lastOpenFiles": [
-    "日常/🍔 FFmpeg.md",
+    "技术/React.md",
+    "技术/Tailwindcss.md",
+    "技术/TS-tricks.md",
     "日常/算法 Note.md",
+    "日常/🍔 FFmpeg.md",
     "技术/🍔 Git.md",
     "技术/FE-Tricks.md",
     "日常/ZX.md",
@@ -181,9 +184,7 @@
     "日常/🍔 前端开发.md",
     "日常/🍔 ADB.md",
     "技术/SVG.md",
-    "技术/Tailwindcss.md",
     "技术/TS.canvas",
-    "技术/TS-tricks.md",
     "技术/模板/🍔 Chrome.md",
     "软件/浏览器首页.md",
     "技术/油猴/1.  双拼练习.md",
@@ -192,7 +193,6 @@
     "test.md",
     "技术/🍔 二开开源库.md",
     "技术/小鹤双拼记忆.md",
-    "软件/🍔  Mine.md",
     "总览.canvas",
     "日常",
     "软件",
