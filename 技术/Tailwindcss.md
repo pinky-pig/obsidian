@@ -7,7 +7,12 @@
 <div class="[&>svg:hover]:scale-120">...</div>
 ```
 
-**2. 伪元素**
+**2. 在子元素上设置父元素样式**
+
+```
+```
+
+**3. 伪元素**
 
 ```html
 <div
@@ -15,3 +20,4 @@
   class="before:content-[attr(before)] before:block ..."
 ></div>
 ```
+
