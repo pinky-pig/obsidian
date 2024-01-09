@@ -1,7 +1,10 @@
 
+
 ```txt
 node_mirror: https://npm.taobao.org/mirrors/node/ npm_mirror: https://npm.taobao.org/mirrors/npm/
 ```
+
+>  windows 如果安装了 nvm 后，配置了自定义文件目录，记得要将其添加到环境变量里，否则 npm i  -g  的包会找不到
 
 ```
 nvm off                     // 禁用node.js版本管理(不卸载任何东西)
@@ -15,21 +18,12 @@ nvm v                       // 显示nvm版本
 nvm install stable          // 安装最新稳定版
 ```
 
-
-**1. 卸载 node.js**
-**2. 安装 nvm**
-**3. 安装 node.js**
-**4. 使用**
-
-
-**1. vue/cli**
+# NPM
 
 ```
-npm install -g @vue/cli
-```
-
-**2. @antfu/ni**
-
-```
-npm i -g @antfu/ni 
+npm -v                     // 查看 `npm` 当前版本
+npm cache clean --force    // 清理 `npm` 缓存数据
+npm install -g npm         // 更新到最新版本
+npm -g install npm@6.8.0   // 更新到指定版本
+npm i npm@6 -g             // 或者
 ```
