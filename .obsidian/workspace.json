@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/模板/类库.md",
+                "file": "test.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/模板/类库.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/模板/类库.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/模板/类库.md"
+                "file": "test.md"
               }
             }
           },
@@ -170,8 +170,8 @@
   },
   "active": "5c8ad25db5a2e08c",
   "lastOpenFiles": [
-    "技术/Tailwindcss.md",
     "技术/模板/类库.md",
+    "技术/Tailwindcss.md",
     "PNPM.md",
     "技术/🍔 Git.md",
     "技术/TS-tricks.md",
