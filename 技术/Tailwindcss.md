@@ -2,9 +2,8 @@
 **1. 在父元素上hover设置子元素样式**
 
 ```html
-<div class="[&>*]:p-4">...</div>
-<div class="[&>p]:mt-0 ">...</div>
-<div class="[&>svg:hover]:scale-120">...</div>
+<div class="group">...</div>
+<div class="group-hover-opacity-100">...</div>
 ```
 
 **2. 在子元素上设置父元素样式**

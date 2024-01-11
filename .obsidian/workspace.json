@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/🍔 ADB.md",
+                "file": "技术/Tailwindcss.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/🍔 ADB.md",
+                "file": "技术/Tailwindcss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/🍔 ADB.md",
+                "file": "技术/Tailwindcss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/🍔 ADB.md"
+                "file": "技术/Tailwindcss.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "16bbbc26f2ad79c0",
   "lastOpenFiles": [
+    "日常/🍔 ADB.md",
     "技术/🍔 Git.md",
     "技术/FE-Tricks.md",
     "test.md",
@@ -185,7 +186,6 @@
     "Pasted image 20231201115403.png",
     "日常/🍔 Mac Using.md",
     "日常/🍔 前端开发.md",
-    "日常/🍔 ADB.md",
     "技术/SVG.md",
     "技术/TS.canvas",
     "技术/模板/🍔 Chrome.md",
