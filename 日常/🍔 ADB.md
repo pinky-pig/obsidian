@@ -90,6 +90,49 @@ tail -f log.log
 import os
 import time
 import schedule
+import smtplib
+
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from email.mime.image import MIMEImage
+
+class Email():
+    def __init__(self):
+        self.__SMTP_SSL_HOST = 'smtp.163.com'
+        self.__SMTP_SSL_PORT = '465'
+        self.__from_email_address = '13912258252@163.com'
+        self.__from_email_password = 'XMDRPORIXPBXMVTM'
+        self.__to_email_address = '675887342@qq.com'
+
+    def __link_and_login(self):
+        # 1. 连接邮箱服务器
+        con = smtplib.SMTP_SSL(self.__SMTP_SSL_HOST, self.__SMTP_SSL_PORT)
+        # 2. 登录邮箱
+        con.login(self.__from_email_address, self.__from_email_password)
+        return con
+
+    def send(self, subject, body, image_data_list=[]):
+        msg = MIMEMultipart()
+        msg['From'] = self.__from_email_address
+        msg['To'] = self.__from_email_password
+        msg['Subject'] = subject
+        if len(image_data_list) > 0:
+            body = body + '<br/>'
+            for i, image_data in enumerate(image_data_list):
+                body = body + f'<img src="cid:image{i}">'
+                image = MIMEImage(image_data)
+                image.add_header('Content-ID', f'<image{i}>')
+                msg.attach(image)
+        html = MIMEText(body, 'html')
+        msg.attach(html)
+        con = self.__link_and_login()
+        con.sendmail(self.__from_email_address, self.__to_email_address, msg.as_string())
+        print(f'邮件: {subject} 已完成发送')
+        # 关闭连接
+        con.quit()
+
+
+email = Email()
 
 
 def log():
