@@ -6,9 +6,13 @@
 <div class="group-hover-opacity-100">...</div>
 ```
 
-**2. 在子元素上设置父元素样式**
+**2. 给兄弟元素设置样式**
 
-```
+```css
+<label> 
+	<input type="checkbox" class="peer sr-only"> 
+	<span class="h-4 w-4 bg-gray-200 peer-checked:bg-blue-500"> 
+</label>
 ```
 
 **3. 伪元素**
