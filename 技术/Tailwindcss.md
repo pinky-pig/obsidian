@@ -1,6 +1,8 @@
 
 **1. 在父元素上hover设置子元素样式**
 
+*group 和 peer 写法一样，而且顺序要固定*
+
 ```html
 <div class="group">...</div>
 <div class="group-hover-opacity-100">...</div>
