@@ -113,3 +113,17 @@ git config --global core.editor "code --wait"
 git rebase -i HEAD~3
 ```
 
+### Checkout
+
+- 如果做了修改，还没有 add
+
+```bash
+# 查看状态
+git status
+# 取消仓库所有的修改/删除
+git checkout -f
+# 放弃 指定文件 修改、删除
+git checkout folder/filename.xx
+# 放弃 指定文件夹 修改、删除
+git checkout directory
+```
