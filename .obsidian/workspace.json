@@ -11,8 +11,12 @@
             "id": "ddff39d211795a9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日常/NPM.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日常/NPM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日常/NPM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日常/NPM.md"
+              }
             }
           },
           {
@@ -147,8 +155,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "50ab933d2d6057bb",
+  "active": "ddff39d211795a9e",
   "lastOpenFiles": [
+    "日常/NPM.md",
     "技术/🍔 Git.md",
     "技术/Tailwindcss.md",
     "日常/🍔 FFmpeg.md",
@@ -182,7 +191,6 @@
     "技术/TS.canvas",
     "技术/模板/🍔 Chrome.md",
     "软件/浏览器首页.md",
-    "技术/油猴/1.  双拼练习.md",
     "技术/油猴",
     "技术/模板",
     "总览.canvas",
