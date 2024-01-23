@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/NPM.md",
+                "file": "技术/🍔 Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/NPM.md",
+                "file": "技术/🍔 Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/NPM.md",
+                "file": "技术/🍔 Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/NPM.md"
+                "file": "技术/🍔 Git.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "ddff39d211795a9e",
   "lastOpenFiles": [
+    "日常/🍔 NVM.md",
     "日常/NPM.md",
     "技术/🍔 Git.md",
     "技术/Tailwindcss.md",
@@ -164,7 +165,6 @@
     "日常/🍔 ADB.md",
     "技术/FE-Tricks.md",
     "test.md",
-    "日常/🍔 NVM.md",
     "日常/录屏.md",
     "技术/模板/类库.md",
     "PNPM.md",
