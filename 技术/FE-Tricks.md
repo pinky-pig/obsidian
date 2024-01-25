@@ -43,10 +43,17 @@ animation.onfinish = () => { }
 ```
 
 ```js
+// animation
 const ANIMATIONS = document.getAnimations();
   console.info({ ANIMATIONS })
   await Promise.all(ANIMATIONS.map((animation) => animation.finished))
   console.info("done");
+
+// transition
+const element = document.getElementById('yourElementId');
+element.addEventListener('transitionend', () => {
+  console.log('Transition completed!');
+});
 ```
 
 **5. view transition api**

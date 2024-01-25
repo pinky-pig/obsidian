@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/🍔 Git.md",
+                "file": "技术/FE-Tricks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/🍔 Git.md",
+                "file": "技术/FE-Tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/🍔 Git.md",
+                "file": "技术/FE-Tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/🍔 Git.md"
+                "file": "技术/FE-Tricks.md"
               }
             }
           },
@@ -157,10 +157,12 @@
   },
   "active": "ddff39d211795a9e",
   "lastOpenFiles": [
+    "技术/SVG.md",
+    "技术/Tailwindcss.md",
+    "技术/TS-tricks.md",
+    "技术/🍔 Git.md",
     "日常/🍔 NVM.md",
     "日常/NPM.md",
-    "技术/🍔 Git.md",
-    "技术/Tailwindcss.md",
     "日常/🍔 FFmpeg.md",
     "日常/🍔 ADB.md",
     "技术/FE-Tricks.md",
@@ -168,7 +170,6 @@
     "日常/录屏.md",
     "技术/模板/类库.md",
     "PNPM.md",
-    "技术/TS-tricks.md",
     "技术/React.md",
     "日常/算法 Note.md",
     "日常/ZX.md",
@@ -187,7 +188,6 @@
     "Pasted image 20231201115403.png",
     "日常/🍔 Mac Using.md",
     "日常/🍔 前端开发.md",
-    "技术/SVG.md",
     "技术/TS.canvas",
     "技术/模板/🍔 Chrome.md",
     "软件/浏览器首页.md",
