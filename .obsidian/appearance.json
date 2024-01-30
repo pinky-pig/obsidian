@@ -2,5 +2,8 @@
   "accentColor": "",
   "cssTheme": "",
   "theme": "moonstone",
-  "translucency": false
+  "translucency": false,
+  "textFontFamily": "霞鹜文楷 GB 屏幕阅读版 R",
+  "interfaceFontFamily": "霞鹜文楷 GB 屏幕阅读版 R",
+  "baseFontSize": 28
 }
