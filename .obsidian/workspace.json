@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/🍔 FFmpeg.md",
+                "file": "日常/PNPM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/🍔 FFmpeg.md",
+                "file": "日常/PNPM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/🍔 FFmpeg.md",
+                "file": "日常/PNPM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/🍔 FFmpeg.md"
+                "file": "日常/PNPM.md"
               }
             }
           },
@@ -155,8 +155,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "62e309a75384e8e2",
+  "active": "50ab933d2d6057bb",
   "lastOpenFiles": [
+    "LXGWWenKaiGBScreenR.ttf",
+    "LXGWWenKaiGBScreen.ttf",
+    "test.md",
+    "日常/PNPM.md",
+    "日常/🍔 FFmpeg.md",
+    "2024-01-30.md",
+    "未命名 1.canvas",
     "未命名.canvas",
     "技术/FE-Tricks.md",
     "技术/SVG.md",
@@ -165,12 +172,9 @@
     "技术/🍔 Git.md",
     "日常/🍔 NVM.md",
     "日常/NPM.md",
-    "日常/🍔 FFmpeg.md",
     "日常/🍔 ADB.md",
-    "test.md",
     "日常/录屏.md",
     "技术/模板/类库.md",
-    "PNPM.md",
     "技术/React.md",
     "日常/算法 Note.md",
     "日常/ZX.md",
@@ -190,7 +194,6 @@
     "日常/🍔 Mac Using.md",
     "日常/🍔 前端开发.md",
     "技术/TS.canvas",
-    "技术/模板/🍔 Chrome.md",
     "技术/油猴",
     "技术/模板",
     "总览.canvas",
