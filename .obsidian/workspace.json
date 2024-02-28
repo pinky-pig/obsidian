@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2703dfc04d1aa010",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +166,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "62e309a75384e8e2",
+  "active": "2703dfc04d1aa010",
   "lastOpenFiles": [
     "日常/PNPM.md",
     "LXGWWenKaiGBScreenR.ttf",
