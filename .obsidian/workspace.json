@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/🍔 前端开发.md",
+                "file": "日常/🍔 阿里云服务器操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git add",
+                "query": "服务器",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/🍔 前端开发.md",
+                "file": "日常/🍔 阿里云服务器操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/🍔 前端开发.md",
+                "file": "日常/🍔 阿里云服务器操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/🍔 前端开发.md"
+                "file": "日常/🍔 阿里云服务器操作.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "2703dfc04d1aa010",
   "lastOpenFiles": [
+    "日常/🍔 前端开发.md",
     "日常/🍔 FFmpeg.md",
     "日常/PNPM.md",
     "LXGWWenKaiGBScreenR.ttf",
@@ -206,7 +207,6 @@
     "Pasted image 20231201115405.png",
     "Pasted image 20231201115403.png",
     "日常/🍔 Mac Using.md",
-    "日常/🍔 前端开发.md",
     "技术/TS.canvas",
     "技术/油猴",
     "技术/模板",
