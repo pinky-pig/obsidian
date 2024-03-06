@@ -83,3 +83,36 @@ ffmpeg -i input.mp4 -r 30 output.mp4
 ```
 ffmpeg -i input.m4a -acodec libmp3lame -q:a 2 output.mp3
 ```
+
+
+**4. python 脚本遍历转换**
+
+- 先找到要遍历转换的文件目录
+- 创建一个文件`bat.py`
+- 编辑 .py 文件，写入如下的内容
+- 打开 cmd ，假如文件路径为 `D:\Mine\白噪音小程序\audio\城市` ，那么`cd D:\Mine\白噪音小程序\audio\城市`
+- 然后 `python bat.py` ，即可运行 python 脚本
+
+```
+import os
+import subprocess
+
+input_folder = r'D:\Mine\白噪音小程序\audio\城市'
+output_folder = os.path.join(input_folder, 'outputs')
+
+# 创建输出文件夹（如果不存在）
+os.makedirs(output_folder, exist_ok=True)
+
+# 遍历输入文件夹中的所有 M4A 文件
+for filename in os.listdir(input_folder):
+    if filename.endswith('.m4a'):
+        input_file_path = os.path.join(input_folder, filename)
+        output_file_path = os.path.join(output_folder, os.path.splitext(filename)[0] + '.mp3')
+
+        # 使用 subprocess 调用 FFmpeg 进行转换
+        command = f'ffmpeg -i "{input_file_path}" -acodec libmp3lame -q:a 2 "{output_file_path}"'
+        subprocess.call(command, shell=True)
+
+print('Conversion completed.')
+
+```
