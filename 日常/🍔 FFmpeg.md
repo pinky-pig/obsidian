@@ -76,3 +76,10 @@ ffmpeg -i input.mp4 -an output.mp4
 ```bash
 ffmpeg -i input.mp4 -r 30 output.mp4
 ```
+
+
+**3. 将 m4a 的音乐文件转为 mp4 格式**
+
+```
+ffmpeg -i input.m4a -acodec libmp3lame -q:a 2 output.mp3
+```
