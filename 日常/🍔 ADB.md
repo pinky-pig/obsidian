@@ -41,7 +41,7 @@ adb shell "settings put global settings_enable_monitor_phantom_procs false"
 准备连接
 - **打开无线调试：** 打开手机的无线调试，然后将当前"设置"窗口分屏。
 - **使用配对码配对设备：** 点击配对码，然后切换到 Termux 窗口。
-- **配对：** `adb pair ip:port`  这里ip和prot是配对码页面的。
+- **配对：** `adb pair ip:port`  这里ip和port是配对码页面的。
 - **连接：** `adb connect ip:port`  这里ip和prot是无线调试页面页面的。连接成功，无线调试页面也会有窗口信息提示。
 - **检查：** `adb devices`  如果连接成功，会打印出连接配对的机子的信息。
 - **执行 Python 命令：**
