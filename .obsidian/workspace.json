@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/🍔 阿里云服务器操作.md",
+                "file": "日常/🍔 ADB.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "阿里云",
+                "query": "钉钉",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/🍔 阿里云服务器操作.md",
+                "file": "日常/🍔 ADB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/🍔 阿里云服务器操作.md",
+                "file": "日常/🍔 ADB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/🍔 阿里云服务器操作.md"
+                "file": "日常/🍔 ADB.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "62e309a75384e8e2",
   "lastOpenFiles": [
-    "日常/🍔 ADB.md",
     "日常/🍔 阿里云服务器操作.md",
+    "日常/🍔 ADB.md",
     "日常/🍔 FFmpeg.md",
     "Pasted image 20240305133719.png",
     "日常/🍔 前端开发.md",
