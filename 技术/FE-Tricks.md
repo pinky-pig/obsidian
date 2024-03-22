@@ -4,6 +4,8 @@
 - PWA
 - Worker
 
+1. 浏览器加载图片，会先渲染，再走 JS
+
 
 
 [JS label](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/label)

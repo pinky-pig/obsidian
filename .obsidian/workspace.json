@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,8 +155,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5088954fbabcd5c5",
+  "active": "62e309a75384e8e2",
   "lastOpenFiles": [
+    "技术/Animate.md",
+    "技术/FE-Tricks.md",
     "算法/算法 Note.md",
     "日常/🍔 JS 网站脚本.md",
     "TODO/todo.md",
@@ -166,7 +167,6 @@
     "日常/🍔 油猴脚本.md",
     "日常/🍔 Mac Using.md",
     "日常/🍔 NVM.md",
-    "技术/FE-Tricks.md",
     "日常/🍔 ADB.md",
     "日常/🍔 FFmpeg.md",
     "Pasted image 20240305133719.png",
@@ -189,7 +189,6 @@
     "日常/ZX.md",
     "技术/模板/🍔 eslintignore.md",
     "技术/模板/🍔 gitignore.md",
-    "技术/模板/🍔 VS Code settings.md",
     "Pasted image 20231213093701.png",
     "Pasted image 20231212175714.png",
     "Pasted image 20231212175350.png",
