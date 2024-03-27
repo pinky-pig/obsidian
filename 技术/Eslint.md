@@ -52,7 +52,7 @@ c. 文件目录介绍
 - `lib/index.js` 规则导出及配置项
 - `tests/lib/rules` 文件夹下写测试
 
-##### 使用 `yo eslint:rule` 创建插件:
+##### 使用 `yo eslint:rule` 创建规则:
 ![[Pasted image 20240327155110.png]]
 
 a. 生成的文件目录
@@ -114,3 +114,80 @@ d. 准备编写规则 Rule 代码
 1. Vscode 进入调试 JS 模式
 2. 打断点
 3. 运行命令调试
+4. 会发现变量跟上面 [astexplorer](https://astexplorer.net/) 的结构都一样，那么下面就好写了
+
+打断点调试：
+![[Pasted image 20240327163108.png]]
+
+变量：
+![[Pasted image 20240327163257.png]]
+
+
+e. 继续开发 Rule 代码
+```js
+/**
+ * @fileoverview 不许使用 alert
+ * @author arvin
+ */
+"use strict";
+
+//------------------------------------------------------------------------------
+// Rule Definition
+//------------------------------------------------------------------------------
+
+/** @type {import('eslint').Rule.RuleModule} */
+module.exports = {
+  meta: {
+    type: `problem`, // `problem`, `suggestion`, or `layout`
+    docs: {
+      description: "alert 禁用规则",
+      recommended: false,
+      url: null, // URL to the documentation page for this rule
+    },
+    fixable: null, // Or `code` or `whitespace`
+    schema: [], // Add a schema if the rule has options
+    messages: {
+      someMessageId: '不许使用 alert',
+    },
+  },
+
+  create(context) {
+    return {
+      "ExpressionStatement": function (node) {
+
+        if (node.expression.callee.name === 'alert') {
+          console.log('有 alert');
+        }
+      }
+    };
+  },
+};
+
+```
+
+上面的代码已经完成了80%，运行测试用例，发现是报错的。查看报错信息，绿色是测试期待的输出，红色是实际输出不一致。我们知道测试期待的是有个 messageId 提示。
+
+![[Pasted image 20240327164210.png]]
+
+
+那么我们将代码改一下，再运行测试用例就会发现全部通过了。
+
+```js
+if (node.expression.callee.name === 'alert') {
+          // 如果有 alert ，那么就会有提示。
+          // 这里提示的数据就是 meta.messages.someMessageId ， 正好跟测试用例对起来了
+          context.report({
+            // 代码不变
+            node: context.getSourceCode().ast, 
+            // 增加一个提示
+            messageId: "someMessageId",
+          })
+        }
+```
+
+![[Pasted image 20240327164418.png]]
+
+##### 再创建一条规则:
+
+有了上面的经验，这次就快很多了。
+
