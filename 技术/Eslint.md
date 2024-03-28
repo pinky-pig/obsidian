@@ -189,5 +189,105 @@ if (node.expression.callee.name === 'alert') {
 
 ##### 再创建一条规则:
 
-有了上面的经验，这次就快很多了。
+将变量赋值的 `http` 使用 `https` 替换。
+有了上面的编码经验，这次就快很多了。
 
+测试用例：
+```js
+/**
+ * @fileoverview 使用 http 替代 https
+ * @author arvin
+ */
+"use strict";
+
+const rule = require("../../../lib/rules/no-http"),
+  RuleTester = require("eslint").RuleTester;
+
+const [ MESSAGE_ID_DEFAULT ] = Object.keys(rule.meta.messages);
+
+
+const ruleTester = new RuleTester({ parserOptions: { ecmaVersion: 6 } });
+ruleTester.run("no-http", rule, {
+  valid: [
+    {
+      code: "const server = 'https://127.0.0.1' \r const server1 = 'https://127.0.0.1'",
+    },
+  ],
+
+  invalid: [
+    {
+      code: "const server = 'http://127.0.0.2'",
+      output: "const server = 'https://127.0.0.2'",
+      errors: [{ messageId: MESSAGE_ID_DEFAULT }],
+    },
+  ],
+});
+
+```
+
+规则：
+```js
+/**
+ * @fileoverview 使用 http 替代 https
+ * @author arvin
+ */
+"use strict";
+
+/** @type {import('eslint').Rule.RuleModule} */
+module.exports = {
+  meta: {
+    type: `problem`, // `problem`, `suggestion`, or `layout`
+    docs: {
+      description: "不许使用 http",
+      recommended: false,
+      url: null, // URL to the documentation page for this rule
+    },
+    fixable: `code`, // Or `code` or `whitespace`
+    schema: [], // Add a schema if the rule has options
+    messages: {
+      someMessageId: '使用 https 替代 http',
+    },
+  },
+
+  create(context) {
+    return {
+      "VariableDeclaration": function (node) {
+
+        const originalValue = node.declarations[0].init.raw
+        if (originalValue.includes('http') && !originalValue.includes('https')) {
+          context.report({
+            node,
+            messageId: 'someMessageId',
+            fix: () => {
+              const startPosition = node.declarations[0].init.range[0]
+              const endPosition = node.declarations[0].init.range[1]
+              return {
+                range: [startPosition, endPosition],
+                text: originalValue.replace('http', 'https')
+              }
+            },
+          });
+        }
+
+        
+      }
+    };
+  },
+};
+
+```
+
+跑测试用例的方法也是跟上面的一样，直接跑通。以上，就是开发自定义规则的步骤，是很简单的，接下来就是如何应用自己开发的插件。
+
+## 🌸在项目中使用自定义插件
+
+上面开发的插件如何使用，首先，自然是可以发 npm 包，然后下载使用。但因为我们还是在测试阶段，所以这里自然不太好直接就发包。
+
+### 1. 新建一个空项目
+
+- 刚才的文件夹根目录，新建一个文件夹
+- 进入文件夹 `npm init`
+- 安装 `eslint` - `pnpm i eslint`
+- 安装刚才的依赖包 - `pnpm i ..`
+
+这个时候会发现 package.json 中多了一个 `"@arvin/eslint-config": "link:.."` ,这就说明自定义的插件包安装成功了。
