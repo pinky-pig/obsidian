@@ -6,6 +6,11 @@
 
 下面创建最基础简单的规则作为样例。
 
+
+```bash
+
+```
+
 ## 🌸自定义 Rules 
 
 > [Yeoman 生成器](https://www.npmjs.com/package/generator-eslint) - 官方推荐使用的创建器
@@ -368,4 +373,18 @@ module.exports = {
 
 这样就可以直接使用了，先引入插件，后继承使用规则。
 
-## 🌸使用 eslint-define-config 简化配置
+## 🌸 其他
+
+1. 使用 [eslint-define-config](https://www.npmjs.com/package/eslint-define-config) 提供配置的提示，更简单的配置。
+
+```js
+const { defineConfig } = require('eslint-define-config');
+
+module.exports = defineConfig({
+  root: true,
+  env: { es6: true },
+  plugins: ["custom"],
+  extends: 'plugin:custom/recommended',
+});
+```
+

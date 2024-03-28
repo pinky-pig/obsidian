@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 329.5
   },
   "right": {
     "id": "4f18322c320d6c6c",
@@ -155,7 +156,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "72a6e80f4deb886e",
+  "active": "5088954fbabcd5c5",
   "lastOpenFiles": [
     "Pasted image 20240328111859.png",
     "技术/Eslint.md",
