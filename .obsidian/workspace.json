@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 443.5
   },
   "right": {
     "id": "4f18322c320d6c6c",
@@ -157,16 +157,17 @@
   },
   "active": "72a6e80f4deb886e",
   "lastOpenFiles": [
+    "Pasted image 20240328111859.png",
+    "技术/Eslint.md",
+    "Pasted image 20240328111638.png",
+    "Pasted image 20240328103509.png",
     "Pasted image 20240327164418.png",
     "Pasted image 20240327164210.png",
     "Pasted image 20240327163257.png",
     "Pasted image 20240327163108.png",
     "Pasted image 20240327161152.png",
-    "技术/Eslint.md",
     "Pasted image 20240327160553.png",
     "Pasted image 20240327155353.png",
-    "Pasted image 20240327155110.png",
-    "Pasted image 20240327153535.png",
     "技术/Animate.md",
     "技术/FE-Tricks.md",
     "算法/算法 Note.md",
@@ -179,7 +180,6 @@
     "日常/🍔 NVM.md",
     "日常/🍔 ADB.md",
     "日常/🍔 FFmpeg.md",
-    "Pasted image 20240305133719.png",
     "日常/🍔 前端开发.md",
     "日常/PNPM.md",
     "LXGWWenKaiGBScreenR.ttf",
@@ -197,7 +197,6 @@
     "技术/模板/类库.md",
     "技术/React.md",
     "日常/ZX.md",
-    "Pasted image 20231213093701.png",
     "技术/TS.canvas",
     "技术/油猴",
     "技术/模板",

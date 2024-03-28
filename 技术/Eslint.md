@@ -38,10 +38,12 @@ a. 使用 `VsCode` 打开文件夹
 code .
 ```
 
-b. 打开 `package.json` 更改一下 `name` 和 `description`
+b. 打开 `package.json` 更改一下 `name` 和 `description`。
+这里的名字需要 eslint-config 开头。
+
 ```json
 {
-  "name": "@arvin/eslint-config",
+  "name": "eslint-plugin-custom",
   "version": "0.0.0",
   "description": "arvin's eslint-config"
 }
@@ -277,7 +279,19 @@ module.exports = {
 
 ```
 
-跑测试用例的方法也是跟上面的一样，直接跑通。以上，就是开发自定义规则的步骤，是很简单的，接下来就是如何应用自己开发的插件。
+跑测试用例的方法也是跟上面的一样，直接跑通。
+
+
+##### 给开发的两条规则命个名：
+
+`lib\index.js`
+
+```js
+
+```
+
+
+以上，就是开发自定义规则的步骤，是很简单的，接下来就是如何应用自己开发的插件。
 
 ## 🌸在项目中使用自定义插件
 
@@ -290,4 +304,11 @@ module.exports = {
 - 安装 `eslint` - `pnpm i eslint`
 - 安装刚才的依赖包 - `pnpm i ..`
 
-这个时候会发现 package.json 中多了一个 `"@arvin/eslint-config": "link:.."` ,这就说明自定义的插件包安装成功了。
+这个时候会发现 package.json 中多了一个 `"custom-eslint": "link:.."` ,而且往 node_modules 中查找 ，发现有刚才自定义的插件文件夹，这就说明自定义的插件包安装成功了。
+
+![[Pasted image 20240328111859.png]]
+
+既然已经安装成功，那么接下来就是如何应用了。
+- 在根目录新建文件 `.eslintrc.cjs` 并写入如下代码
+```js
+```
