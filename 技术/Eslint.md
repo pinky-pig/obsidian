@@ -395,6 +395,9 @@ module.exports = defineConfig({
 });
 ```
 2. 定义成 monorepo 项目
+
+> [参考文档](https://fe.okki.com/post/6195ac76f8fef82d58b3f720)
+
 - packages/eslint-config 是根配置，用于导出自己的配置
 - eslint-plugin 是自己定义的插件
 - eslint-config-vue 是自己的 vue eslint配置
