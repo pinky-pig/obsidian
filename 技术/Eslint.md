@@ -15,7 +15,7 @@ Tips
 	"lint:fix": "eslint --fix --ext .js,.jsx ."
   },
 ```
-- 
+- 重启 ESLint `Shift+Ctrl+P` + `ESLint: Restart ESLint Server`
 
 
 ## 🌸自定义 Rules 
