@@ -270,7 +270,7 @@ module.exports = {
       "VariableDeclaration": function (node) {
 
         const originalValue = node.declarations[0].init.raw
-        if (originalValue.includes('http') && !originalValue.includes('https')) {
+        if (originalValue && originalValue.includes('http') && !originalValue.includes('https')) {
           context.report({
             node,
             messageId: 'someMessageId',
@@ -394,4 +394,46 @@ module.exports = defineConfig({
   extends: 'plugin:custom/recommended',
 });
 ```
+2. 定义成 monorepo 项目
+- packages/eslint-config 是根配置，用于导出自己的配置
+- eslint-plugin 是自己定义的插件
+- eslint-config-vue 是自己的 vue eslint配置
+- eslint-config-react（eslint-config-xx）同理
+- 在跟项目中的 .eslintrc.cjs 可以直接引入 eslint-config 作为自己的 eslint 配置。在 monorepo 项目中，根配置引入 eslint-config ，eslint-config 引入了其它包，但是要是想生效，需要在根目录将 eslint-config 和 eslint-plugin 或者其他包都安装。
 
+比如根目录 .eslintrc.cjs ：
+```json
+"devDependencies": {
+	"@arvin/eslint-plugin": "workspace:^",
+	"@arvin/eslint-config": "workspace:^"
+}
+```
+
+monorepo 项目结构：
+```
+esling-config
+├─ fixtures // 示例项目
+│    ├─ vue // 在 vue 项目中使用自己的 eslint 配置
+│    └─ react // 同上
+├─ node_modules
+├─ packages 
+│    └─ eslint-config
+│           ├─ index.js
+│           ├─ package.json
+│           └─ README.md
+│    └─ eslint-plugin
+│           ├─ docs
+│           ├─ rules
+│           ├─ tests
+│           ├─ index.js
+│           ├─ package.json
+│           └─ README.md
+│    └─ eslint-plugin
+├─ package.json
+├─ package-lock.json
+├─ .eslintrc.cjs
+├─ .npmrc
+├─ .pnpm-lock.yaml
+├─ .pnpm-workspace.yaml
+└─ README.md
+```
