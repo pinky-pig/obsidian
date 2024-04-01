@@ -440,3 +440,43 @@ esling-config
 ├─ .pnpm-workspace.yaml
 └─ README.md
 ```
+
+3. 发包
+
+这里使用 [bumpp](https://github.com/antfu/bumpp) 快速修改版本号发包
+```json
+"scripts": {
+    "release": "bumpp -c \"release: v%s\" package.json packages/*/package.json && pnpm -r publish"
+  },
+```
+
+也可以使用过滤，只发 packages 里面的包
+```json
+"scripts": {
+    "release": "release:packages": "bumpp -c \"release: v%s\" package.json packages/*/package.json && pnpm -r --filter=./packages/* publish"
+  }  
+```
+- `bumpp -c \"release: v%s\" package.json packages/*/package.json` 是修改版本号，然后`commit tag push` 等操作。
+- `pnpm -r publish` 递归 packages 内的文件目录，然后对每个子目录执行相同的操作，publish 。
+- `--filter=./packages/*` 过滤遍历操作的目录
+
+不过这里也只需要发一个包就行了
+```json
+{
+	"scripts":{
+		"release:eslint-config": "cd packages/eslint-config && bumpp -c \"release: v%s\" package.json && pnpm publish"
+	}
+}
+```
+
+然后发完包之后，项目中只需要安装使用就行
+- npm i @arvinn/eslint-config -d
+- 添加到 .eslintrc.cjs ，就可以使用了
+```js
+const { defineConfig } = require('eslint-define-config')
+
+module.exports = defineConfig({
+  root: true,
+  extends: '@arvinn',
+})
+```

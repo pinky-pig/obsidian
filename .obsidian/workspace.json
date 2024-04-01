@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/🍔 前端开发.md",
+                "file": "插件/ESLint 插件/ESLint.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/🍔 前端开发.md",
+                "file": "插件/ESLint 插件/ESLint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/🍔 前端开发.md",
+                "file": "插件/ESLint 插件/ESLint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/🍔 前端开发.md"
+                "file": "插件/ESLint 插件/ESLint.md"
               }
             }
           },
@@ -158,6 +157,8 @@
   },
   "active": "e1ede1fb421c479c",
   "lastOpenFiles": [
+    "技术/🍔 Git.md",
+    "日常/🍔 前端开发.md",
     "日常/阿里云服务器/🍔 阿里云服务器操作.md",
     "软件/🍔  Mine.md",
     "插件/ESLint 插件/ESLint.md",
@@ -187,7 +188,6 @@
     "图片",
     "未命名.md",
     "技术/模板/🍔 VS Code settings.md",
-    "日常/🍔 前端开发.md",
     "Pasted image 20240328111638.png",
     "技术/Animate.md",
     "技术/FE-Tricks.md",
@@ -205,7 +205,6 @@
     "未命名.canvas",
     "技术/SVG.md",
     "技术/Tailwindcss.md",
-    "技术/TS-tricks.md",
     "技术/TS.canvas",
     "总览.canvas"
   ]
