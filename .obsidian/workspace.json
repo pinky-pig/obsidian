@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello-算法/LeetCode - 数之和.md",
+                "file": "算法/LeetCode - 数之和.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello-算法/LeetCode - 数之和.md",
+                "file": "算法/LeetCode - 数之和.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello-算法/LeetCode - 数之和.md",
+                "file": "算法/LeetCode - 数之和.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello-算法/LeetCode - 数之和.md"
+                "file": "算法/LeetCode - 数之和.md"
               }
             }
           },
@@ -158,13 +158,13 @@
   },
   "active": "5a82388aa8320836",
   "lastOpenFiles": [
-    "Hello-算法/LeetCode - 数之和.md",
+    "算法/算法 Note.md",
+    "算法/LeetCode - 数之和.md",
     "总览.canvas",
     "Excalidraw/Drawing 2024-04-02 09.07.01.excalidraw.md",
-    "Hello-算法/2. 复杂度分析.md",
+    "算法/2. 复杂度分析.md",
     "Excalidraw",
     "插件/ESLint 插件/ESLint.md",
-    "Hello-算法/算法 Note.md",
     "技术/🍔 Git.md",
     "日常/🍔 前端开发.md",
     "日常/阿里云服务器/🍔 阿里云服务器操作.md",
