@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/排序算法.md",
+                "file": "算法/Tag.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "tag:#快慢指针",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/排序算法.md",
+                "file": "算法/Tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/排序算法.md",
+                "file": "算法/Tag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/排序算法.md"
+                "file": "算法/Tag.md"
               }
             }
           },
@@ -157,13 +157,14 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "f864681396be15e3",
+  "active": "5088954fbabcd5c5",
   "lastOpenFiles": [
+    "算法/LeetCode - 数之和.md",
+    "算法/Tag.md",
+    "算法/算法 Note.md",
+    "算法/排序算法.md",
     "算法/2. 复杂度分析.md",
     "TODO/🌸 Idea.md",
-    "算法/算法 Note.md",
-    "算法/LeetCode - 数之和.md",
-    "算法/排序算法.md",
     "算法/图片/选择排序.png",
     "算法/图片/插入排序.png",
     "算法/图片/归并排序.png",
