@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#快慢指针",
+                "query": "全排列",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
