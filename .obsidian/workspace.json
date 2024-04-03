@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "全排列",
+                "query": "tag:#二分查找",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +157,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "5088954fbabcd5c5",
+  "active": "f864681396be15e3",
   "lastOpenFiles": [
     "算法/LeetCode - 数之和.md",
     "算法/Tag.md",
