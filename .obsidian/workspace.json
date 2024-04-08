@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/Tag.md",
+                "file": "Stable Diffusion/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/Tag.md",
+                "file": "Stable Diffusion/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/Tag.md",
+                "file": "Stable Diffusion/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/Tag.md"
+                "file": "Stable Diffusion/Notes.md"
               }
             }
           },
@@ -159,8 +158,10 @@
   },
   "active": "f864681396be15e3",
   "lastOpenFiles": [
-    "算法/LeetCode - 数之和.md",
     "算法/Tag.md",
+    "Stable Diffusion/Notes.md",
+    "Stable Diffusion",
+    "算法/LeetCode - 数之和.md",
     "算法/算法 Note.md",
     "算法/排序算法.md",
     "算法/2. 复杂度分析.md",
@@ -196,7 +197,6 @@
     "日常/阿里云服务器/图片/Pasted image 20231213093701.png",
     "日常/阿里云服务器/图片/Pasted image 20240305133719.png",
     "插件/ESLint 插件",
-    "插件",
     "未命名.md",
     "技术/模板/🍔 VS Code settings.md",
     "技术/Animate.md",
@@ -205,7 +205,6 @@
     "日常/🍔 油猴脚本.md",
     "日常/🍔 Mac Using.md",
     "日常/🍔 NVM.md",
-    "日常/🍔 ADB.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "技术/TS.canvas"
