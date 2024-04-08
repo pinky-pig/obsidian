@@ -13,6 +13,4 @@
 (nsfw)EasyNegative,drawn by bad-artist,sketch by bad-artist-anime,(bad_prompt:0.8),(artist name,signature,watermark:1.4),(ugly:1.2),(worst quality,poor details:1.4),bad-hands-5,badhandv4,blurry
 ```
 
-```
-Ugly,black background,unclear lines,worst quality,low quality
-```
+3. 
