@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f9437f52e8f86008",
+        "id": "db0a043afa4de7a8",
         "type": "tabs",
         "children": [
           {
-            "id": "6923752d22d35941",
+            "id": "1af2ca7d217ee397",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "算法/排序算法.md",
-                "mode": "source",
-                "source": false
+                "file": "总览.canvas",
+                "viewState": {
+                  "x": 584.6413290017849,
+                  "y": 422.4329780535577,
+                  "zoom": -1
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/排序算法.md",
+                "file": "总览.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/排序算法.md",
+                "file": "总览.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/排序算法.md"
+                "file": "总览.canvas"
               }
             }
           },
@@ -156,10 +159,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "6923752d22d35941",
+  "active": "1af2ca7d217ee397",
   "lastOpenFiles": [
-    "运行脚本和打包/🍣 常用工具.md",
     "算法/排序算法.md",
+    "运行脚本和打包/🍣 常用工具.md",
     "运行脚本和打包/tsup.md",
     "运行脚本和打包",
     "Stable Diffusion/Notes.md",
