@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f864681396be15e3",
+            "id": "6923752d22d35941",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,14 +156,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "f864681396be15e3",
+  "active": "6923752d22d35941",
   "lastOpenFiles": [
+    "运行脚本和打包/🍣 常用工具.md",
+    "算法/排序算法.md",
+    "运行脚本和打包/tsup.md",
+    "运行脚本和打包",
     "Stable Diffusion/Notes.md",
     "算法/Tag.md",
     "Stable Diffusion",
     "算法/LeetCode - 数之和.md",
     "算法/算法 Note.md",
-    "算法/排序算法.md",
     "算法/2. 复杂度分析.md",
     "TODO/🌸 Idea.md",
     "算法/图片/选择排序.png",
@@ -196,15 +199,12 @@
     "日常/阿里云服务器/图片/Pasted image 20231212175714.png",
     "日常/阿里云服务器/图片/Pasted image 20231213093701.png",
     "日常/阿里云服务器/图片/Pasted image 20240305133719.png",
-    "插件/ESLint 插件",
     "未命名.md",
     "技术/模板/🍔 VS Code settings.md",
     "技术/Animate.md",
     "技术/FE-Tricks.md",
     "日常/🍔 JS 网站脚本.md",
     "日常/🍔 油猴脚本.md",
-    "日常/🍔 Mac Using.md",
-    "日常/🍔 NVM.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "技术/TS.canvas"
