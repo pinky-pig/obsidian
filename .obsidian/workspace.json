@@ -4,25 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "db0a043afa4de7a8",
+        "id": "721eb9ac52b9389f",
         "type": "tabs",
         "children": [
           {
-            "id": "1af2ca7d217ee397",
+            "id": "ed334eb6ac9ef034",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "总览.canvas",
-                "viewState": {
-                  "x": 584.6413290017849,
-                  "y": 422.4329780535577,
-                  "zoom": -1
-                }
+                "file": "算法/🍣 1. 排序算法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fe6f70adc18d7a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法/🍣 2. 搜索.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 314.5
   },
   "right": {
     "id": "4f18322c320d6c6c",
@@ -88,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总览.canvas",
+                "file": "算法/🍣 2. 搜索.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总览.canvas",
+                "file": "算法/🍣 2. 搜索.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总览.canvas"
+                "file": "算法/🍣 2. 搜索.md"
               }
             }
           },
@@ -159,26 +169,27 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "1af2ca7d217ee397",
+  "active": "2fe6f70adc18d7a5",
   "lastOpenFiles": [
-    "算法/排序算法.md",
+    "算法/🍣 1. 排序算法.md",
+    "算法/🍣 2. 搜索.md",
+    "算法/2. 复杂度分析.md",
+    "算法/算法 Note.md",
+    "选择排序.png",
+    "算法/LeetCode - 数之和.md",
+    "算法/Tag.md",
+    "总览.canvas",
     "运行脚本和打包/🍣 常用工具.md",
     "运行脚本和打包/tsup.md",
     "运行脚本和打包",
     "Stable Diffusion/Notes.md",
-    "算法/Tag.md",
     "Stable Diffusion",
-    "算法/LeetCode - 数之和.md",
-    "算法/算法 Note.md",
-    "算法/2. 复杂度分析.md",
     "TODO/🌸 Idea.md",
     "算法/图片/选择排序.png",
     "算法/图片/插入排序.png",
     "算法/图片/归并排序.png",
     "2024-04-03.md",
-    "选择排序.png",
     "算法/图片",
-    "总览.canvas",
     "Excalidraw/Drawing 2024-04-02 09.07.01.excalidraw.md",
     "Excalidraw",
     "插件/ESLint 插件/ESLint.md",
@@ -206,8 +217,6 @@
     "技术/模板/🍔 VS Code settings.md",
     "技术/Animate.md",
     "技术/FE-Tricks.md",
-    "日常/🍔 JS 网站脚本.md",
-    "日常/🍔 油猴脚本.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "技术/TS.canvas"
