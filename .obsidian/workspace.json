@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "721eb9ac52b9389f",
+        "id": "c50caf4ecce989dd",
         "type": "tabs",
         "children": [
           {
-            "id": "ed334eb6ac9ef034",
+            "id": "83c5bcb121130d8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/🍣 1. 排序算法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fe6f70adc18d7a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法/🍣 2. 搜索.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26919bb85fdd1b75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法/🍣 2. 搜索.md",
+                "file": "日常/🍔 前端开发.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#二分查找",
+                "query": "eslint",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/🍣 2. 搜索.md",
+                "file": "日常/🍔 前端开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/🍣 2. 搜索.md",
+                "file": "日常/🍔 前端开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/🍣 2. 搜索.md"
+                "file": "日常/🍔 前端开发.md"
               }
             }
           },
@@ -181,11 +157,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "26919bb85fdd1b75",
+  "active": "83c5bcb121130d8e",
   "lastOpenFiles": [
-    "未命名.md",
     "算法/🍣 2. 搜索.md",
     "算法/🍣 1. 排序算法.md",
+    "未命名.md",
     "算法/2. 复杂度分析.md",
     "算法/算法 Note.md",
     "选择排序.png",
