@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "如何复刻本博客，免费快速部署.md",
+                "file": "技术/🍔 Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eslint",
+                "query": "rebase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
-    "collapsed": true
+    "width": 314.5
   },
   "right": {
     "id": "4f18322c320d6c6c",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "如何复刻本博客，免费快速部署.md",
+                "file": "技术/🍔 Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "如何复刻本博客，免费快速部署.md",
+                "file": "技术/🍔 Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "如何复刻本博客，免费快速部署.md"
+                "file": "技术/🍔 Git.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "821da6c25f70de1a",
   "lastOpenFiles": [
-    "日常/🍔 前端开发.md",
+    "日常/阿里云服务器/🍔 阿里云服务器操作.md",
     "如何复刻本博客，免费快速部署.md",
+    "日常/🍔 前端开发.md",
     "随笔",
     "算法/🍣 2. 搜索.md",
     "算法/🍣 1. 排序算法.md",
@@ -186,7 +187,6 @@
     "Excalidraw",
     "插件/ESLint 插件/ESLint.md",
     "技术/🍔 Git.md",
-    "日常/阿里云服务器/🍔 阿里云服务器操作.md",
     "软件/🍔  Mine.md",
     "软件/浏览器首页.md",
     "TODO/todo.md",
