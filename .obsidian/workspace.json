@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c50caf4ecce989dd",
+        "id": "96d5b38bf19af06b",
         "type": "tabs",
         "children": [
           {
-            "id": "83c5bcb121130d8e",
+            "id": "821da6c25f70de1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/🍔 前端开发.md",
+                "file": "如何复刻本博客，免费快速部署.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 314.5,
+    "collapsed": true
   },
   "right": {
     "id": "4f18322c320d6c6c",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/🍔 前端开发.md",
+                "file": "如何复刻本博客，免费快速部署.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/🍔 前端开发.md",
+                "file": "如何复刻本博客，免费快速部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/🍔 前端开发.md"
+                "file": "如何复刻本博客，免费快速部署.md"
               }
             }
           },
@@ -157,8 +157,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "83c5bcb121130d8e",
+  "active": "821da6c25f70de1a",
   "lastOpenFiles": [
+    "日常/🍔 前端开发.md",
+    "如何复刻本博客，免费快速部署.md",
+    "随笔",
     "算法/🍣 2. 搜索.md",
     "算法/🍣 1. 排序算法.md",
     "未命名.md",
@@ -183,7 +186,6 @@
     "Excalidraw",
     "插件/ESLint 插件/ESLint.md",
     "技术/🍔 Git.md",
-    "日常/🍔 前端开发.md",
     "日常/阿里云服务器/🍔 阿里云服务器操作.md",
     "软件/🍔  Mine.md",
     "软件/浏览器首页.md",
@@ -196,7 +198,6 @@
     "插件/油猴脚本",
     "日常/阿里云服务器/图片/Pasted image 20231201115439.png",
     "日常/阿里云服务器/图片",
-    "日常/阿里云服务器",
     "日常/阿里云服务器/图片/Pasted image 20231206173209.png",
     "日常/阿里云服务器/图片/Pasted image 20231212175350.png",
     "日常/阿里云服务器/图片/Pasted image 20231212175714.png",
