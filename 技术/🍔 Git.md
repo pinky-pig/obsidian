@@ -2,6 +2,15 @@
 
 ---
 ---
+
+大小写不敏感
+
+```bash
+# 首先在命令窗口中查看 git是否忽略了大小写
+git config core.ignorecase
+# 如果返回结果为true，则将其设为 false ，git即可识别并更新文件
+git config core.ignorecase false
+```
 ### Revert
 
 **🌸创建一个新的提交来撤销先前的提交，而不是直接删除或修改历史提交🌸**
