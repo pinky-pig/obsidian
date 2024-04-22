@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/🍔 Git.md",
+                "file": "随笔/如何复刻本博客，免费快速部署.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 314.5,
+    "collapsed": true
   },
   "right": {
     "id": "4f18322c320d6c6c",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/🍔 Git.md",
+                "file": "随笔/如何复刻本博客，免费快速部署.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/🍔 Git.md",
+                "file": "随笔/如何复刻本博客，免费快速部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/🍔 Git.md"
+                "file": "随笔/如何复刻本博客，免费快速部署.md"
               }
             }
           },
@@ -157,17 +157,18 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "b032e17dea6243ee",
+  "active": "50ab933d2d6057bb",
   "lastOpenFiles": [
+    "未命名.md",
+    "2024-04-03.md",
+    "技术/🍔 Git.md",
     "日常/🍔 前端开发.md",
     "随笔/如何复刻本博客，免费快速部署.md",
     "224BAF5D.png",
-    "技术/🍔 Git.md",
     "日常/阿里云服务器/🍔 阿里云服务器操作.md",
     "随笔",
     "算法/🍣 2. 搜索.md",
     "算法/🍣 1. 排序算法.md",
-    "未命名.md",
     "算法/2. 复杂度分析.md",
     "算法/算法 Note.md",
     "选择排序.png",
@@ -183,7 +184,6 @@
     "算法/图片/选择排序.png",
     "算法/图片/插入排序.png",
     "算法/图片/归并排序.png",
-    "2024-04-03.md",
     "算法/图片",
     "Excalidraw/Drawing 2024-04-02 09.07.01.excalidraw.md",
     "Excalidraw",
