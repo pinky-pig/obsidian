@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/🍔 Git.md",
+                "file": "随笔/如何复刻本博客，免费快速部署.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/🍔 Git.md",
+                "file": "随笔/如何复刻本博客，免费快速部署.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/🍔 Git.md",
+                "file": "随笔/如何复刻本博客，免费快速部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/🍔 Git.md"
+                "file": "随笔/如何复刻本博客，免费快速部署.md"
               }
             }
           },
@@ -159,10 +158,10 @@
   },
   "active": "b032e17dea6243ee",
   "lastOpenFiles": [
+    "技术/🍔 Git.md",
     "随笔/如何复刻本博客，免费快速部署.md",
     "未命名.md",
     "2024-04-03.md",
-    "技术/🍔 Git.md",
     "日常/🍔 前端开发.md",
     "224BAF5D.png",
     "日常/阿里云服务器/🍔 阿里云服务器操作.md",
