@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0a71f3276a2e1c50",
+        "id": "78ba5b095823fbfc",
         "type": "tabs",
         "children": [
           {
-            "id": "1fbe4af59b91b8af",
+            "id": "2d940334f97563b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/3. 作用域、作用域链、闭包、柯里化.md",
+                "file": "面试/4. this、call 、apply 、bind、new.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/3. 作用域、作用域链、闭包、柯里化.md",
+                "file": "面试/4. this、call 、apply 、bind、new.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/3. 作用域、作用域链、闭包、柯里化.md",
+                "file": "面试/4. this、call 、apply 、bind、new.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/3. 作用域、作用域链、闭包、柯里化.md"
+                "file": "面试/4. this、call 、apply 、bind、new.md"
               }
             }
           },
@@ -156,11 +156,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "1fbe4af59b91b8af",
+  "active": "2d940334f97563b4",
   "lastOpenFiles": [
-    "面试/2. 原型、原型链、构造函数、普通函数、箭头函数.md",
     "面试/3. 作用域、作用域链、闭包、柯里化.md",
+    "面试/4. this、call 、apply 、bind、new.md",
     "面试/0. 笔记一.md",
+    "面试/2. 原型、原型链、构造函数、普通函数、箭头函数.md",
     "面试/1. 基础数据类型和引用数据类型.md",
     "未命名.md",
     "面试/Pasted image 20240506135205.png",
@@ -196,7 +197,6 @@
     "脚本/🍣 常用工具.md",
     "运行脚本和打包/tsup.md",
     "脚本",
-    "Stable Diffusion/Notes.md",
     "Stable Diffusion",
     "算法/图片/选择排序.png",
     "算法/图片/插入排序.png",
