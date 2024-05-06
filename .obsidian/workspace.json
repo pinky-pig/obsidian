@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7f45c6c376e6c0d8",
+        "id": "0a71f3276a2e1c50",
         "type": "tabs",
         "children": [
           {
-            "id": "879d7cd54f624aec",
+            "id": "a9638aa5deb90a89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法/2. 复杂度分析.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/2. 复杂度分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/2. 复杂度分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "算法/2. 复杂度分析.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,14 +148,15 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "879d7cd54f624aec",
+  "active": "a9638aa5deb90a89",
   "lastOpenFiles": [
+    "脚本/fs 操作文件.md",
+    "算法/2. 复杂度分析.md",
     "算法/🍣 2. 搜索.md",
     "算法/🍣 1. 排序算法.md",
     "算法/LeetCode - 数之和.md",
     "算法/算法 Note.md",
     "算法/Tag.md",
-    "算法/2. 复杂度分析.md",
     "常用命令.md",
     "随笔/如何复刻本博客，免费快速部署.md",
     "未命名.md",
@@ -176,9 +169,9 @@
     "随笔",
     "选择排序.png",
     "总览.canvas",
-    "运行脚本和打包/🍣 常用工具.md",
+    "脚本/🍣 常用工具.md",
     "运行脚本和打包/tsup.md",
-    "运行脚本和打包",
+    "脚本",
     "Stable Diffusion/Notes.md",
     "Stable Diffusion",
     "TODO/🌸 Idea.md",
@@ -204,7 +197,6 @@
     "日常/阿里云服务器/图片/Pasted image 20231212175714.png",
     "日常/阿里云服务器/图片/Pasted image 20231213093701.png",
     "技术/模板/🍔 VS Code settings.md",
-    "技术/Animate.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "技术/TS.canvas"
