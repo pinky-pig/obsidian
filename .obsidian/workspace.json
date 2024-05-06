@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/数组/2. Map 、Set.md",
+                "file": "面试/数组/3. reduce.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/数组/2. Map 、Set.md",
+                "file": "面试/数组/3. reduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/数组/2. Map 、Set.md",
+                "file": "面试/数组/3. reduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/数组/2. Map 、Set.md"
+                "file": "面试/数组/3. reduce.md"
               }
             }
           },
@@ -158,20 +158,21 @@
   },
   "active": "d94ab91c192bf22c",
   "lastOpenFiles": [
-    "面试/数组/1. Array  、Array.from  、 new Array()  、Array.of().md",
-    "面试/0. 笔记一.md",
     "面试/数组/2. Map 、Set.md",
+    "面试/数组/1. Array()  、new Array() 、 Array.from()、 Array.of().md",
+    "面试/0. 笔记一.md",
+    "面试/数组/3. reduce.md",
+    "面试/八股/6. 深浅拷贝.md",
+    "面试/八股/7. Promise.md",
     "面试/数组",
     "面试/八股/Pasted image 20240506111326.png",
     "面试/八股/1. 基础数据类型和引用数据类型.md",
     "面试/八股",
     "面试/八股/8. Event Loop 事件循环.md",
-    "面试/八股/7. Promise.md",
     "面试/八股/4. this、call 、apply 、bind、new.md",
     "面试/八股/3. 作用域、作用域链、闭包、柯里化.md",
     "面试/八股/2. 原型、原型链、构造函数、普通函数、箭头函数.md",
     "面试/八股/5. 防抖、节流.md",
-    "面试/八股/6. 深浅拷贝.md",
     "未命名.md",
     "面试/八股/Pasted image 20240506135205.png",
     "Excalidraw/Drawing 2024-05-06 13.50.43.excalidraw.md",
@@ -194,7 +195,6 @@
     "算法/LeetCode - 数之和.md",
     "算法/算法 Note.md",
     "算法/Tag.md",
-    "随笔/如何复刻本博客，免费快速部署.md",
     "224BAF5D.png",
     "随笔",
     "选择排序.png",
