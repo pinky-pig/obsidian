@@ -11,9 +11,11 @@
             "id": "1fbe4af59b91b8af",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-06 10.47.22.excalidraw.md"
+                "file": "面试/3. 作用域、作用域链、闭包、柯里化.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-06 10.47.22.excalidraw.md",
+                "file": "面试/3. 作用域、作用域链、闭包、柯里化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-06 10.47.22.excalidraw.md",
+                "file": "面试/3. 作用域、作用域链、闭包、柯里化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-06 10.47.22.excalidraw.md"
+                "file": "面试/3. 作用域、作用域链、闭包、柯里化.md"
               }
             }
           },
@@ -156,15 +158,24 @@
   },
   "active": "1fbe4af59b91b8af",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-06 13.46.53.excalidraw.md",
-    "面试/Pasted image 20240506111326.png",
-    "总览.canvas",
     "面试/2. 原型、原型链、构造函数、普通函数、箭头函数.md",
-    "面试/Pasted image 20240506133617.png",
-    "面试/Pasted image 20240506112206.png",
+    "面试/3. 作用域、作用域链、闭包、柯里化.md",
     "面试/0. 笔记一.md",
     "面试/1. 基础数据类型和引用数据类型.md",
+    "未命名.md",
+    "面试/Pasted image 20240506135205.png",
+    "Excalidraw/Drawing 2024-05-06 13.50.43.excalidraw.md",
+    "Pasted image 20240506135139.png",
+    "Pasted image 20240506135059.png",
+    "Excalidraw/Drawing 2024-05-06 13.46.53.excalidraw.md",
     "Excalidraw/Drawing 2024-05-06 10.47.22.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-06 13.50.38.excalidraw.md",
+    "常用命令.md",
+    "README.md",
+    "总览.canvas",
+    "面试/Pasted image 20240506111326.png",
+    "面试/Pasted image 20240506133617.png",
+    "面试/Pasted image 20240506112206.png",
     "Excalidraw",
     "面试",
     "脚本/fs 操作文件.md",
@@ -174,9 +185,7 @@
     "算法/LeetCode - 数之和.md",
     "算法/算法 Note.md",
     "算法/Tag.md",
-    "常用命令.md",
     "随笔/如何复刻本博客，免费快速部署.md",
-    "未命名.md",
     "技术/🍔 Git.md",
     "2024-04-03.md",
     "日常/🍔 前端开发.md",
@@ -189,19 +198,13 @@
     "脚本",
     "Stable Diffusion/Notes.md",
     "Stable Diffusion",
-    "TODO/🌸 Idea.md",
     "算法/图片/选择排序.png",
     "算法/图片/插入排序.png",
-    "算法/图片/归并排序.png",
     "算法/图片",
-    "Excalidraw/Drawing 2024-04-02 09.07.01.excalidraw.md",
-    "插件/ESLint 插件/ESLint.md",
     "插件/Termu",
     "插件/Vite 插件",
     "插件/浏览器插件",
     "插件/油猴脚本",
-    "日常/阿里云服务器/图片/Pasted image 20231201115439.png",
-    "日常/阿里云服务器/图片/Pasted image 20231206173209.png",
     "未命名 1.canvas",
     "未命名.canvas",
     "技术/TS.canvas"
