@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1fbe4af59b91b8af",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-06 10.47.22.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/笔记一.md",
+                "file": "Excalidraw/Drawing 2024-05-06 10.47.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/笔记一.md",
+                "file": "Excalidraw/Drawing 2024-05-06 10.47.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/笔记一.md"
+                "file": "Excalidraw/Drawing 2024-05-06 10.47.22.excalidraw.md"
               }
             }
           },
@@ -157,9 +168,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "a9638aa5deb90a89",
+  "active": "1fbe4af59b91b8af",
   "lastOpenFiles": [
     "面试/笔记一.md",
+    "Excalidraw/Drawing 2024-05-06 10.47.22.excalidraw.md",
+    "Excalidraw",
     "面试",
     "脚本/fs 操作文件.md",
     "算法/2. 复杂度分析.md",
@@ -190,14 +203,12 @@
     "算法/图片/归并排序.png",
     "算法/图片",
     "Excalidraw/Drawing 2024-04-02 09.07.01.excalidraw.md",
-    "Excalidraw",
     "插件/ESLint 插件/ESLint.md",
     "软件/🍔  Mine.md",
     "软件/浏览器首页.md",
     "TODO/todo.md",
     "测试/Cypress.md",
     "插件/Termu",
-    "插件/未命名.md",
     "插件/Vite 插件",
     "插件/浏览器插件",
     "插件/油猴脚本",
