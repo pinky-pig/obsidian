@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9638aa5deb90a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "面试/笔记一.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1fbe4af59b91b8af",
             "type": "leaf",
             "state": {
@@ -29,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
-    "collapsed": true
+    "width": 314.5
   },
   "right": {
     "id": "4f18322c320d6c6c",
@@ -170,7 +156,14 @@
   },
   "active": "1fbe4af59b91b8af",
   "lastOpenFiles": [
-    "面试/笔记一.md",
+    "Excalidraw/Drawing 2024-05-06 13.46.53.excalidraw.md",
+    "面试/Pasted image 20240506111326.png",
+    "总览.canvas",
+    "面试/2. 原型、原型链、构造函数、普通函数、箭头函数.md",
+    "面试/Pasted image 20240506133617.png",
+    "面试/Pasted image 20240506112206.png",
+    "面试/0. 笔记一.md",
+    "面试/1. 基础数据类型和引用数据类型.md",
     "Excalidraw/Drawing 2024-05-06 10.47.22.excalidraw.md",
     "Excalidraw",
     "面试",
@@ -191,7 +184,6 @@
     "日常/阿里云服务器/🍔 阿里云服务器操作.md",
     "随笔",
     "选择排序.png",
-    "总览.canvas",
     "脚本/🍣 常用工具.md",
     "运行脚本和打包/tsup.md",
     "脚本",
@@ -204,19 +196,12 @@
     "算法/图片",
     "Excalidraw/Drawing 2024-04-02 09.07.01.excalidraw.md",
     "插件/ESLint 插件/ESLint.md",
-    "软件/🍔  Mine.md",
-    "软件/浏览器首页.md",
-    "TODO/todo.md",
-    "测试/Cypress.md",
     "插件/Termu",
     "插件/Vite 插件",
     "插件/浏览器插件",
     "插件/油猴脚本",
     "日常/阿里云服务器/图片/Pasted image 20231201115439.png",
     "日常/阿里云服务器/图片/Pasted image 20231206173209.png",
-    "日常/阿里云服务器/图片/Pasted image 20231212175350.png",
-    "日常/阿里云服务器/图片/Pasted image 20231212175714.png",
-    "日常/阿里云服务器/图片/Pasted image 20231213093701.png",
     "未命名 1.canvas",
     "未命名.canvas",
     "技术/TS.canvas"
