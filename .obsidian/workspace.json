@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd63847cacab6901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试/5. 防抖、节流.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66d64e72d8030faf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试/6. 深浅拷贝.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee02b70da4168008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试/0. 笔记一.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/4. this、call 、apply 、bind、new.md",
+                "file": "面试/0. 笔记一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/4. this、call 、apply 、bind、new.md",
+                "file": "面试/0. 笔记一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/4. this、call 、apply 、bind、new.md"
+                "file": "面试/0. 笔记一.md"
               }
             }
           },
@@ -156,11 +193,14 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "2d940334f97563b4",
+  "active": "ee02b70da4168008",
   "lastOpenFiles": [
-    "面试/3. 作用域、作用域链、闭包、柯里化.md",
-    "面试/4. this、call 、apply 、bind、new.md",
+    "面试/7. Promise.md",
     "面试/0. 笔记一.md",
+    "面试/6. 深浅拷贝.md",
+    "面试/4. this、call 、apply 、bind、new.md",
+    "面试/5. 防抖、节流.md",
+    "面试/3. 作用域、作用域链、闭包、柯里化.md",
     "面试/2. 原型、原型链、构造函数、普通函数、箭头函数.md",
     "面试/1. 基础数据类型和引用数据类型.md",
     "未命名.md",
@@ -191,11 +231,8 @@
     "2024-04-03.md",
     "日常/🍔 前端开发.md",
     "224BAF5D.png",
-    "日常/阿里云服务器/🍔 阿里云服务器操作.md",
     "随笔",
     "选择排序.png",
-    "脚本/🍣 常用工具.md",
-    "运行脚本和打包/tsup.md",
     "脚本",
     "Stable Diffusion",
     "算法/图片/选择排序.png",
