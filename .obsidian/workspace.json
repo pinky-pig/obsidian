@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/0. 笔记一.md",
+                "file": "面试/题目/2. Promise 应用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/0. 笔记一.md",
+                "file": "面试/题目/2. Promise 应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/0. 笔记一.md",
+                "file": "面试/题目/2. Promise 应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/0. 笔记一.md"
+                "file": "面试/题目/2. Promise 应用.md"
               }
             }
           },
@@ -156,9 +156,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "50ab933d2d6057bb",
+  "active": "d94ab91c192bf22c",
   "lastOpenFiles": [
-    "面试/题目/2. 使用 Promise 限制请求并发数.md",
+    "面试/0. 笔记一.md",
+    "面试/题目/2. Promise 应用.md",
     "面试/正则",
     "面试/题目/1. 数组转树.md",
     "面试/个人项目/7. 业务项目.md",
@@ -172,7 +173,6 @@
     "面试/数组/5. 数组转树、树转数组.md",
     "面试/数组/2. Map 、Set.md",
     "面试/数组/4. for of 、forEach 、for 、for in.md",
-    "面试/0. 笔记一.md",
     "面试/题目",
     "面试/八股/6. 深浅拷贝.md",
     "面试/数组/3. reduce.md",
