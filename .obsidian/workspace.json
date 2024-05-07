@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/数组/3. reduce.md",
+                "file": "面试/0. 笔记一.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,12 +48,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Typescript",
+                "query": "for in",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/数组/3. reduce.md",
+                "file": "面试/0. 笔记一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/数组/3. reduce.md",
+                "file": "面试/0. 笔记一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/数组/3. reduce.md"
+                "file": "面试/0. 笔记一.md"
               }
             }
           },
@@ -156,13 +156,16 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d94ab91c192bf22c",
+  "active": "50ab933d2d6057bb",
   "lastOpenFiles": [
+    "面试/代码题",
+    "面试/数组/5. 数组转树、树转数组.md",
+    "面试/0. 笔记一.md",
+    "面试/数组/4. for of 、forEach 、for 、for in.md",
+    "面试/八股/6. 深浅拷贝.md",
+    "面试/数组/3. reduce.md",
     "面试/数组/2. Map 、Set.md",
     "面试/数组/1. Array()  、new Array() 、 Array.from()、 Array.of().md",
-    "面试/0. 笔记一.md",
-    "面试/数组/3. reduce.md",
-    "面试/八股/6. 深浅拷贝.md",
     "面试/八股/7. Promise.md",
     "面试/数组",
     "面试/八股/Pasted image 20240506111326.png",
@@ -192,9 +195,6 @@
     "算法/2. 复杂度分析.md",
     "算法/🍣 2. 搜索.md",
     "算法/🍣 1. 排序算法.md",
-    "算法/LeetCode - 数之和.md",
-    "算法/算法 Note.md",
-    "算法/Tag.md",
     "224BAF5D.png",
     "随笔",
     "选择排序.png",
