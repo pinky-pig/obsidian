@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/题目/2. Promise 应用.md",
+                "file": "面试/八股/8. Event Loop 事件循环.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/题目/2. Promise 应用.md",
+                "file": "面试/八股/8. Event Loop 事件循环.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/题目/2. Promise 应用.md",
+                "file": "面试/八股/8. Event Loop 事件循环.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/题目/2. Promise 应用.md"
+                "file": "面试/八股/8. Event Loop 事件循环.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "d94ab91c192bf22c",
   "lastOpenFiles": [
-    "面试/0. 笔记一.md",
     "面试/题目/2. Promise 应用.md",
+    "面试/0. 笔记一.md",
     "面试/正则",
     "面试/题目/1. 数组转树.md",
     "面试/个人项目/7. 业务项目.md",
