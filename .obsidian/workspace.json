@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "711a310805ad1a9c",
+        "id": "d9e23faa79c1dc88",
         "type": "tabs",
         "children": [
           {
-            "id": "4d45f31550233b54",
+            "id": "2f9d1ca498b73dde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shader/八股/3. 语法.md",
+                "file": "Shader/八股/4. 基础用法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shader/八股/3. 语法.md",
+                "file": "Shader/八股/4. 基础用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shader/八股/3. 语法.md",
+                "file": "Shader/八股/4. 基础用法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shader/八股/3. 语法.md"
+                "file": "Shader/八股/4. 基础用法.md"
               }
             }
           },
@@ -156,12 +156,14 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "4d45f31550233b54",
+  "active": "2f9d1ca498b73dde",
   "lastOpenFiles": [
-    "Shader/八股/2. 基本数据类型、复合数据类型和结构体.md",
-    "Shader/八股/3. 语法.md",
     "Shader/0. 笔记一.md",
+    "Shader/八股/4. 基础用法.md",
+    "Shader/八股/3. 语法.md",
+    "面试/八股/2. 原型、原型链、构造函数、普通函数、箭头函数.md",
     "Shader/八股/1. 介绍.md",
+    "Shader/八股/2. 基本数据类型、复合数据类型和结构体.md",
     "面试/0. 笔记一.md",
     "面试/八股/1. 基础数据类型和引用数据类型.md",
     "Shader/八股",
@@ -190,8 +192,6 @@
     "面试/八股/Pasted image 20240506111326.png",
     "面试/八股",
     "面试/八股/4. this、call 、apply 、bind、new.md",
-    "面试/八股/3. 作用域、作用域链、闭包、柯里化.md",
-    "面试/八股/2. 原型、原型链、构造函数、普通函数、箭头函数.md",
     "面试/八股/Pasted image 20240506135205.png",
     "Pasted image 20240506135139.png",
     "Pasted image 20240506135059.png",
