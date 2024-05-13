@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "78ba5b095823fbfc",
+        "id": "0becab0379756fe9",
         "type": "tabs",
         "children": [
           {
-            "id": "d94ab91c192bf22c",
+            "id": "6e801943af87151b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "面试/八股/8. Event Loop 事件循环.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/八股/8. Event Loop 事件循环.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/八股/8. Event Loop 事件循环.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "面试/八股/8. Event Loop 事件循环.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,19 +148,20 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d94ab91c192bf22c",
+  "active": "6e801943af87151b",
   "lastOpenFiles": [
+    "面试/个人项目/2. 拖拽排序.md",
+    "面试/个人项目/1. Bento 拖拽.md",
+    "面试/个人项目/4. 超椭圆.md",
+    "面试/个人项目/6. 鼠标轨迹和 SVG 动画.md",
+    "面试/个人项目/5. html2particle.md",
+    "面试/八股/8. Event Loop 事件循环.md",
     "面试/题目/2. Promise 应用.md",
     "面试/0. 笔记一.md",
     "面试/正则",
     "面试/题目/1. 数组转树.md",
     "面试/个人项目/7. 业务项目.md",
-    "面试/个人项目/1. Bento 拖拽.md",
-    "面试/个人项目/6. 鼠标轨迹和 SVG 动画.md",
-    "面试/个人项目/5. html2particle.md",
-    "面试/个人项目/4. 超椭圆.md",
     "面试/个人项目/3. 拖拽吸附.md",
-    "面试/个人项目/2. 拖拽排序.md",
     "面试/个人项目",
     "面试/数组/5. 数组转树、树转数组.md",
     "面试/数组/2. Map 、Set.md",
@@ -182,7 +175,6 @@
     "面试/八股/Pasted image 20240506111326.png",
     "面试/八股/1. 基础数据类型和引用数据类型.md",
     "面试/八股",
-    "面试/八股/8. Event Loop 事件循环.md",
     "面试/八股/4. this、call 、apply 、bind、new.md",
     "面试/八股/3. 作用域、作用域链、闭包、柯里化.md",
     "面试/八股/2. 原型、原型链、构造函数、普通函数、箭头函数.md",
