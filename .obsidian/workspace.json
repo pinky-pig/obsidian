@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0becab0379756fe9",
+        "id": "711a310805ad1a9c",
         "type": "tabs",
         "children": [
           {
-            "id": "6e801943af87151b",
+            "id": "4d45f31550233b54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Shader/八股/3. 语法.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Shader/八股/3. 语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Shader/八股/3. 语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Shader/八股/3. 语法.md"
+              }
             }
           },
           {
@@ -148,8 +156,16 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "6e801943af87151b",
+  "active": "4d45f31550233b54",
   "lastOpenFiles": [
+    "Shader/八股/2. 基本数据类型、复合数据类型和结构体.md",
+    "Shader/八股/3. 语法.md",
+    "Shader/0. 笔记一.md",
+    "Shader/八股/1. 介绍.md",
+    "面试/0. 笔记一.md",
+    "面试/八股/1. 基础数据类型和引用数据类型.md",
+    "Shader/八股",
+    "Shader",
     "面试/个人项目/2. 拖拽排序.md",
     "面试/个人项目/1. Bento 拖拽.md",
     "面试/个人项目/4. 超椭圆.md",
@@ -157,7 +173,6 @@
     "面试/个人项目/5. html2particle.md",
     "面试/八股/8. Event Loop 事件循环.md",
     "面试/题目/2. Promise 应用.md",
-    "面试/0. 笔记一.md",
     "面试/正则",
     "面试/题目/1. 数组转树.md",
     "面试/个人项目/7. 业务项目.md",
@@ -173,15 +188,11 @@
     "面试/八股/7. Promise.md",
     "面试/数组",
     "面试/八股/Pasted image 20240506111326.png",
-    "面试/八股/1. 基础数据类型和引用数据类型.md",
     "面试/八股",
     "面试/八股/4. this、call 、apply 、bind、new.md",
     "面试/八股/3. 作用域、作用域链、闭包、柯里化.md",
     "面试/八股/2. 原型、原型链、构造函数、普通函数、箭头函数.md",
-    "面试/八股/5. 防抖、节流.md",
-    "未命名.md",
     "面试/八股/Pasted image 20240506135205.png",
-    "Excalidraw/Drawing 2024-05-06 13.50.43.excalidraw.md",
     "Pasted image 20240506135139.png",
     "Pasted image 20240506135059.png",
     "总览.canvas",
@@ -192,8 +203,6 @@
     "224BAF5D.png",
     "随笔",
     "选择排序.png",
-    "脚本",
-    "Stable Diffusion",
     "算法/图片/选择排序.png",
     "算法/图片/插入排序.png",
     "未命名 1.canvas",
