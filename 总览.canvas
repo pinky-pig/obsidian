@@ -36,7 +36,8 @@
 		{"id":"0fd5d8cd5c7cb189","type":"text","text":"Vue Nuxt ","x":145,"y":1421,"width":427,"height":59},
 		{"id":"e357e5e48d320372","type":"text","text":"React Next React Native three fiber","x":145,"y":1535,"width":427,"height":50},
 		{"id":"7309af5ef15e0ccc","type":"text","text":"Sqlite MongoDB Dexie.js","x":145,"y":1640,"width":427,"height":50},
-		{"id":"7d5494b7814e2043","type":"text","text":"Three.js GLSL GIS","x":145,"y":1760,"width":427,"height":50}
+		{"id":"7d5494b7814e2043","type":"text","text":"Three.js GLSL GIS","x":145,"y":1760,"width":427,"height":50},
+		{"id":"703a50d9589048e1","x":145,"y":1880,"width":427,"height":50,"type":"text","text":"Vitest Playwright"}
 	],
 	"edges":[
 		{"id":"8d9bd144e1dcfadb","fromNode":"eb9d393fa80fd055","fromSide":"right","toNode":"6566580dfe99a72b","toSide":"left"},
@@ -73,6 +74,7 @@
 		{"id":"51cafe3f1a23c0a8","fromNode":"342fea194d23defe","fromSide":"right","toNode":"0fd5d8cd5c7cb189","toSide":"left"},
 		{"id":"f64572709559c458","fromNode":"342fea194d23defe","fromSide":"right","toNode":"e357e5e48d320372","toSide":"left"},
 		{"id":"67c143d2c5bba351","fromNode":"342fea194d23defe","fromSide":"right","toNode":"7309af5ef15e0ccc","toSide":"left"},
-		{"id":"3b7d48484df09b1f","fromNode":"342fea194d23defe","fromSide":"right","toNode":"7d5494b7814e2043","toSide":"left"}
+		{"id":"3b7d48484df09b1f","fromNode":"342fea194d23defe","fromSide":"right","toNode":"7d5494b7814e2043","toSide":"left"},
+		{"id":"7bb405aab86ecf2f","fromNode":"342fea194d23defe","fromSide":"right","toNode":"703a50d9589048e1","toSide":"left"}
 	]
 }
