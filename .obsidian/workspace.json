@@ -11,8 +11,12 @@
             "id": "8c8e638bd44a2de8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "算法/3. 二叉树.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leet",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "算法/3. 二叉树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "算法/3. 二叉树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "算法/3. 二叉树.md"
+              }
             }
           },
           {
@@ -152,6 +159,13 @@
   "active": "8c8e638bd44a2de8",
   "lastOpenFiles": [
     "算法/LeetCode - 数之和.md",
+    "算法/算法 Note.md",
+    "算法/3. 二叉树.md",
+    "算法/1. 排序算法.md",
+    "算法/2. 搜索.md",
+    "算法/0. 复杂度分析.md",
+    "算法/Tag.md",
+    "日常/🍔 Mac Using.md",
     "Shader/0. 笔记一.md",
     "总览.canvas",
     "Shader/八股/4. 基础用法.md",
@@ -175,14 +189,7 @@
     "面试/个人项目/7. 业务项目.md",
     "面试/个人项目/3. 拖拽吸附.md",
     "面试/个人项目",
-    "面试/数组/5. 数组转树、树转数组.md",
-    "面试/数组/2. Map 、Set.md",
-    "面试/数组/4. for of 、forEach 、for 、for in.md",
     "面试/题目",
-    "面试/八股/6. 深浅拷贝.md",
-    "面试/数组/3. reduce.md",
-    "面试/数组/1. Array()  、new Array() 、 Array.from()、 Array.of().md",
-    "面试/八股/7. Promise.md",
     "面试/数组",
     "面试/八股/Pasted image 20240506111326.png",
     "面试/八股",

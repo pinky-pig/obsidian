@@ -28,10 +28,15 @@ touch test.md
 code .
 ```
 
-
 ## **4. 打开隐藏文件夹**
 
 
 ```
- Shift + Command + .
+ shift + command + .
+```
+
+## **5. 复制文件路径**
+
+```
+option + command + c
 ```
