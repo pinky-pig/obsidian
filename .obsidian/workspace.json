@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/数组/1. Array()  、new Array() 、 Array.from()、 Array.of().md",
+                "file": "Shader/噪音/2. Simplex 噪音.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/数组/1. Array()  、new Array() 、 Array.from()、 Array.of().md",
+                "file": "Shader/噪音/2. Simplex 噪音.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/数组/1. Array()  、new Array() 、 Array.from()、 Array.of().md",
+                "file": "Shader/噪音/2. Simplex 噪音.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/数组/1. Array()  、new Array() 、 Array.from()、 Array.of().md"
+                "file": "Shader/噪音/2. Simplex 噪音.md"
               }
             }
           },
@@ -158,6 +158,16 @@
   },
   "active": "426f5c53f967eeb2",
   "lastOpenFiles": [
+    "Shader/噪音/2. Perlin 噪音.md",
+    "Shader/噪音/2. Simplex 噪音.md",
+    "Shader/噪音/1. 白噪音.md",
+    "Shader/噪音/4. Voronoi 噪音.md",
+    "Shader/八股/4. 基础用法.md",
+    "Shader/八股/3. 语法.md",
+    "Shader/八股/2. 基本数据类型、复合数据类型和结构体.md",
+    "Shader/噪音/3. Worley 噪音.md",
+    "面试/数组/1. Array()  、new Array() 、 Array.from()、 Array.of().md",
+    "Shader/噪音",
     "面试/八股/3. 作用域、作用域链、闭包、柯里化.md",
     "面试/八股/1. 基础数据类型和引用数据类型.md",
     "面试/八股/4. this、call 、apply 、bind、new.md",
@@ -176,18 +186,9 @@
     "算法/Tag.md",
     "日常/🍔 Mac Using.md",
     "Shader/0. 笔记一.md",
-    "Shader/八股/4. 基础用法.md",
     "Shader/八股/1. 介绍.md",
-    "Shader/八股/3. 语法.md",
-    "面试/八股/2. 原型、原型链、构造函数、普通函数、箭头函数.md",
-    "Shader/八股/2. 基本数据类型、复合数据类型和结构体.md",
-    "面试/0. 笔记一.md",
     "Shader/八股",
     "Shader",
-    "面试/个人项目/2. 拖拽排序.md",
-    "面试/个人项目/1. Bento 拖拽.md",
-    "面试/个人项目/4. 超椭圆.md",
-    "面试/个人项目/6. 鼠标轨迹和 SVG 动画.md",
     "面试/正则",
     "面试/个人项目",
     "面试/题目",
@@ -200,7 +201,6 @@
     "面试/八股/Pasted image 20240506133617.png",
     "面试/八股/Pasted image 20240506112206.png",
     "Excalidraw",
-    "面试",
     "224BAF5D.png",
     "选择排序.png",
     "算法/图片/选择排序.png",
