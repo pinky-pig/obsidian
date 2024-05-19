@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dd3168ea12515354",
+        "id": "5b1c3987733ab0af",
         "type": "tabs",
         "children": [
           {
-            "id": "50f833b97840c819",
+            "id": "d9b9c6e62f395893",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法/LeetCode - 数之和.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/LeetCode - 数之和.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/LeetCode - 数之和.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "算法/LeetCode - 数之和.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,11 +148,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "50f833b97840c819",
+  "active": "d9b9c6e62f395893",
   "lastOpenFiles": [
+    "算法/LeetCode - 数之和.md",
     "算法/2. 搜索.md",
     "算法/1. 排序算法.md",
-    "算法/LeetCode - 数之和.md",
     "算法/Tag.md",
     "日常/🍔 前端开发.md",
     "Shader/噪音/2. Simplex 噪音.md",
