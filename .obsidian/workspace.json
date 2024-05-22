@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3689981ce3ab63c2",
+        "id": "ff2138c192fce08b",
         "type": "tabs",
         "children": [
           {
-            "id": "05ee36206add41b8",
+            "id": "bec5f507fc75527b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日常/🍔 Mac Using.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tl",
+                "query": "隐藏",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日常/🍔 Mac Using.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日常/🍔 Mac Using.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日常/🍔 Mac Using.md"
+              }
             }
           },
           {
@@ -148,7 +157,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "05ee36206add41b8",
+  "active": "bec5f507fc75527b",
   "lastOpenFiles": [
     "测试/Cypress.md",
     "地图/0. 开发笔记.md",
