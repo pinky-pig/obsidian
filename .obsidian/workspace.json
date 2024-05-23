@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/🍔 Mac Using.md",
+                "file": "脚本/1. 遍历文件删除注释.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/🍔 Mac Using.md",
+                "file": "脚本/1. 遍历文件删除注释.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/🍔 Mac Using.md",
+                "file": "脚本/1. 遍历文件删除注释.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/🍔 Mac Using.md"
+                "file": "脚本/1. 遍历文件删除注释.md"
               }
             }
           },
@@ -159,6 +158,10 @@
   },
   "active": "bec5f507fc75527b",
   "lastOpenFiles": [
+    "脚本/2. 读取文件并写入.md",
+    "脚本/🍣 常用工具.md",
+    "脚本/1. 遍历文件删除注释.md",
+    "日常/🍔 Mac Using.md",
     "测试/Cypress.md",
     "地图/0. 开发笔记.md",
     "地图/下载离线高德瓦片地图.md",
@@ -182,11 +185,7 @@
     "面试/八股/1. 基础数据类型和引用数据类型.md",
     "面试/八股/4. this、call 、apply 、bind、new.md",
     "面试/八股/7. Promise.md",
-    "算法/3. 二叉树/1. 构建树节点和二叉树类.md",
-    "算法/3. 二叉树/0. 二叉树的几个概念.md",
-    "算法/3. 二叉树.md",
     "算法/3. 二叉树",
-    "日常/阿里云服务器/🍔 阿里云服务器操作.md",
     "总览.canvas",
     "Shader/八股",
     "Shader",
