@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87c7575532661062",
+        "id": "70687d28b5b7dcbf",
         "type": "tabs",
         "children": [
           {
-            "id": "8e8c7486c3171d47",
+            "id": "a52edb2519b1a42c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "8e8c7486c3171d47",
+  "active": "a52edb2519b1a42c",
   "lastOpenFiles": [
     "2024-05-26.md",
     "未命名.canvas",
