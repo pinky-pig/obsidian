@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70687d28b5b7dcbf",
+        "id": "168c8f78fea708c2",
         "type": "tabs",
         "children": [
           {
-            "id": "a52edb2519b1a42c",
+            "id": "e18376182365c472",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,8 +148,9 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "a52edb2519b1a42c",
+  "active": "e18376182365c472",
   "lastOpenFiles": [
+    "日常/英文口语简写.md",
     "2024-05-26.md",
     "未命名.canvas",
     "脚本/1. 遍历文件删除注释.md",
