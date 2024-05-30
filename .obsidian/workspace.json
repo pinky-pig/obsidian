@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "168c8f78fea708c2",
+        "id": "1aeee7e7d61e62b3",
         "type": "tabs",
         "children": [
           {
-            "id": "e18376182365c472",
+            "id": "af08faf27dc5ba6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "技术/Tailwindcss.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "隐藏",
+                "query": "tail",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 230.5
   },
   "right": {
     "id": "4f18322c320d6c6c",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "技术/Tailwindcss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "技术/Tailwindcss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "技术/Tailwindcss.md"
+              }
             }
           },
           {
@@ -148,15 +157,16 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "e18376182365c472",
+  "active": "af08faf27dc5ba6d",
   "lastOpenFiles": [
+    "前端交接文档.md",
+    "日常/React.md",
     "日常/英文口语简写.md",
     "2024-05-26.md",
     "未命名.canvas",
     "脚本/1. 遍历文件删除注释.md",
     "脚本/🍣 常用工具.md",
     "脚本/2. 读取文件并写入.md",
-    "前端交接文档.md",
     "日常/🍔 Mac Using.md",
     "测试/Cypress.md",
     "地图/0. 开发笔记.md",
@@ -177,7 +187,6 @@
     "Shader/噪音/3. Worley 噪音.md",
     "面试/数组/1. Array()  、new Array() 、 Array.from()、 Array.of().md",
     "Shader/噪音",
-    "面试/八股/3. 作用域、作用域链、闭包、柯里化.md",
     "算法/3. 二叉树",
     "总览.canvas",
     "Shader/八股",
