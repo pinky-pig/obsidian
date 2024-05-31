@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-26.md",
+                "file": "日记/2024-06-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-26.md",
+                "file": "日记/2024-06-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-26.md",
+                "file": "日记/2024-06-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-26.md"
+                "file": "日记/2024-06-01.md"
               }
             }
           },
@@ -158,6 +158,11 @@
   },
   "active": "7cad9aaf17ce0482",
   "lastOpenFiles": [
+    "日记/0.日记模板.md",
+    "日记/2024-06-01.md",
+    "2024-05-26.md",
+    "2024-06-01.md",
+    "日记",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "未命名.md",
@@ -166,7 +171,6 @@
     "前端交接文档.md",
     "日常/React.md",
     "日常/英文口语简写.md",
-    "2024-05-26.md",
     "未命名.canvas",
     "脚本/1. 遍历文件删除注释.md",
     "脚本/🍣 常用工具.md",
@@ -184,8 +188,6 @@
     "Shader/噪音/2. Simplex 噪音.md",
     "Shader/噪音/2. Perlin 噪音.md",
     "Shader/噪音/1. 白噪音.md",
-    "Shader/噪音/4. Voronoi 噪音.md",
-    "Shader/八股/4. 基础用法.md",
     "Shader/噪音",
     "算法/3. 二叉树",
     "总览.canvas",
@@ -202,7 +204,6 @@
     "Pasted image 20240506135059.png",
     "面试/八股/Pasted image 20240506133617.png",
     "面试/八股/Pasted image 20240506112206.png",
-    "Excalidraw",
     "224BAF5D.png",
     "选择排序.png",
     "算法/图片/选择排序.png",
