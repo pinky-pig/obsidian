@@ -11,11 +11,14 @@
             "id": "7cad9aaf17ce0482",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名 2.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "未命名 2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "未命名 2.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "未命名 2.canvas"
               }
             }
           },
@@ -158,6 +161,9 @@
   },
   "active": "7cad9aaf17ce0482",
   "lastOpenFiles": [
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "未命名.md",
     "技术/Tailwindcss.md",
     "未命名 1.md",
     "前端交接文档.md",
@@ -183,8 +189,6 @@
     "Shader/噪音/1. 白噪音.md",
     "Shader/噪音/4. Voronoi 噪音.md",
     "Shader/八股/4. 基础用法.md",
-    "Shader/八股/3. 语法.md",
-    "Shader/八股/2. 基本数据类型、复合数据类型和结构体.md",
     "Shader/噪音",
     "算法/3. 二叉树",
     "总览.canvas",
@@ -206,7 +210,6 @@
     "选择排序.png",
     "算法/图片/选择排序.png",
     "算法/图片/插入排序.png",
-    "未命名 1.canvas",
     "技术/TS.canvas"
   ]
 }
