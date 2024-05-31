@@ -11,14 +11,11 @@
             "id": "7cad9aaf17ce0482",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名 2.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "2024-05-26.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 2.canvas",
+                "file": "2024-05-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 2.canvas",
+                "file": "2024-05-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 2.canvas"
+                "file": "2024-05-26.md"
               }
             }
           },
@@ -161,8 +158,8 @@
   },
   "active": "7cad9aaf17ce0482",
   "lastOpenFiles": [
-    "未命名 1.canvas",
     "未命名 2.canvas",
+    "未命名 1.canvas",
     "未命名.md",
     "技术/Tailwindcss.md",
     "未命名 1.md",
