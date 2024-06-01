@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b9f6cfca0a5073b",
+        "id": "6a5ed6767d8f174d",
         "type": "tabs",
         "children": [
           {
-            "id": "7cad9aaf17ce0482",
+            "id": "2518cc7086cd1739",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,7 +156,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "7cad9aaf17ce0482",
+  "active": "2518cc7086cd1739",
   "lastOpenFiles": [
     "日记/0.日记模板.md",
     "日记/2024-06-01.md",
