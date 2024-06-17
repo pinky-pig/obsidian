@@ -11,8 +11,12 @@
             "id": "7060c2b0fa3b86be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Shader/案例-创建下雨效果/1. 创建一个点.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Shader/案例-创建下雨效果/1. 创建一个点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Shader/案例-创建下雨效果/1. 创建一个点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Shader/案例-创建下雨效果/1. 创建一个点.md"
+              }
             }
           }
         ]
@@ -141,6 +149,8 @@
   },
   "active": "7060c2b0fa3b86be",
   "lastOpenFiles": [
+    "Shader/案例-创建下雨效果/1. 创建一个点.md",
+    "Shader/案例-创建下雨效果",
     "日记/2024-06-17.md",
     "日常/前端交接文档.md",
     "未命名.md",
