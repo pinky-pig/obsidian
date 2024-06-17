@@ -1,2 +1,4 @@
 - 前端使用 Figma 简介
+- 使用这个<https://codepen.io/pinky-pig/pen/oNRZEZp>作一个局域网文件传输
+- stable diffusion webui学习
 - 
