@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脚本/🍣 常用工具.md",
+                "file": "Shader/案例-创建下雨效果/1. 创建点、线、面.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脚本/🍣 常用工具.md",
+                "file": "Shader/案例-创建下雨效果/1. 创建点、线、面.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脚本/🍣 常用工具.md",
+                "file": "Shader/案例-创建下雨效果/1. 创建点、线、面.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脚本/🍣 常用工具.md"
+                "file": "Shader/案例-创建下雨效果/1. 创建点、线、面.md"
               }
             }
           }
@@ -150,13 +149,18 @@
   },
   "active": "8327178d2ff057dc",
   "lastOpenFiles": [
+    "Shader/案例-创建下雨效果/files/Pasted image 20240618170332.png",
+    "Shader/案例-创建下雨效果/files/Pasted image 20240618163847.png",
+    "Shader/案例-创建下雨效果/1. 创建点、线、面.md",
+    "Shader/案例-创建下雨效果/files/Pasted image 20240618165341.png",
+    "Shader/案例-创建下雨效果/files",
+    "脚本/🍣 常用工具.md",
     "Shader/八股/5. 变量定义.md",
     "Shader/八股/4. 基础用法.md",
     "Shader/八股/3. 语法.md",
     "Shader/八股/1. 介绍.md",
     "Shader/八股/2. 基本数据类型、复合数据类型和结构体.md",
     "日记/2024-06-18.md",
-    "Shader/案例-创建下雨效果/1. 创建一个点.md",
     "Shader/案例-创建下雨效果",
     "日记/2024-06-17.md",
     "日常/前端交接文档.md",
