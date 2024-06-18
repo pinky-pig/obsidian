@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b40b0fd36e9a2e76",
+        "id": "219fcf41e439f6a4",
         "type": "tabs",
         "children": [
           {
-            "id": "cc052e3dfac74537",
+            "id": "8327178d2ff057dc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,8 +139,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cc052e3dfac74537",
+  "active": "8327178d2ff057dc",
   "lastOpenFiles": [
+    "Shader/八股/5. 变量定义.md",
+    "Shader/八股/4. 基础用法.md",
+    "Shader/八股/3. 语法.md",
+    "Shader/八股/1. 介绍.md",
+    "Shader/八股/2. 基本数据类型、复合数据类型和结构体.md",
+    "日记/2024-06-18.md",
     "Shader/案例-创建下雨效果/1. 创建一个点.md",
     "Shader/案例-创建下雨效果",
     "日记/2024-06-17.md",
