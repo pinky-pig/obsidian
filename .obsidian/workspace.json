@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shader/案例-创建下雨效果/1. 创建点、线、面.md",
+                "file": "数学/1. 理解矩阵乘法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shader/案例-创建下雨效果/1. 创建点、线、面.md",
+                "file": "数学/1. 理解矩阵乘法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shader/案例-创建下雨效果/1. 创建点、线、面.md",
+                "file": "数学/1. 理解矩阵乘法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shader/案例-创建下雨效果/1. 创建点、线、面.md"
+                "file": "数学/1. 理解矩阵乘法.md"
               }
             }
           }
@@ -149,6 +149,13 @@
   },
   "active": "f0b865a06eb4ec84",
   "lastOpenFiles": [
+    "数学/files/Pasted image 20240621151144.png",
+    "数学/files/Pasted image 20240621151139.png",
+    "数学/1. 理解矩阵乘法.md",
+    "数学/files",
+    "数学/files/Pasted image 20240621150852.png",
+    "Shader/案例-创建下雨效果/1. 创建点、线、面.md",
+    "数学",
     "随笔/如何复刻本博客，免费快速部署.md",
     "日记/2024-06-21.md",
     "未命名.canvas",
@@ -164,7 +171,6 @@
     "日常/录屏.md",
     "技术/Animate.md",
     "技术/FE-Tricks.md",
-    "Shader/案例-创建下雨效果/1. 创建点、线、面.md",
     "Shader/案例-创建下雨效果/files/Pasted image 20240618170332.png",
     "Shader/案例-创建下雨效果/files/Pasted image 20240618163847.png",
     "Shader/案例-创建下雨效果/files/Pasted image 20240618165341.png",
@@ -178,7 +184,6 @@
     "日记/2024-06-18.md",
     "Shader/案例-创建下雨效果",
     "日记/2024-06-17.md",
-    "未命名.md",
-    "常用命令.md"
+    "未命名.md"
   ]
 }
