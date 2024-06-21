@@ -40,3 +40,9 @@ code .
 ```
 option + command + c
 ```
+
+## **6. 查看ip地址**
+
+```shell
+ifconfig en0
+```
