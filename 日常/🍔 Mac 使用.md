@@ -46,3 +46,9 @@ option + command + c
 ```shell
 ifconfig en0
 ```
+
+## **7. 快捷打开文件夹地址**
+
+```
+cmd + shift + g
+```
