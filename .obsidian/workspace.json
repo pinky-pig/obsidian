@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件/🍔  Mine.md",
+                "file": "Java/自定义 yaml 配置文件.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件/🍔  Mine.md",
+                "file": "Java/自定义 yaml 配置文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件/🍔  Mine.md",
+                "file": "Java/自定义 yaml 配置文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件/🍔  Mine.md"
+                "file": "Java/自定义 yaml 配置文件.md"
               }
             }
           }
@@ -147,9 +147,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f6323fc5d23549f4",
+  "active": "e3bc5d66ec803d44",
   "lastOpenFiles": [
     "Java/简单.md",
+    "Java/自定义 yaml 配置文件.md",
+    "软件/🍔  Mine.md",
     "日记/2024-06-26.md",
     "Java",
     "随笔/note.md",
@@ -166,7 +168,6 @@
     "日记/2024-06-21.md",
     "未命名.canvas",
     "日常/🍔 ADB.md",
-    "软件/🍔  Mine.md",
     "日常/英文口语简写.md",
     "日常/NPM.md",
     "日常/PNPM.md",
@@ -185,7 +186,6 @@
     "Shader/八股/4. 基础用法.md",
     "Shader/八股/3. 语法.md",
     "Shader/八股/1. 介绍.md",
-    "Shader/八股/2. 基本数据类型、复合数据类型和结构体.md",
     "Shader/案例-创建下雨效果"
   ]
 }
