@@ -11,9 +11,11 @@
             "id": "a98af27833fb5f7f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "技术/Mac 安装 MySQL.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "技术/Mac 安装 MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "技术/Mac 安装 MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "技术/Mac 安装 MySQL.md"
+              }
             }
           }
         ]
@@ -143,6 +149,7 @@
   },
   "active": "a98af27833fb5f7f",
   "lastOpenFiles": [
+    "技术/Mac 安装 MySQL.md",
     "日常/🍔 Mac 使用.md",
     "数学/1. 理解矩阵乘法.md",
     "数学/files/Pasted image 20240621151144.png",
