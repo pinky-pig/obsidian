@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c32c25094fdb442",
+        "id": "7f72192125c89944",
         "type": "tabs",
         "children": [
           {
-            "id": "a98af27833fb5f7f",
+            "id": "ce65b173dea7b923",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/Mac 安装 MySQL.md",
+                "file": "随笔/note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/Mac 安装 MySQL.md",
+                "file": "随笔/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/Mac 安装 MySQL.md",
+                "file": "随笔/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/Mac 安装 MySQL.md"
+                "file": "随笔/note.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a98af27833fb5f7f",
+  "active": "ce65b173dea7b923",
   "lastOpenFiles": [
+    "随笔/note.md",
     "技术/Mac 安装 MySQL.md",
     "日常/🍔 Mac 使用.md",
     "数学/1. 理解矩阵乘法.md",
@@ -184,7 +185,6 @@
     "Shader/八股/2. 基本数据类型、复合数据类型和结构体.md",
     "日记/2024-06-18.md",
     "Shader/案例-创建下雨效果",
-    "日记/2024-06-17.md",
-    "未命名.md"
+    "日记/2024-06-17.md"
   ]
 }
