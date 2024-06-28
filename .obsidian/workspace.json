@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Mac 上 MySQL.md",
+                "file": "随笔/什么是正向代理，什么是反向代理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Mac 上 MySQL.md",
+                "file": "随笔/什么是正向代理，什么是反向代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Mac 上 MySQL.md",
+                "file": "随笔/什么是正向代理，什么是反向代理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Mac 上 MySQL.md"
+                "file": "随笔/什么是正向代理，什么是反向代理.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "e3bc5d66ec803d44",
   "lastOpenFiles": [
-    "Java/简单.md",
     "SQL/Mac 上 MySQL.md",
+    "随笔/什么是正向代理，什么是反向代理.md",
+    "Java/简单.md",
     "SQL",
     "Java/自定义 yaml 配置文件.md",
     "软件/🍔  Mine.md",
@@ -186,7 +187,6 @@
     "脚本/🍣 常用工具.md",
     "Shader/八股/5. 变量定义.md",
     "Shader/八股/4. 基础用法.md",
-    "Shader/八股/3. 语法.md",
     "Shader/案例-创建下雨效果"
   ]
 }
