@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JDBC 连接数据库.md",
+                "file": "Java/Mybatis 和 Jdbc 的区别.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/JDBC 连接数据库.md",
+                "file": "Java/Mybatis 和 Jdbc 的区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/JDBC 连接数据库.md",
+                "file": "Java/Mybatis 和 Jdbc 的区别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/JDBC 连接数据库.md"
+                "file": "Java/Mybatis 和 Jdbc 的区别.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "e3bc5d66ec803d44",
   "lastOpenFiles": [
-    "随笔/什么是正向代理，什么是反向代理.md",
     "Java/JDBC 连接数据库.md",
+    "Java/Mybatis 和 Jdbc 的区别.md",
+    "随笔/什么是正向代理，什么是反向代理.md",
     "SQL/Mac 上 MySQL.md",
     "Java/简单.md",
     "SQL",
@@ -186,7 +187,6 @@
     "Shader/案例-创建下雨效果/files/Pasted image 20240618165341.png",
     "Shader/案例-创建下雨效果/files",
     "脚本/🍣 常用工具.md",
-    "Shader/八股/5. 变量定义.md",
     "Shader/案例-创建下雨效果"
   ]
 }
