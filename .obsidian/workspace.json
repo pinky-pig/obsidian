@@ -11,8 +11,12 @@
             "id": "fadb3ec39ed252af",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SQL/1. 谷歌上 SQL 教程.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Mac 上 MySQL.md",
+                "file": "SQL/1. 谷歌上 SQL 教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Mac 上 MySQL.md",
+                "file": "SQL/1. 谷歌上 SQL 教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Mac 上 MySQL.md"
+                "file": "SQL/1. 谷歌上 SQL 教程.md"
               }
             }
           }
@@ -143,13 +147,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f6323fc5d23549f4",
+  "active": "fadb3ec39ed252af",
   "lastOpenFiles": [
+    "Rust/1. 起步.md",
+    "SQL/1. 谷歌上 SQL 教程.md",
+    "SQL/0. Mac 上 MySQL.md",
+    "Rust",
     "日常/调试 Electron 软件.md",
     "Java/Mybatis 和 Jdbc 的区别.md",
     "Java/JDBC 连接数据库.md",
     "随笔/什么是正向代理，什么是反向代理.md",
-    "SQL/Mac 上 MySQL.md",
     "Java/简单.md",
     "SQL",
     "Java/自定义 yaml 配置文件.md",
@@ -177,8 +184,6 @@
     "日常/ZX.md",
     "日常/前端交接文档.md",
     "日常/录屏.md",
-    "技术/Animate.md",
-    "技术/FE-Tricks.md",
     "Shader/案例-创建下雨效果/files/Pasted image 20240618170332.png",
     "Shader/案例-创建下雨效果/files/Pasted image 20240618163847.png",
     "Shader/案例-创建下雨效果/files/Pasted image 20240618165341.png",
