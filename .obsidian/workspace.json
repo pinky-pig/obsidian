@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/1. 谷歌上 SQL 教程.md",
+                "file": "SQL/2. 小结.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/1. 谷歌上 SQL 教程.md",
+                "file": "SQL/2. 小结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/1. 谷歌上 SQL 教程.md",
+                "file": "SQL/2. 小结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/1. 谷歌上 SQL 教程.md"
+                "file": "SQL/2. 小结.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "fadb3ec39ed252af",
   "lastOpenFiles": [
-    "Rust/1. 起步.md",
     "SQL/1. 谷歌上 SQL 教程.md",
+    "SQL/2. 小结.md",
+    "Rust/1. 起步.md",
     "SQL/0. Mac 上 MySQL.md",
     "Rust",
     "日常/调试 Electron 软件.md",
@@ -183,7 +184,6 @@
     "日常/React.md",
     "日常/ZX.md",
     "日常/前端交接文档.md",
-    "日常/录屏.md",
     "Shader/案例-创建下雨效果/files/Pasted image 20240618170332.png",
     "Shader/案例-创建下雨效果/files/Pasted image 20240618163847.png",
     "Shader/案例-创建下雨效果/files/Pasted image 20240618165341.png",
