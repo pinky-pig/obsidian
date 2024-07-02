@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/2. 小结.md",
+                "file": "Shader/八股/5. 变量定义.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5921b4d3cb47a208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shader/八股/6. uv 坐标.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/2. 小结.md",
+                "file": "Shader/八股/6. uv 坐标.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/2. 小结.md",
+                "file": "Shader/八股/6. uv 坐标.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/2. 小结.md"
+                "file": "Shader/八股/6. uv 坐标.md"
               }
             }
           }
@@ -147,10 +160,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fadb3ec39ed252af",
+  "active": "5921b4d3cb47a208",
   "lastOpenFiles": [
-    "SQL/1. 谷歌上 SQL 教程.md",
+    "Shader/八股/5. 变量定义.md",
+    "Shader/八股/6. uv 坐标.md",
+    "未命名",
     "SQL/2. 小结.md",
+    "SQL/1. 谷歌上 SQL 教程.md",
     "Rust/1. 起步.md",
     "SQL/0. Mac 上 MySQL.md",
     "Rust",
@@ -182,8 +198,6 @@
     "日常/NPM.md",
     "日常/PNPM.md",
     "日常/React.md",
-    "日常/ZX.md",
-    "日常/前端交接文档.md",
     "Shader/案例-创建下雨效果/files/Pasted image 20240618170332.png",
     "Shader/案例-创建下雨效果/files/Pasted image 20240618163847.png",
     "Shader/案例-创建下雨效果/files/Pasted image 20240618165341.png",
