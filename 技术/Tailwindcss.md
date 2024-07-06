@@ -4,8 +4,9 @@
 *group 和 peer 写法一样，而且顺序要固定*
 
 ```html
-<div class="group">...</div>
-<div class="group-hover-opacity-100">...</div>
+<div class="group">
+	<div class="group-hover:opacity-100">...</div>
+</div>
 ```
 
 **2. 给兄弟元素设置样式**

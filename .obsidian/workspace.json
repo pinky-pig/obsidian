@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/调试 Electron 软件.md",
+                "file": "技术/Tailwindcss.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chrome",
+                "query": "peer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/调试 Electron 软件.md",
+                "file": "技术/Tailwindcss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/调试 Electron 软件.md",
+                "file": "技术/Tailwindcss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/调试 Electron 软件.md"
+                "file": "技术/Tailwindcss.md"
               }
             }
           }
@@ -135,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +148,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1ac06f775d97d2ef",
+  "active": "64b802a212509f97",
   "lastOpenFiles": [
+    "日常/调试 Electron 软件.md",
     "Shader/八股/6. uv 坐标.md",
     "Shader/八股/5. 变量定义.md",
     "Shader/案例-创建下雨效果/4. 将画布分割成 10*10.md",
@@ -165,7 +166,6 @@
     "Rust/1. 起步.md",
     "SQL/0. Mac 上 MySQL.md",
     "Rust",
-    "日常/调试 Electron 软件.md",
     "Java/Mybatis 和 Jdbc 的区别.md",
     "Java/JDBC 连接数据库.md",
     "随笔/什么是正向代理，什么是反向代理.md",
