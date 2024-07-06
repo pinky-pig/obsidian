@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/Tailwindcss.md",
+                "file": "日记/2024-07-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "peer",
+                "query": "****",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/Tailwindcss.md",
+                "file": "日记/2024-07-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/Tailwindcss.md",
+                "file": "日记/2024-07-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/Tailwindcss.md"
+                "file": "日记/2024-07-06.md"
               }
             }
           }
@@ -148,9 +148,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "64b802a212509f97",
+  "active": "1ac06f775d97d2ef",
   "lastOpenFiles": [
+    "随笔/note.md",
+    "日记/2024-07-06.md",
+    "日常/🍔 ADB.md",
+    "日常/🍔 FFmpeg.md",
+    "日常/🍔 JS 网站脚本.md",
+    "日常/🍔 Mac 使用.md",
+    "日常/🍔 NVM.md",
     "日常/调试 Electron 软件.md",
+    "Shader/八股/3. 语法.md",
+    "脚本/1. 遍历文件删除注释.md",
+    "技术/Tailwindcss.md",
     "Shader/八股/6. uv 坐标.md",
     "Shader/八股/5. 变量定义.md",
     "Shader/案例-创建下雨效果/4. 将画布分割成 10*10.md",
@@ -168,23 +178,13 @@
     "Rust",
     "Java/Mybatis 和 Jdbc 的区别.md",
     "Java/JDBC 连接数据库.md",
-    "随笔/什么是正向代理，什么是反向代理.md",
-    "Java/简单.md",
     "SQL",
-    "Java/自定义 yaml 配置文件.md",
-    "软件/🍔  Mine.md",
-    "日记/2024-06-26.md",
     "Java",
-    "随笔/note.md",
-    "技术/Mac 安装 MySQL.md",
-    "日常/🍔 Mac 使用.md",
-    "数学/1. 理解矩阵乘法.md",
     "数学/files/Pasted image 20240621151144.png",
     "数学/files/Pasted image 20240621151139.png",
     "数学/files",
     "数学/files/Pasted image 20240621150852.png",
     "数学",
-    "随笔/如何复刻本博客，免费快速部署.md",
     "未命名.canvas",
     "Shader/案例-创建下雨效果/files/Pasted image 20240618170332.png",
     "Shader/案例-创建下雨效果/files/Pasted image 20240618163847.png",
