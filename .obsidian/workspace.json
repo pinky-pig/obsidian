@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a48eaea7839b8a91",
+        "id": "c3a0a8e8bc36d4d4",
         "type": "tabs",
         "children": [
           {
-            "id": "6b67ee7df2a06883",
+            "id": "827dd95ad3b0941e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日常/调试 Electron 软件.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 337.5
   },
   "right": {
     "id": "538a10e127af2724",
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/调试 Electron 软件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/调试 Electron 软件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日常/调试 Electron 软件.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,8 +141,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6b67ee7df2a06883",
+  "active": "827dd95ad3b0941e",
   "lastOpenFiles": [
+    "日常/调试 Electron 软件.md",
+    "技术/🍔 Git.md",
     "Excalidraw/Drawing 2024-07-09 17.46.43.excalidraw.md",
     "未命名.canvas",
     "Excalidraw/Drawing 2024-07-17 14.40.13.excalidraw.md",
@@ -166,7 +160,6 @@
     "SQL/1. 谷歌上 SQL 教程.md",
     "脚本/1. 遍历文件删除注释.md",
     "日常/🍔 前端开发.md",
-    "技术/🍔 Git.md",
     "技术/FE-Tricks.md",
     "日记/2024-07-08.md",
     "日记/2024-07-06.md",
@@ -175,7 +168,6 @@
     "日常/🍔 JS 网站脚本.md",
     "日常/🍔 Mac 使用.md",
     "日常/🍔 NVM.md",
-    "日常/调试 Electron 软件.md",
     "Shader/八股/3. 语法.md",
     "未命名",
     "Rust",
