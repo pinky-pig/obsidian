@@ -11,8 +11,12 @@
             "id": "827dd95ad3b0941e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日常/调试 Electron 软件.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日常/调试 Electron 软件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日常/调试 Electron 软件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日常/调试 Electron 软件.md"
+              }
             }
           }
         ],
@@ -141,7 +149,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "827dd95ad3b0941e",
+  "active": "abda44a360a55385",
   "lastOpenFiles": [
     "日常/调试 Electron 软件.md",
     "技术/🍔 Git.md",
