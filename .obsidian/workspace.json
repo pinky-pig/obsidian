@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/调试 Electron 软件.md",
+                "file": "日常/🍔 NVM.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "discord",
+                "query": "nvm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/调试 Electron 软件.md",
+                "file": "日常/🍔 NVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/调试 Electron 软件.md",
+                "file": "日常/🍔 NVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/调试 Electron 软件.md"
+                "file": "日常/🍔 NVM.md"
               }
             }
           }
@@ -149,8 +149,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "abda44a360a55385",
+  "active": "827dd95ad3b0941e",
   "lastOpenFiles": [
+    "日常/阿里云服务器/🍔 阿里云服务器操作.md",
+    "日常/🍔 NVM.md",
     "日常/调试 Electron 软件.md",
     "技术/🍔 Git.md",
     "Excalidraw/Drawing 2024-07-09 17.46.43.excalidraw.md",
@@ -175,7 +177,6 @@
     "日常/🍔 FFmpeg.md",
     "日常/🍔 JS 网站脚本.md",
     "日常/🍔 Mac 使用.md",
-    "日常/🍔 NVM.md",
     "Shader/八股/3. 语法.md",
     "未命名",
     "Rust",
