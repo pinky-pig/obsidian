@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/调试 Electron 软件.md",
+                "file": "技术/🍔 Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "discord",
+                "query": "squash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/调试 Electron 软件.md",
+                "file": "技术/🍔 Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/调试 Electron 软件.md",
+                "file": "技术/🍔 Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/调试 Electron 软件.md"
+                "file": "技术/🍔 Git.md"
               }
             }
           }
@@ -151,9 +151,9 @@
   },
   "active": "827dd95ad3b0941e",
   "lastOpenFiles": [
+    "日常/调试 Electron 软件.md",
     "日常/🍔 NVM.md",
     "日常/阿里云服务器/🍔 阿里云服务器操作.md",
-    "日常/调试 Electron 软件.md",
     "技术/🍔 Git.md",
     "Excalidraw/Drawing 2024-07-09 17.46.43.excalidraw.md",
     "未命名.canvas",
