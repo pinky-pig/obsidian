@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/资料分析/基期差.md",
+                "file": "行测/资料分析/1. 增长量.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "squash",
+                "query": "begin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 232.5,
+    "collapsed": true
   },
   "right": {
     "id": "538a10e127af2724",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "行测/资料分析/基期差.md",
+                "file": "行测/资料分析/1. 增长量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "行测/资料分析/基期差.md",
+                "file": "行测/资料分析/1. 增长量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "行测/资料分析/基期差.md"
+                "file": "行测/资料分析/1. 增长量.md"
               }
             }
           }
@@ -150,8 +151,17 @@
   },
   "active": "76fd62d4fcc7c0a6",
   "lastOpenFiles": [
-    "行测/资料分析/未命名.md",
+    "数学/1. 理解矩阵乘法.md",
+    "行测/资料分析/1. 增长量.md",
+    "Excalidraw/Drawing 2024-08-26 16.27.02.excalidraw.md",
+    "行测/资料分析/files/Pasted image 20240826161800.png",
+    "Excalidraw/Drawing 2024-08-26 16.14.02.excalidraw.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "行测/资料分析/files/Pasted image 20240826161009.png",
+    "行测/资料分析/files",
     "行测/资料分析/基期差.md",
+    "行测/资料分析/未命名.md",
     "行测/资料分析",
     "行测",
     "技术/🍔 Git.md",
@@ -160,7 +170,6 @@
     "日常/🍔 NVM.md",
     "日常/阿里云服务器/🍔 阿里云服务器操作.md",
     "Excalidraw/Drawing 2024-07-09 17.46.43.excalidraw.md",
-    "未命名.canvas",
     "Excalidraw/Drawing 2024-07-17 14.40.13.excalidraw.md",
     "Excalidraw/Drawing 2024-07-17 14.43.51.excalidraw.md",
     "日记/2024-07-17.md",
@@ -175,10 +184,6 @@
     "脚本/1. 遍历文件删除注释.md",
     "日常/🍔 前端开发.md",
     "技术/FE-Tricks.md",
-    "日记/2024-07-08.md",
-    "日记/2024-07-06.md",
-    "日常/🍔 ADB.md",
-    "日常/🍔 FFmpeg.md",
     "Rust",
     "SQL",
     "Java",
