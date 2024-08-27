@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "730db5fd017e7847",
+        "id": "9d8d7e0f0a1cebd9",
         "type": "tabs",
         "children": [
           {
-            "id": "4ea6e37d94fde795",
+            "id": "598b1ef58847a29f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/资料分析/5. 混合增长率 A+B.md",
+                "file": "行测/资料分析/7. 两期变化量 A-B.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "行测/资料分析/5. 混合增长率 A+B.md",
+                "file": "行测/资料分析/7. 两期变化量 A-B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "行测/资料分析/5. 混合增长率 A+B.md",
+                "file": "行测/资料分析/7. 两期变化量 A-B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "行测/资料分析/5. 混合增长率 A+B.md"
+                "file": "行测/资料分析/7. 两期变化量 A-B.md"
               }
             }
           }
@@ -148,15 +148,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4ea6e37d94fde795",
+  "active": "598b1ef58847a29f",
   "lastOpenFiles": [
-    "行测/资料分析/6. 基期差 A-B.md",
+    "行测/资料分析/3. 两期变化率 A÷B.md",
+    "行测/资料分析/4. 乘积增长率 A*B.md",
+    "行测/资料分析/2. 基期比重 A÷B.md",
     "行测/资料分析/5. 混合增长率 A+B.md",
+    "行测/资料分析/7. 两期变化量 A-B.md",
+    "行测/资料分析/6. 基期差 A-B.md",
     "行测/资料分析/files/Pasted image 20240827220412.png",
     "Excalidraw/Drawing 2024-08-26 16.14.02.excalidraw.md",
-    "行测/资料分析/4. 乘积增长率 A*B.md",
-    "行测/资料分析/3. 两期变化率 A÷B.md",
-    "行测/资料分析/2. 基期比重 A÷B.md",
     "行测/资料分析/files/Pasted image 20240827172042.png",
     "行测/资料分析/1. 增长量.md",
     "行测/资料分析/基期差.md",
