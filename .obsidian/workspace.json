@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/资料分析/1. 增长量.md",
+                "file": "行测/资料分析/2. 基期比重 A÷B.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/资料分析/2. 基期比重 A÷B.md",
+                "file": "行测/资料分析/3. 两期变化率 A÷B.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "行测/资料分析/2. 基期比重 A÷B.md",
+                "file": "行测/资料分析/3. 两期变化率 A÷B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "行测/资料分析/2. 基期比重 A÷B.md",
+                "file": "行测/资料分析/3. 两期变化率 A÷B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "行测/资料分析/2. 基期比重 A÷B.md"
+                "file": "行测/资料分析/3. 两期变化率 A÷B.md"
               }
             }
           }
@@ -163,8 +163,9 @@
   },
   "active": "37284da8b06db534",
   "lastOpenFiles": [
-    "行测/资料分析/1. 增长量.md",
     "行测/资料分析/2. 基期比重 A÷B.md",
+    "行测/资料分析/3. 两期变化率 A÷B.md",
+    "行测/资料分析/1. 增长量.md",
     "行测/资料分析/基期差.md",
     "行测/资料分析/files/Pasted image 20240827095814.png",
     "Excalidraw/Drawing 2024-08-26 16.14.02.excalidraw.md",
@@ -196,7 +197,6 @@
     "面试/数组/2. Map 、Set.md",
     "Shader/案例-创建下雨效果/2. 创建背景贴图.md",
     "SQL/1. 谷歌上 SQL 教程.md",
-    "脚本/1. 遍历文件删除注释.md",
     "Rust",
     "SQL",
     "Java",
