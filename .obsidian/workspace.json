@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/资料分析/3. 两期变化率 A÷B.md",
+                "file": "行测/资料分析/4. 乘积增长率 A*B.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "right": {
     "id": "538a10e127af2724",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "行测/资料分析/3. 两期变化率 A÷B.md",
+                "file": "行测/资料分析/4. 乘积增长率 A*B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "行测/资料分析/3. 两期变化率 A÷B.md",
+                "file": "行测/资料分析/4. 乘积增长率 A*B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "行测/资料分析/3. 两期变化率 A÷B.md"
+                "file": "行测/资料分析/4. 乘积增长率 A*B.md"
               }
             }
           }
@@ -164,8 +163,9 @@
   },
   "active": "37284da8b06db534",
   "lastOpenFiles": [
-    "行测/资料分析/2. 基期比重 A÷B.md",
     "行测/资料分析/3. 两期变化率 A÷B.md",
+    "行测/资料分析/2. 基期比重 A÷B.md",
+    "行测/资料分析/4. 乘积增长率 A*B.md",
     "行测/资料分析/1. 增长量.md",
     "行测/资料分析/基期差.md",
     "行测/资料分析/files/Pasted image 20240827095814.png",
@@ -197,7 +197,6 @@
     "算法/1. 排序算法.md",
     "面试/数组/2. Map 、Set.md",
     "Shader/案例-创建下雨效果/2. 创建背景贴图.md",
-    "SQL/1. 谷歌上 SQL 教程.md",
     "Rust",
     "SQL",
     "Java",
