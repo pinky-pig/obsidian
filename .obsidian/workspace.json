@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f27127e83343ea7e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-26 16.14.02.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -69,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "right": {
     "id": "538a10e127af2724",
@@ -150,12 +161,13 @@
   },
   "active": "598b1ef58847a29f",
   "lastOpenFiles": [
-    "行测/资料分析/9. 隔年增长率.md",
+    "行测/资料分析/files/Pasted image 20240828145859.png",
+    "Excalidraw/Drawing 2024-08-26 16.14.02.excalidraw.md",
     "行测/资料分析/10. 年均增长率、增量增速不变.md",
+    "行测/资料分析/9. 隔年增长率.md",
     "行测/资料分析/2. 基期比重 A÷B.md",
     "行测/资料分析/3. 两期变化率 A÷B.md",
     "行测/资料分析/files/Pasted image 20240828095408.png",
-    "Excalidraw/Drawing 2024-08-26 16.14.02.excalidraw.md",
     "行测/资料分析/files/Pasted image 20240828094654.png",
     "行测/资料分析/5. 混合增长率 A+B.md",
     "行测/资料分析/4. 乘积增长率 A*B.md",
@@ -187,7 +199,6 @@
     "Excalidraw/Drawing 2024-07-17 14.40.13.excalidraw.md",
     "Excalidraw/Drawing 2024-07-17 14.43.51.excalidraw.md",
     "日记/2024-07-17.md",
-    "技术/Tailwindcss.md",
     "Rust",
     "SQL",
     "Java",
