@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/资料分析/10. 年均增长率.md",
+                "file": "行测/资料分析/10. 年均增长率、增量增速不变.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "行测/资料分析/10. 年均增长率.md",
+                "file": "行测/资料分析/10. 年均增长率、增量增速不变.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "行测/资料分析/10. 年均增长率.md",
+                "file": "行测/资料分析/10. 年均增长率、增量增速不变.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "行测/资料分析/10. 年均增长率.md"
+                "file": "行测/资料分析/10. 年均增长率、增量增速不变.md"
               }
             }
           }
@@ -151,7 +151,7 @@
   "active": "598b1ef58847a29f",
   "lastOpenFiles": [
     "行测/资料分析/9. 隔年增长率.md",
-    "行测/资料分析/10. 年均增长率.md",
+    "行测/资料分析/10. 年均增长率、增量增速不变.md",
     "行测/资料分析/2. 基期比重 A÷B.md",
     "行测/资料分析/3. 两期变化率 A÷B.md",
     "行测/资料分析/files/Pasted image 20240828095408.png",
