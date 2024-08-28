@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f27127e83343ea7e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-26 16.14.02.excalidraw.md"
-              }
-            }
           }
         ]
       }
@@ -160,10 +150,10 @@
   },
   "active": "598b1ef58847a29f",
   "lastOpenFiles": [
+    "行测/资料分析/9. 隔年增长率.md",
+    "行测/资料分析/10. 年均增长率、增量增速不变.md",
     "行测/资料分析/files/Pasted image 20240828145859.png",
     "Excalidraw/Drawing 2024-08-26 16.14.02.excalidraw.md",
-    "行测/资料分析/10. 年均增长率、增量增速不变.md",
-    "行测/资料分析/9. 隔年增长率.md",
     "行测/资料分析/2. 基期比重 A÷B.md",
     "行测/资料分析/3. 两期变化率 A÷B.md",
     "行测/资料分析/files/Pasted image 20240828095408.png",
@@ -204,7 +194,6 @@
     "数学/files/Pasted image 20240621151144.png",
     "数学/files/Pasted image 20240621151139.png",
     "数学/files",
-    "数学/files/Pasted image 20240621150852.png",
     "数学",
     "Shader/案例-创建下雨效果/files",
     "Shader/案例-创建下雨效果"
