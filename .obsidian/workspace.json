@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/资料分析/7. 两期变化量 A-B.md",
+                "file": "行测/资料分析/10. 年均增长率.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "行测/资料分析/7. 两期变化量 A-B.md",
+                "file": "行测/资料分析/10. 年均增长率.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "行测/资料分析/7. 两期变化量 A-B.md",
+                "file": "行测/资料分析/10. 年均增长率.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "行测/资料分析/7. 两期变化量 A-B.md"
+                "file": "行测/资料分析/10. 年均增长率.md"
               }
             }
           }
@@ -150,14 +150,19 @@
   },
   "active": "598b1ef58847a29f",
   "lastOpenFiles": [
-    "行测/资料分析/6. 基期差 A-B.md",
-    "行测/资料分析/5. 混合增长率 A+B.md",
+    "行测/资料分析/9. 隔年增长率.md",
+    "行测/资料分析/10. 年均增长率.md",
     "行测/资料分析/2. 基期比重 A÷B.md",
     "行测/资料分析/3. 两期变化率 A÷B.md",
-    "行测/资料分析/7. 两期变化量 A-B.md",
-    "行测/资料分析/4. 乘积增长率 A*B.md",
-    "行测/资料分析/files/Pasted image 20240827220412.png",
+    "行测/资料分析/files/Pasted image 20240828095408.png",
     "Excalidraw/Drawing 2024-08-26 16.14.02.excalidraw.md",
+    "行测/资料分析/files/Pasted image 20240828094654.png",
+    "行测/资料分析/5. 混合增长率 A+B.md",
+    "行测/资料分析/4. 乘积增长率 A*B.md",
+    "行测/资料分析/7. 两期变化量 A-B.md",
+    "行测/资料分析/8. 四大模型总结.md",
+    "行测/资料分析/6. 基期差 A-B.md",
+    "行测/资料分析/files/Pasted image 20240827220412.png",
     "行测/资料分析/files/Pasted image 20240827172042.png",
     "行测/资料分析/1. 增长量.md",
     "行测/资料分析/基期差.md",
@@ -183,9 +188,6 @@
     "Excalidraw/Drawing 2024-07-17 14.43.51.excalidraw.md",
     "日记/2024-07-17.md",
     "技术/Tailwindcss.md",
-    "随笔/note.md",
-    "算法/2. 搜索.md",
-    "算法/0. 复杂度分析.md",
     "Rust",
     "SQL",
     "Java",
@@ -194,8 +196,6 @@
     "数学/files",
     "数学/files/Pasted image 20240621150852.png",
     "数学",
-    "Shader/案例-创建下雨效果/files/Pasted image 20240618170332.png",
-    "Shader/案例-创建下雨效果/files/Pasted image 20240618163847.png",
     "Shader/案例-创建下雨效果/files",
     "Shader/案例-创建下雨效果"
   ]
