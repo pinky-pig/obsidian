@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d92fa0bb17b7d9fd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +159,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "513c0928f219a652",
+  "active": "d92fa0bb17b7d9fd",
   "lastOpenFiles": [
     "行测/资料分析/10. 年均增长率、增量增速不变.md",
     "行测/资料分析/7. 两期变化量 A-B.md",
