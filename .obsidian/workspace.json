@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/NPM 安装依赖.md",
+                "file": "日常/🍔 Mac 使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "begin",
+                "query": "隐藏",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/NPM 安装依赖.md",
+                "file": "日常/🍔 Mac 使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/NPM 安装依赖.md",
+                "file": "日常/🍔 Mac 使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/NPM 安装依赖.md"
+                "file": "日常/🍔 Mac 使用.md"
               }
             }
           }
@@ -150,8 +151,12 @@
   },
   "active": "1cdee52ba5888d64",
   "lastOpenFiles": [
-    "行测/资料分析/7. 两期变化量 A-B.md",
+    "Rust/1. 起步.md",
+    "Shader/SQL/0. Mac 上 MySQL.md",
+    "日常/🍔 Mac 使用.md",
+    "软件/🍔  Mine.md",
     "日常/NPM 安装依赖.md",
+    "行测/资料分析/7. 两期变化量 A-B.md",
     "行测/资料分析/10. 年均增长率、增量增速不变.md",
     "行测/资料分析/2. 基期比重 A÷B.md",
     "行测/资料分析/6. 基期差 A-B.md",
@@ -185,10 +190,6 @@
     "行测",
     "技术/🍔 Git.md",
     "Excalidraw/Drawing 2024-08-20 09.57.47.excalidraw.md",
-    "日常/调试 Electron 软件.md",
-    "日常/🍔 NVM.md",
-    "日常/阿里云服务器/🍔 阿里云服务器操作.md",
-    "Excalidraw/Drawing 2024-07-09 17.46.43.excalidraw.md",
     "Rust",
     "Shader/SQL",
     "Java",
