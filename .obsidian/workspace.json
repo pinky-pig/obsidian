@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/资料分析/8. 四大模型总结及公式记忆.md",
+                "file": "日常/NPM 安装依赖.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "隐藏",
+                "query": "npm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "行测/资料分析/8. 四大模型总结及公式记忆.md",
+                "file": "日常/NPM 安装依赖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "行测/资料分析/8. 四大模型总结及公式记忆.md",
+                "file": "日常/NPM 安装依赖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "行测/资料分析/8. 四大模型总结及公式记忆.md"
+                "file": "日常/NPM 安装依赖.md"
               }
             }
           }
@@ -150,8 +151,9 @@
   },
   "active": "1cdee52ba5888d64",
   "lastOpenFiles": [
-    "行测/资料分析/11. 拉动、贡献增长率.md",
+    "日常/阿里云服务器/🍔 阿里云服务器操作.md",
     "行测/资料分析/8. 四大模型总结及公式记忆.md",
+    "行测/资料分析/11. 拉动、贡献增长率.md",
     "行测/资料分析/10. 年均增长率、增量增速不变.md",
     "行测/资料分析/7. 比重差 A-B (两期变化量).md",
     "行测/资料分析/5. 混合增长率 A+B.md",
@@ -188,7 +190,6 @@
     "行测/资料分析",
     "行测",
     "技术/🍔 Git.md",
-    "Excalidraw/Drawing 2024-08-20 09.57.47.excalidraw.md",
     "Rust",
     "Shader/SQL",
     "Java",
