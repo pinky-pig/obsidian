@@ -84,4 +84,14 @@ CMD ["nginx", "-g", "daemon off;"]
 也可以在终端输入
 
 ```bash
+docker images
 ```
+
+找到了名字，压缩也就是一行命令，例如下面：
+
+```bash
+# docker save <image_name>:<tag> -o <output_file>.tar
+docker save zkyscreen:latest -o screen.tar
+```
+
+这样就可以发送给别人了
