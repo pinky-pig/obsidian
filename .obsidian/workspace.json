@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b679fc03e1d8bdc1",
+        "id": "7f55aefba537ca69",
         "type": "tabs",
         "children": [
           {
-            "id": "1cdee52ba5888d64",
+            "id": "21fcd2d8d4a5b096",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日常/NPM 安装依赖.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/NPM 安装依赖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/NPM 安装依赖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,32 +118,48 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日常/NPM 安装依赖.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "afc7797e382d12f7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 412.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "1cdee52ba5888d64",
+  "active": "21fcd2d8d4a5b096",
   "lastOpenFiles": [
+    "脚本/termux/3. 钉钉打卡.md",
+    "脚本/termux/2. 像素点击触发.md",
+    "脚本/termux/1. 发送邮件.md",
+    "脚本/termux/dd 1.py",
+    "脚本/termux/ck.py",
+    "脚本/termux/e.py",
+    "脚本/termux/dd.py",
+    "脚本/termux",
+    "日常/🍔 ADB.md",
+    "日常/NPM 安装依赖.md",
     "日常/阿里云服务器/🍔 阿里云服务器操作.md",
     "行测/资料分析/8. 四大模型总结及公式记忆.md",
     "行测/资料分析/11. 拉动、贡献增长率.md",
@@ -166,7 +175,6 @@
     "Rust/1. 起步.md",
     "Shader/SQL/0. Mac 上 MySQL.md",
     "软件/🍔  Mine.md",
-    "日常/NPM 安装依赖.md",
     "行测/资料分析/12. 设问转化.md",
     "TODO/🌸 Idea.md",
     "行测/资料分析/基期差.md",
@@ -179,25 +187,16 @@
     "行测/资料分析/1. 增长量.md",
     "行测/资料分析/files/Pasted image 20240827095814.png",
     "Excalidraw/Drawing 2024-08-26 16.27.02.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-27 09.54.28.excalidraw.md",
-    "数学/1. 理解矩阵乘法.md",
     "行测/资料分析/files/Pasted image 20240826161800.png",
     "未命名.canvas",
     "未命名 1.canvas",
     "行测/资料分析/files/Pasted image 20240826161009.png",
     "行测/资料分析/files",
-    "行测/资料分析/未命名.md",
     "行测/资料分析",
     "行测",
-    "技术/🍔 Git.md",
     "Rust",
     "Shader/SQL",
-    "Java",
     "数学/files/Pasted image 20240621151144.png",
-    "数学/files/Pasted image 20240621151139.png",
-    "数学/files",
-    "数学",
-    "Shader/案例-创建下雨效果/files",
-    "Shader/案例-创建下雨效果"
+    "数学/files/Pasted image 20240621151139.png"
   ]
 }
