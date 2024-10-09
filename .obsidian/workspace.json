@@ -11,8 +11,12 @@
             "id": "21fcd2d8d4a5b096",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日常/WSL 使用.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "npm",
+                "query": "nvm ls ava",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日常/WSL 使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日常/WSL 使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日常/WSL 使用.md"
+              }
             }
           },
           {
@@ -150,6 +158,9 @@
   },
   "active": "21fcd2d8d4a5b096",
   "lastOpenFiles": [
+    "日常/Docker.md",
+    "日常/WSL 使用.md",
+    "日常/🍔 NVM.md",
     "脚本/termux/3. 钉钉打卡.md",
     "脚本/termux/2. 像素点击触发.md",
     "脚本/termux/1. 发送邮件.md",
@@ -179,14 +190,11 @@
     "TODO/🌸 Idea.md",
     "行测/资料分析/基期差.md",
     "行测/资料分析/files/Pasted image 20240828145859.png",
-    "Excalidraw/Drawing 2024-08-26 16.14.02.excalidraw.md",
     "行测/资料分析/files/Pasted image 20240828095408.png",
     "行测/资料分析/files/Pasted image 20240828094654.png",
     "行测/资料分析/files/Pasted image 20240827220412.png",
     "行测/资料分析/files/Pasted image 20240827172042.png",
-    "行测/资料分析/1. 增长量.md",
     "行测/资料分析/files/Pasted image 20240827095814.png",
-    "Excalidraw/Drawing 2024-08-26 16.27.02.excalidraw.md",
     "行测/资料分析/files/Pasted image 20240826161800.png",
     "未命名.canvas",
     "未命名 1.canvas",
