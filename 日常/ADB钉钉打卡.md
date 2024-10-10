@@ -85,9 +85,8 @@ adb connect <设备IP地址>:<端口>
 电脑 adb 传输文件的时候，如果 `adb devices`有多个机子，那么可以指定其中一个
 
 ```bash
-adb -s <设备序列号> push <本地文件路径> <目标路径>
-# 
-adb -s 192.168.124.24:37561 
+# adb -s <设备序列号> push <本地文件路径> <目标路径>
+adb -s 192.168.124.24:37561 push "C:\Users\Admin\Desktop\dd.py" "/sdcard/workspace"
 ```
 
 ## 脚本示例：自动钉钉打卡
@@ -96,17 +95,18 @@ adb -s 192.168.124.24:37561
 ```python
 # -*- coding: utf-8 -*-
 
-'''
-@Project ：exe 
-@File    ：auto.py
-@IDE     ：PyCharm 
-@Author  ：Sadhu
-@Date    ：2023/10/26 10:10 
-'''
+# 基础操作
+# 1. adb 传输文件
+# adb push "C:\Users\Admin\Desktop\dd.py" "/sdcard/workspace"
+# 2. 运行脚本
+# nohup python -u dd.py
+
 import os
 import time
 import schedule
 import smtplib
+import requests
+import random
 
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -114,11 +114,16 @@ from email.mime.image import MIMEImage
 
 class Email():
     def __init__(self):
+        # 网易邮箱SMTP服务器地址
         self.__SMTP_SSL_HOST = 'smtp.163.com'
+        # 网易邮箱SMTP服务器端口
         self.__SMTP_SSL_PORT = '465'
-        self.__from_email_address = '13912258252@163.com'
-        self.__from_email_password = 'XMDRPORIXPBXMVTM'
-        self.__to_email_address = '675887342@qq.com'
+        # 网易邮箱发件人地址
+        self.__from_email_address = 'xxx@163.com'
+        # 网易邮箱授权密码管理器中设置的客户端授权码
+        self.__from_email_password = 'xxx'
+        # 收件人邮箱地址
+        self.__to_email_address = 'xxx@qq.com'
 
     def __link_and_login(self):
         # 1. 连接邮箱服务器
@@ -130,7 +135,7 @@ class Email():
     def send(self, subject, body, image_data_list=[]):
         msg = MIMEMultipart()
         msg['From'] = self.__from_email_address
-        msg['To'] = self.__from_email_password
+        msg['To'] = self.__to_email_address
         msg['Subject'] = subject
         if len(image_data_list) > 0:
             body = body + '<br/>'
@@ -147,72 +152,182 @@ class Email():
         # 关闭连接
         con.quit()
 
-
 email = Email()
+
+ipPort = 'xxx:xxx'
+get_dingding_daka_url = 'xxx/api/dingdingDaka/get_status'
+set_dingding_daka_url = 'xxx/api/dingdingDaka/set_status?status='
+
+def is_connect():
+    try:
+        res = os.popen(f"adb -s {ipPort} devices").read()
+        time.sleep(1)
+        
+        for item in res.split("\n"):
+            if ipPort in item and 'device' in item:
+                is_con = True
+                break
+            else:
+                is_con = False
+        
+        if is_con:
+            print('adb已连接.')
+        else:
+            print('adb未连接.')
+        return is_con
+    except Exception as e:
+        print('adb未连接.')
+        return False
+
+
+def is_screen_power():
+    res = os.popen(f"adb -s {ipPort} shell 'dumpsys display | grep mScreenState'")
+    return True if 'mScreenState=ON' in res.read() else False
+
+
+def connect_adb():
+    os.system(f"adb connect {ipPort}")
+    return is_connect()
 
 
 def log():
     nowtime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    print(f'程序正在运行，当前时间 {nowtime}')
+    print(f"程序正在运行，当前时间 {nowtime}")
 
+
+def is_send_adb_fail_message(is_connect):
+    nowtime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+    if False == is_connect:
+        email.send(f"{nowtime} adb 未连接', 'adb连接异常，请重试...")
+
+
+def screen_and_pull(pic_name):
+    """
+    截屏并拉取
+    :return:
+    """
+    os.system(f"adb -s {ipPort} shell screencap -p /sdcard/workspace/shots/{pic_name}")
+    # 后面可以跟路径，没有默认在当前目录下
+    os.system(f"adb -s {ipPort} pull /sdcard/workspace/shots/{pic_name}")
+
+
+def send_daka_image():
+    image_data_list = []
+    with open('./shots/before.png', 'rb') as f:
+        image_data_list.append(f.read())
+    with open('./shots/after.png', 'rb') as f:
+        image_data_list.append(f.read())
+
+    nowtime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+    email.send(f"今日打卡成功：{nowtime}", '截图如下: ', image_data_list=image_data_list)
+
+# 随机时间
+def random_time(start, end):
+    start_time = time.strptime(start, "%H:%M:%S")
+    end_time = time.strptime(end, "%H:%M:%S")
+    
+    start_seconds = time.mktime(start_time)
+    end_seconds = time.mktime(end_time)
+    
+    random_seconds = random.randint(int(start_seconds), int(end_seconds))
+    
+    return time.strftime("%H:%M:%S", time.localtime(random_seconds))
 
 def auto():
-    # 电源键
-    os.system("adb shell input keyevent 26")
-    time.sleep(3)
-    # 屏幕上滑
-    os.system("adb shell input swipe 200 1800 300 1200")
+    if False == is_connect():
+        print(f'adb 连接失败')
 
+    if False == is_screen_power():
+        os.system(f"adb -s {ipPort} shell input keyevent 26")
+    
+    # 滑动解锁，不知道为什么，没有直接在测试的时候好用，所以直接使用菜单键了
+    # os.system(f"adb -s {ipPort} shell input swipe 200 2000 200 100 3000")
+    os.system(f"adb -s {ipPort} shell input keyevent 82")
+
+    time.sleep(5)
+
+    # 密码解锁
+    screen_saver_password = ["280 1150", "520 1150", "280 1150", "520 1150", "750 1900"]
+    for ps in screen_saver_password:
+        os.system(f"adb -s {ipPort} shell input tap {ps}")
+
+    time.sleep(2)
     # home键
-    os.system("adb shell input keyevent 3")
+    os.system(f"adb -s {ipPort} shell input keyevent 3")
+    time.sleep(2)
     # 打开钉钉
-    # os.system("adb shell input tap 96 1112")
-    os.system("adb shell am start com.alibaba.android.rimet/.biz.LaunchHomeActivity")
+    # os.system(f"adb -s {ipPort} shell input tap 96 1112")
+    os.system(f"adb -s {ipPort} shell am start com.alibaba.android.rimet/.biz.LaunchHomeActivity")
     time.sleep(10)
     # 选择工作台
-    os.system("adb shell input tap 527 2140")
-    # 选择打卡
+    os.system(f"adb -s {ipPort} shell input tap 527 2140")
+    # 选择“常用”tab
     time.sleep(10)
-    os.system("adb shell input tap 94 977")
+    os.system(f"adb -s {ipPort} shell input tap 70 380")
+    # 选择“考勤打卡”
+    time.sleep(10)
+    os.system(f"adb -s {ipPort} shell input tap 150 710")
     time.sleep(10)
     # 点击打卡
-    os.system("adb shell input tap 525 1349")
+    screen_and_pull('before.png')
+    os.system(f"adb -s {ipPort} shell input tap 525 1349")
     time.sleep(10)
+    screen_and_pull('after.png')
+    
     # 关闭钉钉
-    os.system("adb shell am force-stop com.alibaba.android.rimet")
+    os.system(f"adb -s {ipPort} shell am force-stop com.alibaba.android.rimet")
     # 电源键，锁屏
-    os.system("adb shell input keyevent 26")
+    os.system(f"adb -s {ipPort} shell input keyevent 26")
     nowtime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
     print(f'{nowtime} 已打卡')
+    send_daka_image()
+
+def is_success_auto_again_or_reset():
+    try:
+        is_again = requests.get(get_dingding_daka_url).json()['is_run_daka_status']
+        print(f"is_again 目前为: {is_again}")
+
+        if is_again:
+            reset_url = set_dingding_daka_url + 'false'
+            response = requests.get(reset_url).json()['is_run_daka_status']
+            print(f"is_again 已重置为: {response}")
+            auto()
+    except Exception as e:
+        print(f"发生错误: {e}")
+        pass
 
 
 if __name__ == "__main__":
-    nowtime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    print(f"{nowtime} 开始执行！")
-    res = os.system("adb devices")
-    print(res)
+    print("开始监测是否连接adb...")
+    is_con = is_connect()
+    # 如果没有连接上，则通过邮箱通知
+    if False == is_con:
+        is_con = connect_adb()
+        is_send_adb_fail_message(is_con)
+    # 如果连接成功，则开始打卡
+    if is_connect:
+        print("等待定时任务执行中...")
+        time.sleep(5)
+        schedule.every(3).minutes.do(log)
+        schedule.every(1).minutes.do(is_success_auto_again_or_reset)
 
-    schedule.every().hours.do(log)
+        # 上班打卡
+        schedule.every().monday.at(random_time("09:00:00", "09:10:00")).do(auto)
+        schedule.every().tuesday.at(random_time("09:00:00", "09:10:00")).do(auto)
+        schedule.every().wednesday.at(random_time("09:00:00", "09:10:00")).do(auto)
+        schedule.every().thursday.at(random_time("09:00:00", "09:10:00")).do(auto)
+        schedule.every().friday.at(random_time("09:00:00", "09:10:00")).do(auto)
 
-    schedule.every().monday.at("08:45:35").do(auto)
-    schedule.every().tuesday.at("08:46:25").do(auto)
-    schedule.every().wednesday.at("08:44:55").do(auto)
-    schedule.every().thursday.at("08:45:15").do(auto)
-    schedule.every().friday.at("08:47:05").do(auto)
+        # 下班打卡
+        schedule.every().monday.at(random_time("18:35:00", "18:40:00")).do(auto)
+        schedule.every().tuesday.at(random_time("18:35:00", "18:40:00")).do(auto)
+        schedule.every().wednesday.at(random_time("18:35:00", "18:40:00")).do(auto)
+        schedule.every().thursday.at(random_time("18:35:00", "18:40:00")).do(auto)
+        schedule.every().friday.at(random_time("18:35:00", "18:40:00")).do(auto)
 
-    schedule.every().monday.at("18:01:05").do(auto)
-    schedule.every().tuesday.at("18:01:16").do(auto)
-    schedule.every().wednesday.at("18:02:01").do(auto)
-    schedule.every().thursday.at("18:01:07").do(auto)
-    schedule.every().friday.at("18:00:59").do(auto)
-
-    schedule.every().monday.at("20:02:11").do(auto)
-    schedule.every().tuesday.at("20:01:26").do(auto)
-    schedule.every().thursday.at("20:04:07").do(auto)
-
-    while True:
-        schedule.run_pending()
-        time.sleep(1)
+        while True:
+            schedule.run_pending()
+            time.sleep(1)
 ```
 
 
