@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "81892cd397d8a8a8",
+        "id": "330624a2276039aa",
         "type": "tabs",
         "children": [
           {
-            "id": "39e790afffda754a",
+            "id": "0581fd867ce291e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/🍔 ADB.md",
+                "file": "日常/Docker 前端 vue 项目打包镜像.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/🍔 ADB.md",
+                "file": "日常/Docker 前端 vue 项目打包镜像.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/🍔 ADB.md",
+                "file": "日常/Docker 前端 vue 项目打包镜像.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/🍔 ADB.md"
+                "file": "日常/Docker 前端 vue 项目打包镜像.md"
               }
             }
           },
@@ -157,8 +156,9 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "39e790afffda754a",
+  "active": "0581fd867ce291e3",
   "lastOpenFiles": [
+    "日常/🍔 ADB.md",
     "日常/Docker 前端 vue 项目打包镜像.md",
     "日常/files/Pasted image 20241009181524.png",
     "日常/files/docker-vscode.gif",
@@ -178,7 +178,6 @@
     "脚本/termux/e.py",
     "脚本/termux/dd.py",
     "脚本/termux",
-    "日常/🍔 ADB.md",
     "日常/NPM 安装依赖.md",
     "日常/阿里云服务器/🍔 阿里云服务器操作.md",
     "行测/资料分析/8. 四大模型总结及公式记忆.md",

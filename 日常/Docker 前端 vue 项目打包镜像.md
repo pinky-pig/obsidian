@@ -94,4 +94,81 @@ docker images
 docker save zkyscreen:latest -o screen.tar
 ```
 
-这样就可以发送给别人了
+这样就可以发送给别人了。
+
+# 在阿里云服务器上运行
+
+因为在我的服务器是 centOS 7 的，部署 node接口，需要直接安装 nodejs，但是 centOS 7 会报一些基础库需要更新，比较麻烦，所以我就索性使用 docker 打个镜像上去运行了。
+
+1. centOS 先安装一个 docker
+
+```bash
+# 更新一下
+sudo yum update
+sudo yum upgrade
+
+# 安装工具包
+sudo yum install -y yum-utils
+
+# 添加阿里云的仓库
+yum-config-manager --add-repo http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
+
+# 安装Docker
+yum install docker-ce docker-ce-cli containerd.io
+
+# 查看 docker 版本
+docker version
+# 查看 docker 运行状态
+systemctl status docker
+
+# 设置开机自启
+systemctl enable docker
+
+# 查看docker启动后运行是否正常
+docker info
+```
+
+
+基础的指令：
+
+```bash
+systemctl start docker （开启）  
+systemctl status docker （状态）  
+systemctl enable docker （开机启动）  
+systemctl disable docker.service （取消开机自启）
+systemctl stop docker （关闭）  
+systemctl restat docker (重启)
+systemctl list-units --type=service （查看当前启动中服务）
+systemctl list-unit-files | grep enable （查看当前所有开机启动服务）
+```
+
+3. 本地先打一个 node 接口的镜像。
+
+```bash
+# 使用官方 Node.js 镜像作为基础镜像
+FROM node:20-alpine AS build-stage
+
+# 设置工作目录
+WORKDIR /usr/share/workspace-express
+
+RUN corepack enable
+
+# 复制 package.json 和 pnpm-lock.yaml（如果有）
+COPY package.json pnpm-lock.yaml ./
+
+# 安装依赖
+RUN --mount=type=cache,id=pnpm-store,target=/root/.pnpm-store \
+  pnpm install --frozen-lockfile
+
+# 复制整个项目
+COPY . .
+
+# 构建项目
+RUN pnpm build
+
+# 暴露端口（根据你的应用）
+EXPOSE 80
+
+# 启动应用
+CMD ["node", "start"]
+```
