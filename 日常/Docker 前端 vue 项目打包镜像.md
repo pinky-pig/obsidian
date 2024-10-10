@@ -196,7 +196,7 @@ systemctl list-unit-files | grep enable （查看当前所有开机启动服务�
 FROM node:20-alpine AS build-stage
 
 # 设置工作目录
-WORKDIR /usr/share/workspace-express
+WORKDIR /app
 
 RUN corepack enable
 
@@ -213,9 +213,71 @@ COPY . .
 # 构建项目
 RUN pnpm build
 
-# 暴露端口（根据你的应用）
-EXPOSE 80
+# 暴露端口（根据你的应用 app.listen）
+EXPOSE 3200
 
 # 启动应用
-CMD ["node", "start"]
+CMD ["node", "dist/index.js"]
 ```
+
+本地跑一下没问题，准备放到服务器上。这里的端口是 3200 ，服务器的这个端口需要暴露出来。
+
+![[Pasted image 20241010161709.png]]
+
+开通端口后，验证一下
+
+```bash
+telnet 47.116.13.177:3200
+```
+
+压缩镜像：
+```bash
+docker save expressjs:latest -o expressjs.tar
+```
+
+放到服务器的某个位置：这里放到 `/usr/share/workspace` 目录下，可以 FileZilla Client 直接上传。
+
+查看 docker 状态
+```bash
+systemctl status docker
+```
+
+启动 Docker 服务（如果未运行）：
+
+```bash
+sudo systemctl start docker
+```
+
+设置 Docker 服务开机启动（可选）：
+
+```bash
+sudo systemctl enable docker
+```
+
+检查镜像：
+
+```bash
+docker images
+```
+
+加载镜像：
+```bash
+# 加载
+docker load -i /usr/share/workspace/expressjs.tar
+# 查看是否加载上去
+docker images
+```
+
+运行容器：
+```bash
+docker run --rm -d -p 3200:3200 expressjs:latest
+```
+
+查看运行状态：
+```bash
+docker ps
+```
+
+ok，部署完成！
+
+![[Pasted image 20241010160815.png]]
