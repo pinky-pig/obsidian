@@ -7,7 +7,7 @@ os: windows
 
 **windows：**
 1. 安装
-直接[官网](https://www.docker.com/) 下载安装，跟安装普通软件一样。
+直接[官网](https://docs.docker.com/desktop/release-notes/#new-6) 下载安装，跟安装普通软件一样，我没有使用最新版，使用的是 4.29.0版本的。
 
 安装好后会重启电脑，启动后终端查看版本。
 
@@ -20,9 +20,7 @@ docker -v
 
 ![[Pasted image 20241009173300.png]]
 
-可以先看上一章安装 wsl ，安装 docker 的时候，会默认安装到 wsl 文件夹。wsl 默认到 c 盘，所以 docker 会默认到 c 盘，这不太合适。
-
-上一章将 wsl 放到了 D 盘，然后这里将 docker ，放到 D 盘，总体思路差不多。
+跟 wsl 一样，docker 默认也都是到 c 盘，不太合适。所以也跟上一章将 wsl 放到了 D 盘一样，这里将 docker 放到 D 盘，总体思路差不多。
 
 主要是 docker-desktop 软件运行的时候的数据`docker_data.vhdx`比较大，默认路径会放在`C:\Users\Admin\AppData\Local\Docker\wsl\disk` 中。
 
@@ -30,7 +28,40 @@ docker -v
 
 ![[Pasted image 20241010143404.png]]
 
+3.2 在终端输入
+```bash
+wsl -l -v
+```
 
+![[Pasted image 20241010150027.png]]
+
+这里正在运行的有三个，其中两个 docker ，而其中占体积最大的就是这个 docker-desktop-data 。
+
+3.3 先关闭服务
+
+```bash
+wsl --shutdown
+```
+
+3.4 跟之前迁移 wsl 一样的路子，先打包导出，然后取消注册，再导入打包后的
+
+```bash
+# 导出
+wsl --export docker-desktop-data D:\docker-desktop-data.tar
+wsl --export docker-desktop D:\docker-desktop.tar
+
+# 取消注册
+wsl --unregister docker-desktop-data
+wsl --unregister docker-desktop
+
+# 导入
+wsl --import docker-desktop-data D:\wsl\docker-desktop-data D:\docker-desktop-data.tar
+wsl --import docker-desktop D:\wsl\docker-desktop D:\docker-desktop.tar
+```
+
+查看一下 `D:\wsl\docker-desktop-data` 和 `D:\wsl\docker-desktop` 目录下是否有数据，应该都是 `ext4.vhdx` 。这样就是迁移到 D 盘了，docker 运行过程中产生的数据也都在这里了。
+
+![[Pasted image 20241010152701.png]]
 
 4. docker 设置
 因为国内镜像源都挂了，所以还是用官方的吧。
@@ -174,7 +205,7 @@ COPY package.json pnpm-lock.yaml ./
 
 # 安装依赖
 RUN --mount=type=cache,id=pnpm-store,target=/root/.pnpm-store \
-  pnpm install --frozen-lockfile
+  pnpm install --force
 
 # 复制整个项目
 COPY . .
