@@ -99,3 +99,25 @@ node -v
 # npm 版本
 npm -v
 ```
+
+
+# 迁移到 D 盘
+
+因为默认是安装到 C 盘的，但是很明显不合适，没那么大的内存。
+
+1. 如果 wsl 运行了，那么先停止
+```
+wsl --shutdown
+```
+2. 导出为压缩包
+```bash
+wsl --export Ubuntu D:/export.tar
+```
+3. 导出完成之后，将原有的Linux卸载
+```bash
+wsl --unregister Ubuntu
+```
+4. 然后将导出的文件放到需要保存的地方，进行导入即可
+```bash
+wsl --import Ubuntu D:\export\ D:\export.tar --version 2
+```

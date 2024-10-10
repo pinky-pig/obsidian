@@ -9,7 +9,7 @@ os: windows
 1. 安装
 直接[官网](https://www.docker.com/) 下载安装，跟安装普通软件一样。
 
-安装好后会重启电脑，启动后终端查看版本
+安装好后会重启电脑，启动后终端查看版本。
 
 ```bash
 # 会输出：Docker version 27.2.0, build 3ab4256
@@ -19,6 +19,8 @@ docker -v
 运行界面：
 
 ![[Pasted image 20241009173300.png]]
+
+可以先看上一章安装 wsl ，安装 docker 的时候，会默认安装到 wsl 文件夹。wsl 默认到 c 盘，所以 docker 会默认到 c 盘，这不太合适。
 
 2. docker 设置
 因为国内镜像源都挂了，所以还是用官方的吧。
@@ -31,6 +33,7 @@ set http_proxy=http://127.0.0.1:7890
 set https_proxy=http://127.0.0.1:7890
 ```
 
+一般开了 clash 代理后，vscode 的 docker 插件还是拉官方镜像的时候，网络不行，那就照图下设置代理：http://127.0.0.1:7890
 
 ![[Pasted image 20241009173543.png]]
 
