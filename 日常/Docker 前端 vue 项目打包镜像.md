@@ -22,7 +22,15 @@ docker -v
 
 可以先看上一章安装 wsl ，安装 docker 的时候，会默认安装到 wsl 文件夹。wsl 默认到 c 盘，所以 docker 会默认到 c 盘，这不太合适。
 
-2. docker 设置
+上一章将 wsl 放到了 D 盘，然后这里将 docker ，放到 D 盘。
+1. 先在 D盘建一个 `D:\Program Files\Docker` 目录
+2. 开始—“Windows系统”—“命令提示符”，一定要以管理员身份运行，然后，再运行如下命令建立软连接：
+```bash
+mklink /J "C:\Program Files\Docker"  "D:\Program Files\Docker"
+```
+3. 跟上面的一样去安装 docker
+
+4. docker 设置
 因为国内镜像源都挂了，所以还是用官方的吧。
 拉镜像的时候，网络不佳需要设置代理。
 
@@ -37,7 +45,10 @@ set https_proxy=http://127.0.0.1:7890
 
 ![[Pasted image 20241009173543.png]]
 
-如果需要设置 dns 的话，是在上图的 “Docker Engine” 中的 json 内容设置。
+接下来设置 images 的保存地址，在如下图所示的地方修改位置：
+
+![[Pasted image 20241010115246.png]]
+
 
 3. vscode 安装 docker 插件
 
