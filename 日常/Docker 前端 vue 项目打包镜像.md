@@ -22,13 +22,15 @@ docker -v
 
 可以先看上一章安装 wsl ，安装 docker 的时候，会默认安装到 wsl 文件夹。wsl 默认到 c 盘，所以 docker 会默认到 c 盘，这不太合适。
 
-上一章将 wsl 放到了 D 盘，然后这里将 docker ，放到 D 盘。
-1. 先在 D盘建一个 `D:\Program Files\Docker` 目录
-2. 开始—“Windows系统”—“命令提示符”，一定要以管理员身份运行，然后，再运行如下命令建立软连接：
-```bash
-mklink /J "C:\Program Files\Docker"  "D:\Program Files\Docker"
-```
-3. 跟上面的一样去安装 docker
+上一章将 wsl 放到了 D 盘，然后这里将 docker ，放到 D 盘，总体思路差不多。
+
+主要是 docker-desktop 软件运行的时候的数据`docker_data.vhdx`比较大，默认路径会放在`C:\Users\Admin\AppData\Local\Docker\wsl\disk` 中。
+
+3.1 首先启用这个
+
+![[Pasted image 20241010143404.png]]
+
+
 
 4. docker 设置
 因为国内镜像源都挂了，所以还是用官方的吧。
