@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "330624a2276039aa",
+        "id": "3203f2590d05309f",
         "type": "tabs",
         "children": [
           {
-            "id": "0581fd867ce291e3",
+            "id": "dff04b6fcdbf6b51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/ADB钉钉打卡.md",
+                "file": "日记/2024-10-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/ADB钉钉打卡.md",
+                "file": "日记/2024-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/ADB钉钉打卡.md",
+                "file": "日记/2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/ADB钉钉打卡.md"
+                "file": "日记/2024-10-14.md"
               }
             }
           },
@@ -156,8 +156,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "0581fd867ce291e3",
+  "active": "dff04b6fcdbf6b51",
   "lastOpenFiles": [
+    "日记/2024-10-14.md",
+    "日常/ADB钉钉打卡.md",
     "日常/Docker 前端 vue 项目打包镜像.md",
     "日常/files/Pasted image 20241010161709.png",
     "日常/files/Pasted image 20241010160815.png",
@@ -168,7 +170,6 @@
     "日常/WSL 使用.md",
     "日常/NPM 安装依赖.md",
     "日常/files/Pasted image 20241010115246.png",
-    "日常/ADB钉钉打卡.md",
     "日常/files/Pasted image 20241009181524.png",
     "日常/files/docker-vscode.gif",
     "日常/files/Pasted image 20241009174200.png",
