@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-10-14.md",
+                "file": "日常/调试 Electron 软件.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adb ",
+                "query": "electron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-10-14.md",
+                "file": "日常/调试 Electron 软件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-10-14.md",
+                "file": "日常/调试 Electron 软件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-10-14.md"
+                "file": "日常/调试 Electron 软件.md"
               }
             }
           },
@@ -158,6 +159,7 @@
   },
   "active": "dff04b6fcdbf6b51",
   "lastOpenFiles": [
+    "日记/2024-07-08.md",
     "日记/2024-10-14.md",
     "日常/ADB钉钉打卡.md",
     "日常/Docker 前端 vue 项目打包镜像.md",
@@ -199,7 +201,6 @@
     "Shader/SQL/0. Mac 上 MySQL.md",
     "软件/🍔  Mine.md",
     "行测/资料分析/12. 设问转化.md",
-    "TODO/🌸 Idea.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "行测/资料分析/files",
