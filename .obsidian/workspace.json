@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3203f2590d05309f",
+        "id": "de9ca468fad4af15",
         "type": "tabs",
         "children": [
           {
-            "id": "dff04b6fcdbf6b51",
+            "id": "b4bee6c7f371a511",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日常/调试 Electron 软件.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "调试 Electron 软件"
-            }
-          },
-          {
-            "id": "162158a5f7195ca9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +69,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/调试 Electron 软件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "调试 Electron 软件 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -126,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/调试 Electron 软件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "调试 Electron 软件 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -152,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日常/调试 Electron 软件.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "调试 Electron 软件 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -188,8 +166,9 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "162158a5f7195ca9",
+  "active": "f6323fc5d23549f4",
   "lastOpenFiles": [
+    "日常/调试 Electron 软件.md",
     "日记/2024-07-08.md",
     "日记/2024-10-14.md",
     "日常/ADB钉钉打卡.md",
@@ -231,7 +210,6 @@
     "Rust/1. 起步.md",
     "Shader/SQL/0. Mac 上 MySQL.md",
     "软件/🍔  Mine.md",
-    "行测/资料分析/12. 设问转化.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "行测/资料分析/files",
