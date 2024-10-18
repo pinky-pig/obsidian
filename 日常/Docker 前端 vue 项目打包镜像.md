@@ -245,6 +245,10 @@ systemctl status docker
 启动 Docker 服务（如果未运行）：
 
 ```bash
+# 如果之前有运行的这个 docker ，先删掉
+docker images 
+docker rmi <images_id>
+docker images
 sudo systemctl start docker
 ```
 
