@@ -77,6 +77,7 @@ tail -f log.log
 跟上面的 termux 步骤一样，不过电脑重启的话，无线调试会断开。但是只要之前配对过，那么电脑会自动保存信息，只需要执行 connect 就好了。
 
 ```bash
+# adb connect 192.168.124.24:37561
 adb connect <设备IP地址>:<端口>
 ```
 
