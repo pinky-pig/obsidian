@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/Cesium.md",
+                "file": "日常/案例.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cesium"
+              "title": "案例"
             }
           }
         ]
@@ -173,7 +173,7 @@
   "active": "7bc70ac51101bed1",
   "lastOpenFiles": [
     "日常/Windows 快捷.md",
-    "日常/Cesium.md",
+    "日常/案例.md",
     "日常/将本地端口映射到https.md",
     "日常/ADB钉钉打卡.md",
     "脚本/termux/3. 钉钉打卡.md",
