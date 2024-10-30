@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/案例.md",
+                "file": "日常/🍔 前端开发.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "案例"
+              "title": "🍔 前端开发"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adb push",
+                "query": "ignore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,6 +173,7 @@
   },
   "active": "7bc70ac51101bed1",
   "lastOpenFiles": [
+    "日常/案例.md",
     "日常/将本地端口映射到https.md",
     "日常/Docker 前端 vue 项目打包镜像.md",
     "日常/NPM 安装依赖.md",
@@ -179,7 +181,6 @@
     "日常/Windows 快捷.md",
     "日常/调试 Electron 软件.md",
     "日常/ADB钉钉打卡.md",
-    "日常/案例.md",
     "脚本/termux/3. 钉钉打卡.md",
     "脚本/termux/1. 发送邮件.md",
     "日常/🍔 前端开发.md",
