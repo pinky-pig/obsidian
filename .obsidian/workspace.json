@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e6c5cca907c9721b",
+        "id": "ae713ffc77eb48f1",
         "type": "tabs",
         "children": [
           {
-            "id": "7bc70ac51101bed1",
+            "id": "1fc535385d57842f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/🍔 Git.md",
+                "file": "日常/案例.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🍔 Git"
+              "title": "案例"
             }
           }
         ]
@@ -170,8 +170,9 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "7bc70ac51101bed1",
+  "active": "1fc535385d57842f",
   "lastOpenFiles": [
+    "技术/🍔 Git.md",
     "日常/🍔 前端开发.md",
     "日常/案例.md",
     "日常/将本地端口映射到https.md",
@@ -213,7 +214,6 @@
     "行测/资料分析/4. 乘积增长率 A*B.md",
     "行测/资料分析/3. 平均数增长率 A÷B (两期变化率).md",
     "行测/资料分析/2. 基期比重 A÷B.md",
-    "行测/资料分析/6. 基期差 A-B.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "行测/资料分析/files",
