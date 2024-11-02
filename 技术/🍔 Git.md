@@ -136,3 +136,29 @@ git checkout folder/filename.xx
 # 放弃 指定文件夹 修改、删除
 git checkout directory
 ```
+
+### Stash
+1. **查看 Stash 列表**： 使用以下命令查看你所有的 stash 条目：
+    
+    `git stash list`
+    
+2. **应用 Stash**： 如果你找到合适的 stash 条目（通常是最新的 stash 是 `stash@{0}`），可以使用以下命令将其应用到当前分支：
+    
+    `git stash apply stash
+    
+    如果你只想查看 stash 的内容，可以使用：
+    
+    `git stash show -p stash`
+    
+3. **确认更改**： 应用 stash 后，检查你的文件，确保所有更改都已恢复。
+    
+4. **再次提交**： 如果一切正常，记得再次添加更改并提交：
+    
+    `git add . git commit -m "你的提交信息"`
+    
+5. **清理 Stash**（可选）： 如果你成功应用了 stash，并且不再需要它，可以删除该 stash：
+    
+    `git stash drop stash@{0}`
+    
+
+如果你遇到任何错误或需要进一步的帮助，请提供更多的上下文信息。
