@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "squash",
+                "query": "cursor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "df6cddb1c9ecaa32",
+  "active": "abda44a360a55385",
   "lastOpenFiles": [
     "技术/🍔 Git.md",
     "日常/阿里云服务器/🍔 阿里云服务器操作.md",
