@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4ccff8afea8b40e5",
+        "id": "f25fea006f31ea5e",
         "type": "tabs",
         "children": [
           {
-            "id": "df6cddb1c9ecaa32",
+            "id": "f28bf7b123bbdb4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "行测/资料分析/4. 乘积增长率 AxB.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "4. 乘积增长率 AxB"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -69,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "行测/资料分析/4. 乘积增长率 AxB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "4. 乘积增长率 AxB 的反向链接列表"
             }
           },
           {
@@ -133,32 +138,52 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "行测/资料分析/4. 乘积增长率 AxB.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "4. 乘积增长率 AxB 的大纲"
+            }
+          },
+          {
+            "id": "2654214b054d6d6f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "abda44a360a55385",
+  "active": "f28bf7b123bbdb4c",
   "lastOpenFiles": [
+    "行测/资料分析基础/1. 基础概览.md",
+    "行测/资料分析/1. 增长量.md",
+    "行测/资料分析基础",
+    "行测/资料分析/未命名.md",
+    "行测/资料分析/基期差.md",
     "技术/🍔 Git.md",
     "日常/阿里云服务器/🍔 阿里云服务器操作.md",
     "日常/NPM 安装依赖.md",
@@ -193,10 +218,6 @@
     "行测/资料分析/7. 比重差 A-B (两期变化量).md",
     "行测/资料分析/5. 混合增长率 A+B.md",
     "行测/资料分析/4. 乘积增长率 A*B.md",
-    "行测/资料分析/3. 平均数增长率 A÷B (两期变化率).md",
-    "行测/资料分析/2. 基期比重 A÷B.md",
-    "行测/资料分析/6. 基期差 A-B.md",
-    "行测/资料分析/9. 隔年增长率.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "行测/资料分析/files",
@@ -205,7 +226,6 @@
     "Rust",
     "Shader/SQL",
     "Java",
-    "数学/files",
-    "数学"
+    "数学/files"
   ]
 }
