@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "b1f2bd4f5f051680",
+            "id": "8ee0a0cf9e2a528d",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.8.7"
+                "currentVersion": "1.8.9"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "Release Notes 1.8.9"
             }
           }
         ],
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stash",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +87,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,7 +175,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "abda44a360a55385",
+  "active": "8ee0a0cf9e2a528d",
   "lastOpenFiles": [
     "技术/🍔 Git.md",
     "日常/阿里云服务器/🍔 阿里云服务器操作.md",
