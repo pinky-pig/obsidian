@@ -3,7 +3,7 @@
   "cssTheme": "Things",
   "theme": "obsidian",
   "translucency": false,
-  "textFontFamily": "LXGW WenKai GB Screen",
-  "interfaceFontFamily": "LXGW WenKai GB Screen",
-  "baseFontSize": 21
+  "textFontFamily": "LXGW WenKai GB Screen,Inter",
+  "interfaceFontFamily": "LXGW WenKai GB Screen,Inter",
+  "baseFontSize": 16
 }
