@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3786c4932b4469d6",
+        "id": "17ee45ac9657b221",
         "type": "tabs",
         "children": [
           {
-            "id": "6d9846f138c3585b",
+            "id": "886d57f385ff23a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/🍔 前端开发.md",
+                "file": "行测/资料分析/1. 增长量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🍔 前端开发"
+              "title": "1. 增长量"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,11 +162,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6d9846f138c3585b",
+  "active": "886d57f385ff23a6",
   "lastOpenFiles": [
+    "日常/🍔 前端开发.md",
     "插件/ESLint 插件/ESLint.md",
     "技术/模板/🍔 VS Code settings.md",
-    "日常/🍔 前端开发.md",
     "技术/分析b站探店视频中的店铺/1. 思路.md",
     "技术/分析b站探店视频中的店铺",
     "技术/🍔 Git.md",
