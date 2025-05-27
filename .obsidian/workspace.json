@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/资料分析/2. 基期比重 A÷B.md",
+                "file": "行测/资料分析/1. 增长量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 基期比重 A÷B"
+              "title": "1. 增长量"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5024719238281
+    "width": 473.5024719238281
   },
   "right": {
     "id": "538a10e127af2724",
@@ -164,9 +164,9 @@
   },
   "active": "886d57f385ff23a6",
   "lastOpenFiles": [
+    "行测/资料分析/2. 基期比重 A÷B.md",
     "行测/资料分析/1. 增长量.md",
     "行测/判断推理/1. 基础.md",
-    "行测/资料分析/2. 基期比重 A÷B.md",
     "行测/判断推理",
     "Shader/案例-创建下雨效果/1. 创建点、线、面.md",
     "行测/资料分析基础/1. 基础概览.md",
