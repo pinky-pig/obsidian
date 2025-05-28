@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/资料分析/2. 基期比重 A÷B.md",
+                "file": "技术/🍔 Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 基期比重 A÷B"
+              "title": "🍔 Git"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "倍数",
+                "query": "squash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,11 +163,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "886d57f385ff23a6",
+  "active": "abda44a360a55385",
   "lastOpenFiles": [
+    "行测/资料分析/2. 基期比重 A÷B.md",
     "行测/资料分析基础/1. 基础概览.md",
     "行测/资料分析/3. 平均数增长率 A÷B (两期变化率).md",
-    "行测/资料分析/2. 基期比重 A÷B.md",
     "行测/资料分析/1. 增长量.md",
     "行测/判断推理/1. 基础.md",
     "行测/判断推理",
