@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "1.生成贴纸"
             }
+          },
+          {
+            "id": "8d2ef9690b5b8b57",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,6 +165,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
@@ -162,7 +176,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ec32e6d38ba1d820",
+  "active": "8d2ef9690b5b8b57",
   "lastOpenFiles": [
     "AI 应用/镜头/1.中景.md",
     "AI 应用/Nano Banana/1.生成贴纸.md",
