@@ -32,9 +32,21 @@
               "icon": "lucide-book-up",
               "title": "版本说明 1.9.14"
             }
+          },
+          {
+            "id": "442a8539a72ef627",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +188,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8d2ef9690b5b8b57",
+  "active": "442a8539a72ef627",
   "lastOpenFiles": [
     "AI 应用/镜头/1.中景.md",
     "AI 应用/Nano Banana/1.生成贴纸.md",
