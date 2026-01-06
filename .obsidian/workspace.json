@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt/Veo3 根据「情绪文案」生成视频.md",
+                "file": "Prompt/图片转成诗（带场景分析）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Veo3 根据「情绪文案」生成视频"
+              "title": "图片转成诗（带场景分析）"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.50247192382812,
-    "collapsed": true
+    "width": 237.50247192382812
   },
   "right": {
     "id": "538a10e127af2724",
@@ -139,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompt/Veo3 根据「情绪文案」生成视频.md",
+                "file": "Prompt/图片转成诗（带场景分析）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Veo3 根据「情绪文案」生成视频 的大纲"
+              "title": "图片转成诗（带场景分析） 的大纲"
             }
           }
         ],
@@ -172,6 +171,7 @@
   "active": "523673e148659471",
   "lastOpenFiles": [
     "Prompt/Veo3 根据「情绪文案」生成视频.md",
+    "Prompt/图片转成诗（带场景分析）.md",
     "未命名.base",
     "README.md",
     "总览.canvas",
