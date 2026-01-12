@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt/生成中国画 - 踏雪寻梅.md",
+                "file": "Prompt/生成周易 64 卦.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "生成中国画 - 踏雪寻梅"
+              "title": "生成周易 64 卦"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "523673e148659471",
   "lastOpenFiles": [
-    "Prompt/东北雨姐本姐技术大拿.md",
     "Prompt/生成中国画 - 踏雪寻梅.md",
+    "Prompt/生成周易 64 卦.md",
+    "Prompt/东北雨姐本姐技术大拿.md",
     "未命名.base",
     "Prompt/图片转成诗（带场景分析）.md",
     "Prompt/Veo3 根据「情绪文案」生成视频.md",
@@ -203,7 +204,6 @@
     "技术/分析b站探店视频中的店铺",
     "日常/阿里云服务器/🍔 阿里云服务器操作.md",
     "日常/NPM 安装依赖.md",
-    "行测/资料分析/4. 乘积增长率 AxB.md",
     "脚本/termux",
     "日常/files/Pasted image 20241009173543.png",
     "日常/files/docker-vscode.gif",
