@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/Postly.md",
+                "file": "地图/下载好看的带名称的和省界的地图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Postly"
+              "title": "下载好看的带名称的和省界的地图"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "082e63c53d5e15eb",
   "lastOpenFiles": [
-    "软件/🍔  Mine.md",
     "TODO/Postly.md",
+    "地图/下载好看的带名称的和省界的地图.md",
+    "软件/🍔  Mine.md",
     "AI 应用/Web-to-API wrapping：.md",
     "Prompt/生成周易 64 卦.md",
     "Prompt/生成中国画 - 踏雪寻梅.md",
@@ -202,7 +203,6 @@
     "行测/判断推理",
     "日常/🍔 前端开发.md",
     "插件/ESLint 插件/ESLint.md",
-    "技术/模板/🍔 VS Code settings.md",
     "技术/分析b站探店视频中的店铺",
     "脚本/termux",
     "日常/files/Pasted image 20241009173543.png",
