@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "地图/下载好看的带名称的和省界的地图.md",
+                "file": "地图/1. 创建自己的地图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "下载好看的带名称的和省界的地图"
+              "title": "1. 创建自己的地图"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "082e63c53d5e15eb",
   "lastOpenFiles": [
-    "TODO/Postly.md",
     "地图/下载好看的带名称的和省界的地图.md",
+    "TODO/Postly.md",
     "软件/🍔  Mine.md",
     "AI 应用/Web-to-API wrapping：.md",
     "Prompt/生成周易 64 卦.md",
