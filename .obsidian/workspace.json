@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt/生成一个 logo.md",
+                "file": "Prompt/网页设计 prompt 复古 windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "生成一个 logo"
+              "title": "网页设计 prompt 复古 windows"
             }
           }
         ]
@@ -170,12 +170,14 @@
   },
   "active": "2e954342affba9a4",
   "lastOpenFiles": [
+    "Prompt/网页设计 prompt sketch.md",
+    "Prompt/网页设计 prompt 复古 windows.md",
+    "Prompt/网页设计 ux-ui-pro.md",
+    "Prompt/生成一个 logo.md",
     "Prompt/生成中国画 - 踏雪寻梅.md",
     "Prompt/生成周易 64 卦.md",
     "Prompt/图片转成诗（带场景分析）.md",
     "Prompt/Veo3 根据「情绪文案」生成视频.md",
-    "Prompt/UI 设计 ux-ui-pro.md",
-    "Prompt/生成一个 logo.md",
     "地图/1. 创建自己的地图.md",
     "地图/下载好看的带名称的和省界的地图.md",
     "TODO/Postly.md",
@@ -200,8 +202,6 @@
     "技术/🍔 Git.md",
     "行测/资料分析/2. 基期比重 A÷B.md",
     "行测/资料分析基础/1. 基础概览.md",
-    "行测/资料分析/3. 平均数增长率 A÷B (两期变化率).md",
-    "行测/资料分析/1. 增长量.md",
     "行测/判断推理",
     "技术/分析b站探店视频中的店铺",
     "脚本/termux",
