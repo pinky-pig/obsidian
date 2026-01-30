@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "网页设计 prompt 复古 windows"
             }
+          },
+          {
+            "id": "3a527c814a4b57bd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +181,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2e954342affba9a4",
+  "active": "3a527c814a4b57bd",
   "lastOpenFiles": [
     "Prompt/网页设计 prompt sketch.md",
     "Prompt/网页设计 prompt 复古 windows.md",
