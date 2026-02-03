@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "网页设计 prompt 复古 windows"
             }
-          },
-          {
-            "id": "3a527c814a4b57bd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,11 +168,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3a527c814a4b57bd",
+  "active": "2e954342affba9a4",
   "lastOpenFiles": [
     "Prompt/网页设计 prompt sketch.md",
-    "Prompt/网页设计 prompt 复古 windows.md",
     "Prompt/网页设计 ux-ui-pro.md",
+    "Prompt/网页设计 prompt 复古 windows.md",
     "Prompt/生成一个 logo.md",
     "Prompt/生成中国画 - 踏雪寻梅.md",
     "Prompt/生成周易 64 卦.md",
