@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt/网页设计 prompt 复古 windows.md",
+                "file": "Prompt/网页设计 react 技术栈.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网页设计 prompt 复古 windows"
+              "title": "网页设计 react 技术栈"
             }
           }
         ]
@@ -170,9 +170,10 @@
   },
   "active": "2e954342affba9a4",
   "lastOpenFiles": [
+    "Prompt/网页设计 prompt 复古 windows.md",
+    "Prompt/网页设计 react 技术栈.md",
     "Prompt/网页设计 prompt sketch.md",
     "Prompt/网页设计 ux-ui-pro.md",
-    "Prompt/网页设计 prompt 复古 windows.md",
     "Prompt/生成一个 logo.md",
     "Prompt/生成中国画 - 踏雪寻梅.md",
     "Prompt/生成周易 64 卦.md",
@@ -201,7 +202,6 @@
     "随笔/如何复刻本博客，免费快速部署.md",
     "技术/🍔 Git.md",
     "行测/资料分析/2. 基期比重 A÷B.md",
-    "行测/资料分析基础/1. 基础概览.md",
     "行测/判断推理",
     "技术/分析b站探店视频中的店铺",
     "脚本/termux",
