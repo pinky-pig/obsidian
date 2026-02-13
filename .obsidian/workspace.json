@@ -11,10 +11,14 @@
             "id": "7f58d3bd272a8a34",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Prompt/生成金属校徽徽章.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "生成金属校徽徽章"
             }
           }
         ]
@@ -166,6 +170,7 @@
   },
   "active": "7f58d3bd272a8a34",
   "lastOpenFiles": [
+    "Prompt/生成金属校徽徽章.md",
     "Prompt/网页设计 react 技术栈.md",
     "Prompt/网页设计 prompt 复古 windows.md",
     "Prompt/网页设计 prompt sketch.md",
@@ -197,7 +202,6 @@
     "AI 应用",
     "随笔/如何复刻本博客，免费快速部署.md",
     "技术/🍔 Git.md",
-    "行测/资料分析/2. 基期比重 A÷B.md",
     "行测/判断推理",
     "技术/分析b站探店视频中的店铺",
     "脚本/termux",
