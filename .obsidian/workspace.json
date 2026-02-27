@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e9924344886e43f7",
+        "id": "e3ae9ef2be4e05df",
         "type": "tabs",
         "children": [
           {
-            "id": "0198233a23b9a6fe",
+            "id": "07487fde7445e295",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI 应用/小说/关键词.md",
+                "file": "Prompt/生成金属校徽徽章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关键词"
+              "title": "生成金属校徽徽章"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.50247192382812,
-    "collapsed": true
+    "width": 334.5
   },
   "right": {
     "id": "538a10e127af2724",
@@ -179,10 +178,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0198233a23b9a6fe",
+  "active": "07487fde7445e295",
   "lastOpenFiles": [
-    "行测/资料分析基础/2. 计算复习.md",
     "AI 应用/小说/关键词.md",
+    "行测/资料分析基础/2. 计算复习.md",
     "AI 应用/小说",
     "未命名 1.base",
     "日记/2026-02-24.md",
