@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "美股期权 qqq"
             }
+          },
+          {
+            "id": "7e96bdcfed1d44a3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "755626d0d8f1fd59",
+  "active": "7e96bdcfed1d44a3",
   "lastOpenFiles": [
     "财务/美股期权 qqq.md",
     "财务",
