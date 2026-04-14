@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "072f03212d663139",
+        "id": "dac6b33fa1b2ccdf",
         "type": "tabs",
         "children": [
           {
-            "id": "ad43a5be07152c74",
+            "id": "b6ade8719713f895",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Prompt/一句话解决codex切换供应商旧会话消失问题.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "一句话解决codex切换供应商旧会话消失问题"
             }
           }
         ]
@@ -174,8 +178,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ad43a5be07152c74",
+  "active": "b6ade8719713f895",
   "lastOpenFiles": [
+    "Prompt/一句话解决codex切换供应商旧会话消失问题.md",
     "日常/🍔 前端开发.md",
     "财务/美股期权 qqq.md",
     "财务",
@@ -207,7 +212,6 @@
     "README.md",
     "总览.canvas",
     "Prompt",
-    "AI 应用/Nano Banana/1.生成贴纸.md",
     "AI 应用/Nano Banana",
     "AI 应用/镜头",
     "AI 应用",
