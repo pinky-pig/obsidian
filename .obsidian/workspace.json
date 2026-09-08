@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e7471ed52e428a67",
+        "id": "48c529950bb47a3e",
         "type": "tabs",
         "children": [
           {
-            "id": "744c07a4639c3d79",
+            "id": "8a034e3dc8a6638d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/日记/2026/2026-09-07.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-09-07"
+              "title": "新标签页"
             }
           }
         ]
@@ -55,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "squash",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,8 +188,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "744c07a4639c3d79",
+  "active": "f6323fc5d23549f4",
   "lastOpenFiles": [
+    "obsidian/日记/assets/20231015钟山灵谷路1.webp",
+    "obsidian/日记/2026/2026-04-27.md",
+    "obsidian/日记/2023/2023-03-13.md",
     "obsidian/日记/2026/2026-09-07.md",
     "obsidian/博客/assets/README.md",
     "obsidian/日记/assets/README.md",
@@ -230,9 +229,6 @@
     "obsidian/博客/09-SVG创建画布-缩放平移自适应窗口.md",
     "obsidian/博客/08-简单使用贝塞尔曲线构造弯曲箭头.md",
     "obsidian/博客/07-简单创建时间轴效果.md",
-    "obsidian/博客/06-高德地图API使用Threejs加载GLTF模型并设置模型朝向角.md",
-    "obsidian/博客/04-Nuxt3博客主题.md",
-    "obsidian/博客/03-其他颜色.md",
     "obsidian/博客",
     "obsidian/assets/视频(2).mp4",
     "obsidian/assets",
